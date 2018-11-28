@@ -1,0 +1,795 @@
+﻿Log file open, 11/28/18 16:11:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UnrealHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.232994
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.345s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Software/Unreal/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.28-21.11.10:038][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-21.11.10:038][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.28-21.11.10:051][  0]LogHAL: Display: Platform has ~ 8 GB [8449904640 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.28-21.11.10:051][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.28-21.11.10:051][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.28-21.11.10:052][  0]LogInit: Computer: DESKTOP-LQ8KI8D
+[2018.11.28-21.11.10:052][  0]LogInit: User: 45188
+[2018.11.28-21.11.10:052][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.28-21.11.10:052][  0]LogInit: High frequency timer resolution =2.437500 MHz
+[2018.11.28-21.11.10:052][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.28-21.11.10:052][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.28-21.11.10:052][  0]LogMemory: Process Physical Memory: 101.13 MB used, 101.13 MB peak
+[2018.11.28-21.11.10:052][  0]LogMemory: Process Virtual Memory: 92.81 MB used, 92.81 MB peak
+[2018.11.28-21.11.10:052][  0]LogMemory: Physical Memory: 5456.31 MB used,  2602.15 MB free, 8058.46 MB total
+[2018.11.28-21.11.10:052][  0]LogMemory: Virtual Memory: 4633.74 MB used,  2602.15 MB free, 134217728.00 MB total
+[2018.11.28-21.11.10:098][  0]LogInit: Using OS detected language (en-US).
+[2018.11.28-21.11.10:098][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.11.28-21.11.10:099][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.28-21.11.10:483][  0]LogStreaming: Display: Took  0.384s to InitEngineTextLocalization.
+[2018.11.28-21.11.10:483][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.28-21.11.10:515][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.28-21.11.10:515][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.28-21.11.10:742][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.28-21.11.10:742][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.28-21.11.10:850][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.11.28-21.11.10:850][  0]LogD3D11RHI:       4019/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.28-21.11.10:870][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.28-21.11.10:870][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.28-21.11.10:873][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.28-21.11.10:873][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.28-21.11.10:873][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.28-21.11.10:909][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.28-21.11.10:909][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.11.28-21.11.10:909][  0]LogWindows: EnumDisplayDevices:
+[2018.11.28-21.11.10:910][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.28-21.11.10:911][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.28-21.11.10:912][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.28-21.11.10:913][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.28-21.11.10:914][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.28-21.11.10:914][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.11.28-21.11.10:914][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2018.11.28-21.11.10:914][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2018.11.28-21.11.10:914][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2018.11.28-21.11.10:954][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.28-21.11.10:972][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.28-21.11.10:973][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Intermediate/Shaders/WorkingDirectory/7500/).
+[2018.11.28-21.11.10:974][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/45188/AppData/Local/Temp/UnrealShaderWorkingDir/1CD165AA460B6BE378223FB7C2332EFF/'.
+[2018.11.28-21.11.11:424][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.28-21.11.11:438][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.28-21.11.11:452][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.28-21.11.11:465][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.28-21.11.11:480][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.28-21.11.11:496][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.28-21.11.11:511][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.28-21.11.11:525][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.28-21.11.11:532][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-21.11.11:625][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.28-21.11.11:692][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-21.11.11:692][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-21.11.11:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-21.11.11:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-21.11.11:733][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.28-21.11.11:747][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.28-21.11.11:761][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.28-21.11.11:776][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.28-21.11.11:787][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.28-21.11.11:787][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.28-21.11.11:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.28-21.11.11:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.28-21.11.11:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.28-21.11.12:688][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.28-21.11.12:752][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/45188/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-21.11.12:753][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/45188/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.28-21.11.12:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.28-21.11.12:753][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.28-21.11.12:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.28-21.11.12:753][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.28-21.11.12:767][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.28-21.11.12:781][  0]LogDerivedDataCache: Using Local data cache path C:/Users/45188/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.28-21.11.12:781][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.28-21.11.12:781][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.28-21.11.12:801][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.28-21.11.12:803][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.28-21.11.12:804][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.28-21.11.12:881][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.11.28-21.11.13:251][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-21.11.13:397][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.28-21.11.13:403][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.28-21.11.13:403][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.28-21.11.13:403][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.28-21.11.13:403][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.28-21.11.13:418][  0]LogNetVersion: UnrealHouse 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3536387037)
+[2018.11.28-21.11.14:217][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.176640 seconds
+[2018.11.28-21.11.14:224][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.28-21.11.14:224][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.28-21.11.14:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.28-21.11.15:122][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.28-21.11.15:137][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.28-21.11.15:312][  0]SourceControl: Source control is disabled
+[2018.11.28-21.11.15:312][  0]SourceControl: Source control is disabled
+[2018.11.28-21.11.15:315][  0]SourceControl: Source control is disabled
+[2018.11.28-21.11.15:317][  0]SourceControl: Source control is disabled
+[2018.11.28-21.11.15:532][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.28-21.11.15:696][  0]LogOcInput: OculusInput pre-init called
+[2018.11.28-21.11.15:761][  0]LogEngine: Initializing Engine...
+[2018.11.28-21.11.15:764][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.28-21.11.15:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-21.11.15:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-21.11.15:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-21.11.15:765][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-21.11.16:085][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.28-21.11.16:098][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.28-21.11.16:141][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-21.11.17:586][  0]LogInit: FAudioDevice initialized.
+[2018.11.28-21.11.17:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.28-21.11.17:824][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/45188/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-21.11.17:838][  0]LogInit: Texture streaming: Enabled
+[2018.11.28-21.11.17:857][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.28-21.11.17:875][  0]LogInit: Transaction tracking system initialized
+[2018.11.28-21.11.17:898][  0]BlueprintLog: New page: Editor Load
+[2018.11.28-21.11.17:983][  0]LocalizationService: Localization service is disabled
+[2018.11.28-21.11.18:373][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/.
+[2018.11.28-21.11.18:384][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.28-21.11.18:384][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.28-21.11.18:384][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.28-21.11.18:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-21.11.18:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-21.11.18:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-21.11.18:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-21.11.18:514][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/' took 0.02s
+[2018.11.28-21.11.18:515][  0]SourceControl: Source control is disabled
+[2018.11.28-21.11.18:515][  0]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-21.11.18:515][  0]LightingResults: New page: Lighting Build
+[2018.11.28-21.11.18:518][  0]MapCheck: New page: Map Check
+[2018.11.28-21.11.18:518][  0]LightingResults: New page: Lighting Build
+[2018.11.28-21.11.19:286][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.28-21.11.19:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-21.11.19:328][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-21.11.19:504][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 176.457ms to complete.
+[2018.11.28-21.11.19:504][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.990
+[2018.11.28-21.11.19:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.11.19:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.11.19:679][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.11.19:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.11.19:696][  0]LogCollectionManager: Loaded 0 collections in 0.001002 seconds
+[2018.11.28-21.11.19:745][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Saved/Collections/' took 0.01s
+[2018.11.28-21.11.19:745][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/Developers/45188/Collections/' took 0.01s
+[2018.11.28-21.11.19:745][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/Collections/' took 0.01s
+[2018.11.28-21.11.19:745][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.28-21.11.19:758][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2572 classes and 603 folders.
+[2018.11.28-21.11.19:765][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.28-21.11.19:808][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.28-21.11.19:814][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.28-21.11.19:908][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.28-21.11.19:910][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.28-21.11.19:919][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.28-21.11.20:007][  0]LogRenderer: Reallocating scene render targets to support 788x340 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-21.11.20:218][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.28-21.11.20:218][  0]LogLoad: (Engine Initialization) Total time: 11.96 seconds
+[2018.11.28-21.11.20:218][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.28-21.11.20:237][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-21.11.20:275][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.28-21.11.20:308][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-21.11.20:338][  1]LogAssetRegistry: Asset discovery search completed in 7.4803 seconds
+[2018.11.28-21.11.20:340][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.28-21.11.20:340][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.11.28-21.11.21:289][ 42]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-21.11.22:357][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.11.25:327][282]LogFileCache: Retrieving MD5 hashes for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/' took 5.08s
+[2018.11.28-21.11.26:794][366]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/MyFirstPersonCharacter.MyFirstPersonCharacter
+[2018.11.28-21.11.27:375][366]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.28-21.11.28:252][366]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/CameraSequences/Event2CameraSeq.Event2CameraSeq
+[2018.11.28-21.11.28:360][366]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TextBP/TextRenderActor_Blueprint.TextRenderActor_Blueprint
+[2018.11.28-21.11.28:706][366]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Materials/wall.wall
+[2018.11.28-21.11.28:723][366]LogMaterial: Display: Missing cached shader map for material wall, compiling. 
+[2018.11.28-21.11.29:113][366]LogMaterial: Display: Missing cached shader map for material wall, compiling. 
+[2018.11.28-21.11.29:134][366]LogMaterial: Display: Missing cached shader map for material wall, compiling. 
+[2018.11.28-21.11.29:169][366]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-21.11.29:169][366]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-21.11.29:169][366]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-21.11.29:183][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.28-21.11.29:191][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.28-21.11.29:197][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.11.28-21.11.29:202][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.28-21.11.29:247][366]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Materials/floor.floor
+[2018.11.28-21.11.29:251][366]LogMaterial: Display: Missing cached shader map for material floor, compiling. 
+[2018.11.28-21.11.29:356][366]LogMaterial: Display: Missing cached shader map for material floor, compiling. 
+[2018.11.28-21.11.29:378][366]LogMaterial: Display: Missing cached shader map for material floor, compiling. 
+[2018.11.28-21.11.29:425][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.28-21.11.29:453][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.28-21.11.29:459][366]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.28-21.11.29:493][366]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Kirsten_BuiltData.Kirsten_BuiltData'
+[2018.11.28-21.11.29:504][366]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.28-21.11.31:741][472]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.28-21.11.31:806][476]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.28-21.11.32:431][513]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.28-21.11.32:450][514]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.28-21.11.32:819][536]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.28-21.11.32:836][537]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.28-21.11.32:882][538]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.28-21.11.32:883][538]AssetReimport: New page: Outstanding source content changes 上午11:11:32
+[2018.11.28-21.11.33:170][538]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.28-21.11.33:187][538]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.28-21.11.33:542][538]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.28-21.11.33:596][538]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.28-21.11.33:795][538]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.28-21.11.34:111][538]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.28-21.11.34:167][538]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.28-21.11.34:203][538]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.28-21.11.34:897][538]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.28-21.11.34:996][538]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.28-21.11.35:055][538]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.28-21.11.35:459][538]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.28-21.11.35:478][538]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.28-21.11.35:624][538]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.28-21.11.36:010][538]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.28-21.11.36:082][538]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.28-21.11.36:118][538]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.28-21.11.36:473][538]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.28-21.11.36:527][538]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.28-21.11.36:705][549]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.28-21.11.36:939][563]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.28-21.11.37:539][598]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.28-21.11.37:692][607]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.28-21.11.37:741][610]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: Base pass shader with Surface Lightmap: 134 instructions
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.28-21.11.37:745][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.28-21.11.38:424][649]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.28-21.11.38:631][660]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.28-21.11.38:811][670]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.28-21.11.39:203][693]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.28-21.11.39:554][712]AssetReimport: Attempting to delete blanket (its source file has been removed).
+[2018.11.28-21.11.39:599][716]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.28-21.11.39:829][729]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.28-21.11.40:401][763]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.28-21.11.40:435][765]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.28-21.11.40:569][773]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.28-21.11.40:951][795]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.28-21.11.41:001][798]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-21.11.41:018][799]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-21.11.41:543][830]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.28-21.11.41:572][831]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.28-21.11.41:679][838]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-21.11.41:850][848]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.28-21.11.41:966][855]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.28-21.11.42:615][892]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.28-21.11.42:682][896]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.28-21.11.42:850][906]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.28-21.11.43:397][938]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-21.11.43:464][942]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-21.11.43:581][949]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.28-21.11.44:162][983]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.28-21.11.44:180][984]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-21.11.44:314][992]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-21.11.45:182][ 43]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-21.11.45:351][ 53]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-21.11.45:368][ 54]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-21.11.45:943][ 88]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-21.11.46:010][ 92]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-21.11.46:213][104]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-21.11.46:776][137]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-21.11.46:979][149]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.28-21.11.47:013][151]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.28-21.11.47:594][185]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.28-21.11.47:728][193]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.28-21.11.47:917][204]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.28-21.11.47:925][204]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.11.28-21.11.47:926][204]MaterialEditorStats: Base pass shader with Surface Lightmap: 135 instructions
+[2018.11.28-21.11.47:926][204]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.11.28-21.11.47:926][204]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.28-21.11.47:926][204]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.28-21.11.47:926][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.28-21.11.47:926][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.28-21.11.48:301][227]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.28-21.11.48:371][231]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-21.11.48:605][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-21.11.57:447][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.11.57:616][781]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Kirsten_BuiltData'
+[2018.11.28-21.11.57:616][781]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Kirsten_BuiltData' while loading ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap.
+[2018.11.28-21.11.57:616][781]LoadErrors: Error: /Game/FirstPersonBP/Maps/Kirsten : Can't find file for asset. /Game/FirstPersonBP/Maps/Kirsten_BuiltData
+[2018.11.28-21.11.57:623][781]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Kirsten_BuiltData'
+[2018.11.28-21.11.57:623][781]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Kirsten_BuiltData' while loading ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap.
+[2018.11.28-21.11.57:632][781]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Kirsten_BuiltData'
+[2018.11.28-21.11.57:632][781]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Kirsten_BuiltData' while loading NULL.
+[2018.11.28-21.11.57:632][781]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Kirsten_BuiltData'
+[2018.11.28-21.11.57:633][781]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Kirsten_BuiltData' while loading NULL.
+[2018.11.28-21.11.57:654][781]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Kirsten_BuiltData'
+[2018.11.28-21.11.57:654][781]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Kirsten_BuiltData.Kirsten_BuiltData Referenced by PersistentLevel
+[2018.11.28-21.11.57:654][781]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Kirsten_BuiltData' while loading NULL.
+[2018.11.28-21.11.57:659][781]LogAIModule: Creating AISystem for world Kirsten
+[2018.11.28-21.11.57:669][781]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Kirsten.Kirsten
+[2018.11.28-21.11.57:703][781]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-21.11.57:704][781]LightingResults: New page: Lighting Build
+[2018.11.28-21.11.57:705][781]LoadErrors: New page: Loading map: Kirsten.umap
+[2018.11.28-21.11.57:706][781]MapCheck: New page: Map Check
+[2018.11.28-21.11.57:706][781]LightingResults: New page: Lighting Build
+[2018.11.28-21.11.57:831][781]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-21.11.57:902][781]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-21.11.58:101][781]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 199.419ms to complete.
+[2018.11.28-21.11.58:102][781]LogFileHelpers: Loading map 'Kirsten' took 0.399
+[2018.11.28-21.12.05:684][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.12.09:936][480]MapCheck: New page: Map Check
+[2018.11.28-21.12.10:029][480]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.28-21.12.10:032][480]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.28-21.12.10:209][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.11.28-21.12.10:229][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.11.28-21.12.10:236][480]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-21.12.10:236][480]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-21.12.10:236][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.11.28-21.12.10:243][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy floor, compiling. 
+[2018.11.28-21.12.10:249][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy wall, compiling. 
+[2018.11.28-21.12.10:276][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.11.28-21.12.10:283][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phoneBase, compiling. 
+[2018.11.28-21.12.10:289][480]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.28-21.12.10:289][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy phone, compiling. 
+[2018.11.28-21.12.10:296][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy bed, compiling. 
+[2018.11.28-21.12.10:303][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy roundTable, compiling. 
+[2018.11.28-21.12.10:309][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy nightStand, compiling. 
+[2018.11.28-21.12.10:316][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy alarmClock, compiling. 
+[2018.11.28-21.12.10:323][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DS-Digi-Font, compiling. 
+[2018.11.28-21.12.10:330][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy blanket, compiling. 
+[2018.11.28-21.12.10:337][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy doorFrame, compiling. 
+[2018.11.28-21.12.10:343][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy door, compiling. 
+[2018.11.28-21.12.10:350][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.11.28-21.12.10:359][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.28-21.12.10:368][480]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.11.28-21.12.12:366][480]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.28-21.12.12:366][480]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.28-21.12.12:366][480]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.28-21.12.12:366][480]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.28-21.12.12:366][480]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.28-21.12.12:366][480]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-21.12.12:367][480]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.28-21.12.12:367][480]TextureStreamingBuild: Display: Compiling optional shaders took 2.166 seconds.
+[2018.11.28-21.12.12:491][480]LogLevel: Display: Export Material TexCoord Scales took 0.124 seconds.
+[2018.11.28-21.12.12:530][480]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2018.11.28-21.12.12:598][480]LightingResults: New page: Lighting Build - 2018年11月28日 上午11:12:12
+[2018.11.28-21.12.13:046][480]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.28-21.12.13:529][480]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.28-21.12.13:568][480]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.28-21.12.15:802][480]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.11.28-21.12.15:951][480]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2018.11.28-21.12.20:979][480]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.28-21.12.20:979][480]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7500
+[2018.11.28-21.12.26:084][480]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.28-21.12.26:084][480]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.28-21.12.26:084][480]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.28-21.12.26:084][480]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.28-21.12.26:084][480]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.28-21.12.26:955][480]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.28-21.12.26:955][480]MapCheck: New page: Kirsten - 2018年11月28日 上午11:12:26
+[2018.11.28-21.12.26:972][480]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.11.28-21.12.27:198][480]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 242.402ms to complete.
+[2018.11.28-21.12.27:223][480]LogEditorBuildUtils: Build time 0:17
+[2018.11.28-21.12.27:422][480]LogSlate: Took 0.071463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.28-21.12.27:534][481]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer floor, compiling. 
+[2018.11.28-21.12.27:567][481]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-21.12.27:567][481]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer floor, compiling. 
+[2018.11.28-21.12.27:579][481]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-21.12.27:613][482]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer wall, compiling. 
+[2018.11.28-21.12.27:626][482]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.28-21.12.27:626][482]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer wall, compiling. 
+[2018.11.28-21.12.27:645][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phoneBase, compiling. 
+[2018.11.28-21.12.27:652][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer phoneBase, compiling. 
+[2018.11.28-21.12.27:688][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer bed, compiling. 
+[2018.11.28-21.12.27:694][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer bed, compiling. 
+[2018.11.28-21.12.27:717][485]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer roundTable, compiling. 
+[2018.11.28-21.12.27:736][485]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer roundTable, compiling. 
+[2018.11.28-21.12.27:759][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer nightStand, compiling. 
+[2018.11.28-21.12.27:766][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer nightStand, compiling. 
+[2018.11.28-21.12.27:799][487]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer alarmClock, compiling. 
+[2018.11.28-21.12.27:811][487]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer alarmClock, compiling. 
+[2018.11.28-21.12.27:827][488]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blanket, compiling. 
+[2018.11.28-21.12.27:839][488]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer blanket, compiling. 
+[2018.11.28-21.12.27:855][489]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer doorFrame, compiling. 
+[2018.11.28-21.12.27:864][489]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer doorFrame, compiling. 
+[2018.11.28-21.12.31:560][491]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.28-21.12.31:560][491]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.28-21.12.31:560][491]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.28-21.13.52:538][464]LightingResults: Warning: blanket Object has overlapping UVs.
+[2018.11.28-21.13.52:538][464]LightingResults: blanket Lightmap UV are overlapping by 4.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.28-21.14.08:390][382]Job is a success!
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.072s
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport:      BrickData 290x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport:          1: 6.9% covering 6.3% of volume
+[2018.11.28-21.14.10:846][506]LogVolumetricLightmapImport:          2: 91.4% covering 1.3% of volume
+[2018.11.28-21.14.11:201][506]LogMaterial: Warning: Material /Game/Geometry/Materials/alarmClock.alarmClock needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:235][506]LogMaterial: Display: Missing cached shader map for material alarmClock, compiling. 
+[2018.11.28-21.14.11:259][506]LogMaterial: Warning: Material /Game/Geometry/Materials/bed.bed needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:262][506]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.28-21.14.11:262][506]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.28-21.14.11:262][506]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.28-21.14.11:262][506]LogMaterial: Display: Missing cached shader map for material bed, compiling. 
+[2018.11.28-21.14.11:284][506]LogMaterial: Warning: Material /Game/Geometry/Materials/blanket.blanket needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:316][506]LogMaterial: Display: Missing cached shader map for material blanket, compiling. 
+[2018.11.28-21.14.11:337][506]LogMaterial: Warning: Material /Game/Geometry/Materials/doorFrame.doorFrame needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:340][506]LogMaterial: Display: Missing cached shader map for material doorFrame, compiling. 
+[2018.11.28-21.14.11:363][506]LogMaterial: Warning: Material /Game/Geometry/Materials/nightStand.nightStand needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:387][506]LogMaterial: Display: Missing cached shader map for material nightStand, compiling. 
+[2018.11.28-21.14.11:452][506]LogMaterial: Warning: Material /Game/Geometry/Materials/phoneBase.phoneBase needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:483][506]LogMaterial: Display: Missing cached shader map for material phoneBase, compiling. 
+[2018.11.28-21.14.11:504][506]LogMaterial: Warning: Material /Game/Geometry/Materials/roundTable.roundTable needed to have new flag set bUsedWithStaticLighting !
+[2018.11.28-21.14.11:506][506]LogMaterial: Display: Missing cached shader map for material roundTable, compiling. 
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.11.28-21.14.16:800][506]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.11.28-21.14.17:237][506]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2018.11.28-21.14.17:237][506]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.11.28-21.14.17:237][506]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.11.28-21.14.17:466][506]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2018.11.28-21.14.17:466][506]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2018.11.28-21.14.17:466][506]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2018.11.28-21.14.17:466][506]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2018.11.28-21.14.17:666][506]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X64)
+[2018.11.28-21.14.17:708][506]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2018.11.28-21.14.18:123][506]Lightmass on DESKTOP-LQ8KI8D: 1:43 min total, 408 ms importing, 74 ms setup, 11.5 sec photons, 1:31 min processing, 0 ms extra exporting [15/15 mappings]. Threads: 6:04 min total, 3:32 min processing.
+[2018.11.28-21.14.18:235][506]LogStaticLightingSystem: Illumination: 2:03 min (5.25 sec encoding lightmaps, 908 ms encoding shadowmaps)
+[2018.11.28-21.14.18:235][506]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2018.11.28-21.14.18:235][506]LogStaticLightingSystem: Shadowmap texture memory: 9.4 MB (9.4 MB streaming, 0.0 MB non-streaming), 9 textures
+[2018.11.28-21.14.18:804][506]DumpUnbuiltLightIteractions
+[2018.11.28-21.14.18:804][506]Lights with unbuilt interactions: 0
+[2018.11.28-21.14.18:804][506]
+[2018.11.28-21.14.18:804][506]Primitives with unbuilt interactions: 0
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.28-21.14.38:609][506]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.28-21.14.39:043][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.28-21.14.39:044][507]MapCheck: New page: Kirsten - 2018年11月28日 上午11:14:39
+[2018.11.28-21.14.39:391][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 347.853ms to complete.
+[2018.11.28-21.14.44:861][678]LogSlate: Window 'Message Log' being destroyed
+[2018.11.28-21.14.44:872][678]LogSlate: Window 'Message Log' being destroyed
+[2018.11.28-21.14.50:768][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-21.14.50:846][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.11.28-21.14.50:933][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-21.14.51:020][ 18]PIE: New page: PIE session: Kirsten (2018年11月28日 上午11:14:51)
+[2018.11.28-21.14.51:031][ 18]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.11.28-21.14.51:078][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046949s)
+[2018.11.28-21.14.51:079][ 18]LogAIModule: Creating AISystem for world Kirsten
+[2018.11.28-21.14.51:080][ 18]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2018.11.28-21.14.51:081][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.049682s)
+[2018.11.28-21.14.51:191][ 18]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-21.14.51:354][ 18]LogInit: FAudioDevice initialized.
+[2018.11.28-21.14.51:481][ 18]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.28-21.14.51:607][ 18]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.11.28-16.14.51
+[2018.11.28-21.14.51:628][ 18]LogWorld: Bringing up level for play took: 0.029193
+[2018.11.28-21.14.51:800][ 18]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.11.28-21.14.51:816][ 18]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 0.957
+[2018.11.28-21.14.51:816][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.11.28-21.14.55:844][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.11.28-21.14.55:886][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.14.55:950][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-21.14.55:950][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.11.28-21.14.55:990][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.14.56:061][221]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.28-21.15.01:957][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.15.02:633][557]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Kirsten23E6BDE4437645F198CDB8B2BEC4EA4F.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap'
+[2018.11.28-21.15.02:717][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Kirsten_BuiltData" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset" SILENT=true
+[2018.11.28-21.15.03:671][557]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Kirsten_BuiltDataAE1C62B0431A96FE3FA95ABDC739776A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset'
+[2018.11.28-21.15.04:354][581]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Kirsten82E43A064EC8E1DFF3AF98B973B3D5B2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap'
+[2018.11.28-21.15.04:399][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Kirsten_BuiltData" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset" SILENT=true
+[2018.11.28-21.15.05:391][581]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Kirsten_BuiltData7A2EFB6143BF80716E9E67B30B0B0A7A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset'
+[2018.11.28-21.15.09:418][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.09:458][815]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeq82417AD9452800B6529C5898D0C87553.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.10:475][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.10:510][874]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeq548456274DA969D92CF8E19E1EE400F4.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.10:652][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.10:687][881]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeq068A02B0486719FC33FB749964036A16.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.11:359][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.11:396][919]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqCD82A69E412EE6A7D68E14A2946D3212.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.11:559][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.11:594][927]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqD6F8C9C64435003C3C0274879E811E2F.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.12:307][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.12:347][964]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeq99F6085141F9AFB61BBD888F1C9F892A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.12:475][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.12:510][970]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqDA94A5FC4C21BFAAD4D70784EA29C372.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.13:337][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.13:373][ 18]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqA67FA1924DE62DA56A890896A7D8E6AB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.23:840][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.15.23:876][635]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqF28DFA96477DB7859F671E9F75AB25F2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.15.26:238][709]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.28-21.15.26:250][709]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2018.11.28-21.15.27:909][709]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-21.15.28:020][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/alarmClock" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/alarmClock.uasset" SILENT=true
+[2018.11.28-21.15.28:055][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/alarmClock5DFBC54C4320210D05C88FB923B2DBAB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/alarmClock.uasset'
+[2018.11.28-21.15.28:096][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/bed" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/bed.uasset" SILENT=true
+[2018.11.28-21.15.28:125][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/bed1735C871489B7D491CD700BB14A6A227.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/bed.uasset'
+[2018.11.28-21.15.28:166][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/blanket" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/blanket.uasset" SILENT=true
+[2018.11.28-21.15.28:195][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/blanket731C55654400EFFB710667A9FD47D2A0.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/blanket.uasset'
+[2018.11.28-21.15.28:238][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/doorFrame" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/doorFrame.uasset" SILENT=true
+[2018.11.28-21.15.28:268][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/doorFrameA301182B45D3CA3B9C8A458E1F7DCCFA.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/doorFrame.uasset'
+[2018.11.28-21.15.28:309][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/nightStand" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/nightStand.uasset" SILENT=true
+[2018.11.28-21.15.28:343][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/nightStandC6B65C31422D9B0616A9F3B27FAE56E1.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/nightStand.uasset'
+[2018.11.28-21.15.28:383][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/phoneBase" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/phoneBase.uasset" SILENT=true
+[2018.11.28-21.15.28:411][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/phoneBaseB5CE71FE4D4832DF6EB5BAA9363F6126.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/phoneBase.uasset'
+[2018.11.28-21.15.28:452][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/roundTable" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/roundTable.uasset" SILENT=true
+[2018.11.28-21.15.28:483][709]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/roundTableF5FAC2934630D480D95D3EA3401F2B34.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/roundTable.uasset'
+[2018.11.28-21.15.28:493][709]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-21.15.28:493][709]LightingResults: New page: Lighting Build
+[2018.11.28-21.15.28:495][709]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.11.28-21.15.28:496][709]MapCheck: New page: Map Check
+[2018.11.28-21.15.28:496][709]LightingResults: New page: Lighting Build
+[2018.11.28-21.15.28:695][709]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-21.15.28:766][709]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-21.15.28:965][709]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 199.173ms to complete.
+[2018.11.28-21.15.28:965][709]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.473
+[2018.11.28-21.15.30:578][754]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FirstPersonExampleMap424A95754CBC2F5DC903178600DED928.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.11.28-21.15.30:621][754]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.477
+[2018.11.28-21.15.32:010][832]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2018.11.28-21.15.32:047][832]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-21.15.32:047][832]LightingResults: New page: Lighting Build
+[2018.11.28-21.15.32:048][832]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.11.28-21.15.32:049][832]MapCheck: New page: Map Check
+[2018.11.28-21.15.32:049][832]LightingResults: New page: Lighting Build
+[2018.11.28-21.15.32:158][832]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.28-21.15.32:261][832]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-21.15.32:334][832]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-21.15.32:531][832]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 197.102ms to complete.
+[2018.11.28-21.15.32:533][832]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.486
+[2018.11.28-21.15.33:734][851]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FirstPersonExampleMapB219008540B73FA1F74E94BBAB0E3BA9.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.11.28-21.15.33:776][851]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.471
+[2018.11.28-21.15.45:123][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.15.45:729][530]LogAIModule: Creating AISystem for world HuangTest
+[2018.11.28-21.15.45:771][530]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/HuangTest.HuangTest
+[2018.11.28-21.15.45:806][530]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-21.15.45:807][530]LightingResults: New page: Lighting Build
+[2018.11.28-21.15.45:808][530]LoadErrors: New page: Loading map: HuangTest.umap
+[2018.11.28-21.15.45:809][530]MapCheck: New page: Map Check
+[2018.11.28-21.15.45:809][530]LightingResults: New page: Lighting Build
+[2018.11.28-21.15.45:980][530]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-21.15.46:050][530]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-21.15.46:246][530]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 196.64ms to complete.
+[2018.11.28-21.15.46:248][530]LogFileHelpers: Loading map 'HuangTest' took 0.442
+[2018.11.28-21.15.53:141][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.15.53:512][922]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest2BFC751B4E9A7438338A18A55A4C6AF9.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.15.55:269][922]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataA0B21AA54E284315AD2EB2A2A913DB5D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.15.56:840][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.15.56:906][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-21.15.56:951][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.15.56:951][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-21.15.56:951][ 17]PIE: New page: PIE session: HuangTest (2018年11月28日 上午11:15:56)
+[2018.11.28-21.15.56:951][ 17]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest
+[2018.11.28-21.15.56:968][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016597s)
+[2018.11.28-21.15.56:969][ 17]LogAIModule: Creating AISystem for world HuangTest
+[2018.11.28-21.15.56:969][ 17]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2018.11.28-21.15.56:969][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/HuangTest.HuangTest to /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest (0.018012s)
+[2018.11.28-21.15.57:048][ 17]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-21.15.57:184][ 17]LogInit: FAudioDevice initialized.
+[2018.11.28-21.15.57:218][ 17]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.11.28-21.15.57:221][ 17]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest up for play (max tick rate 60) at 2018.11.28-16.15.57
+[2018.11.28-21.15.57:244][ 17]LogWorld: Bringing up level for play took: 0.024659
+[2018.11.28-21.15.57:273][ 17]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest 0.414
+[2018.11.28-21.15.57:273][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.16.06:123][534]LogBlueprintUserMessages: [HuangTest_C_0] Trigger Event 2
+[2018.11.28-21.16.07:704][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.16.07:705][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.16.07:744][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-21.16.07:745][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.16.07:791][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.16.07:878][627]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.28-21.16.08:569][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.16.08:927][655]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTestB09994904668A6F3FCFB078860487D62.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.16.09:936][655]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltData48BFC46446BC60B9797EBD84E032D3BA.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.16.10:882][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.16.11:209][708]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest1B54D86B41C66D67AB162081288AFBC5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.16.12:204][708]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataDA2440D0461F33D9D8079FA8B9C78552.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
