@@ -793,3 +793,608 @@ Exception rethrown at [0]:
 [2018.11.28-21.16.10:882][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.11.28-21.16.11:209][708]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest1B54D86B41C66D67AB162081288AFBC5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
 [2018.11.28-21.16.12:204][708]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataDA2440D0461F33D9D8079FA8B9C78552.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.17.54:126][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.17.59:524][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.17.59:601][905]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/CameraSequences/CameraSequence.CameraSequence
+[2018.11.28-21.18.15:388][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/CameraSequence" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/CameraSequence.uasset" SILENT=true
+[2018.11.28-21.18.15:414][813]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/CameraSequence67C89BC34A4AF34EB3F1F5893F5247BF.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/CameraSequence.uasset'
+[2018.11.28-21.18.28:775][579]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/CameraSequences/Event2CameraSeq.Event2CameraSeq
+[2018.11.28-21.18.34:091][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.18.34:127][870]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqC75347D94CE966DC71E2AF8A29903CC3.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.18.35:861][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.18.36:202][972]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest233CB4A1446BE37A599ED9ACE58023B5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.18.37:185][972]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltData7DC8DE65469717B6F2CB36A37D4651DC.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.18.37:839][984]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTestE58EE6144F5329F730AD7EA892EF7346.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.18.38:816][984]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltData0ED4FA454C2BDE6F399D3CAFF064EB6C.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.18.39:118][  0]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-21.18.39:142][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.18.39:142][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-21.18.39:142][  0]PIE: New page: PIE session: HuangTest (2018年11月28日 上午11:18:39)
+[2018.11.28-21.18.39:142][  0]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest
+[2018.11.28-21.18.39:166][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023753s)
+[2018.11.28-21.18.39:167][  0]LogAIModule: Creating AISystem for world HuangTest
+[2018.11.28-21.18.39:167][  0]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.11.28-21.18.39:167][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/HuangTest.HuangTest to /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest (0.024912s)
+[2018.11.28-21.18.39:336][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-21.18.39:474][  0]LogInit: FAudioDevice initialized.
+[2018.11.28-21.18.39:509][  0]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.11.28-21.18.39:513][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest up for play (max tick rate 60) at 2018.11.28-16.18.39
+[2018.11.28-21.18.39:514][  0]LogWorld: Bringing up level for play took: 0.003838
+[2018.11.28-21.18.39:527][  0]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest 0.669
+[2018.11.28-21.18.39:528][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.18.43:702][239]LogBlueprintUserMessages: [HuangTest_C_4] Trigger Event 1
+[2018.11.28-21.18.51:387][696]LogBlueprintUserMessages: [HuangTest_C_4] Trigger Event 2
+[2018.11.28-21.19.08:206][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.19.08:206][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.19.08:249][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-21.19.08:249][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.19.08:293][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.19.08:340][704]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.28-21.19.08:864][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.19.09:215][722]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest288F11294CAAD236C2AF8291FFFBC146.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.19.10:224][722]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataD22C18ED4927E548D62C96B607DC31D8.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.20.12:699][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.20.13:026][ 24]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest6903CB7E4D98E1EC1424F09124CBC01C.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.20.14:000][ 24]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltData7AF0EA8442E161041F9301B2298F54C2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.20.16:541][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.20.16:872][173]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest310A74384A7889D9060409851D54E528.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.20.17:843][173]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltData7E8473E74804BF3FDCCF82B00BF05CBA.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.20.29:151][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.20.29:653][347]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest119A8D1342F276B1467326817DFC4469.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.20.30:864][347]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataB8B2CD3441159EE39CBDAB9A6D1803E4.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.21.46:537][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.23.00:849][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Alarm Clock/Alarm Clock.wav)
+[2018.11.28-21.23.00:907][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Footsteps/Footstep 1.wav)
+[2018.11.28-21.23.00:930][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Footsteps/Footstep 2.wav)
+[2018.11.28-21.23.00:953][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Footsteps/Footstep 3.wav)
+[2018.11.28-21.23.00:969][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Footsteps/Footstep 4.wav)
+[2018.11.28-21.23.00:988][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Footsteps/Footstep 5.wav)
+[2018.11.28-21.23.01:004][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Footsteps/Footstep 6.wav)
+[2018.11.28-21.23.01:031][904]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Phones/Cell Phone Ringing.mp3)
+[2018.11.28-21.23.01:132][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Phones/Digital Phone Ringing.wav)
+[2018.11.28-21.23.01:203][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Phones/Modern Phone Off Hook.wav)
+[2018.11.28-21.23.01:236][904]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Phones/Modern Phone Ring.mp3)
+[2018.11.28-21.23.01:266][904]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Phones/Old Phone Ringing.mp3)
+[2018.11.28-21.23.01:284][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Sound Effects/Phones/Phone Clack.wav)
+[2018.11.28-21.23.01:377][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Music/Wall Song V1.wav)
+[2018.11.28-21.23.01:495][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Music/Wall Song V2.wav)
+[2018.11.28-21.23.01:669][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Music/Wall Song V3.2 (Intro).wav)
+[2018.11.28-21.23.01:875][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GDProject\GameDev1Project4\UnrealHouse\Audio\Music/Wall Song V3.2 (Loop after Intro).wav)
+[2018.11.28-21.24.17:619][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.24.17:696][320]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqAF9335B14E6C03359754909B8F36BFA1.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.24.17:859][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraSequences/Event2CameraSeq" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset" SILENT=true
+[2018.11.28-21.24.17:896][324]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Event2CameraSeqCFE222DC46F01AC52C134593343C0DD2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/CameraSequences/Event2CameraSeq.uasset'
+[2018.11.28-21.24.21:377][524]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_1...
+[2018.11.28-21.24.21:377][524]LogTemp: Couldn't find amount to resample to.
+[2018.11.28-21.24.21:461][524]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 99944 while cooking SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_1.Footstep_1.
+[2018.11.28-21.24.23:162][620]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_2...
+[2018.11.28-21.24.23:162][620]LogTemp: Couldn't find amount to resample to.
+[2018.11.28-21.24.23:191][620]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 103440 while cooking SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_2.Footstep_2.
+[2018.11.28-21.24.24:231][682]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_3...
+[2018.11.28-21.24.24:231][682]LogTemp: Couldn't find amount to resample to.
+[2018.11.28-21.24.24:266][682]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117680 while cooking SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_3.Footstep_3.
+[2018.11.28-21.24.25:335][746]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_4...
+[2018.11.28-21.24.25:335][746]LogTemp: Couldn't find amount to resample to.
+[2018.11.28-21.24.25:368][746]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 95112 while cooking SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_4.Footstep_4.
+[2018.11.28-21.24.26:333][803]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_5...
+[2018.11.28-21.24.26:333][803]LogTemp: Couldn't find amount to resample to.
+[2018.11.28-21.24.26:368][803]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 95380 while cooking SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_5.Footstep_5.
+[2018.11.28-21.24.27:693][882]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_6...
+[2018.11.28-21.24.27:693][882]LogTemp: Couldn't find amount to resample to.
+[2018.11.28-21.24.27:722][882]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 98872 while cooking SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_6.Footstep_6.
+[2018.11.28-21.25.05:350][481]LogSlate: Took 0.015498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.28-21.25.07:967][586]LogRenderer: Reallocating scene render targets to support 788x352 Format 10 NumSamples 1 (Frame:237).
+[2018.11.28-21.25.09:889][676]LogSlate: Window 'wall' being destroyed
+[2018.11.28-21.25.09:903][677]LogRenderer: Reallocating scene render targets to support 788x436 Format 10 NumSamples 1 (Frame:328).
+[2018.11.28-21.25.37:068][247]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.25.37:632][252]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter9D0EBE6C4C80581400D46FBAFBEC4AFB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.25.39:868][359]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest4AF502F24AD65C254FF0C8A80E536A17.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.25.40:897][359]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataB2DB60A04A5D420B52880D9E6E9FB92C.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.26.04:060][711]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.26.25:842][965]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.26.26:287][970]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter58A93F424D2B1158C01BEE82C892A239.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.26.50:274][379]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.26.54:032][584]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterDBF3A2E8402AB65AB9C9A0A7E7A1D9A6.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.26.55:597][671]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter6E87E64041339A8D303E1D86E6041FAC.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.26.57:313][752]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest0ED2E975403CCD1AA37293AE92A0DFCB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.26.58:294][752]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataA7E2B11348396E853896A985BAF9418A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.27.00:905][903]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-21.27.00:932][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.00:932][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-21.27.00:933][903]PIE: New page: PIE session: HuangTest (2018年11月28日 上午11:27:00)
+[2018.11.28-21.27.00:933][903]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest
+[2018.11.28-21.27.00:954][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020993s)
+[2018.11.28-21.27.00:956][903]LogAIModule: Creating AISystem for world HuangTest
+[2018.11.28-21.27.00:956][903]LogPlayLevel: PIE: World Init took: (0.002178s)
+[2018.11.28-21.27.00:956][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/HuangTest.HuangTest to /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest (0.023487s)
+[2018.11.28-21.27.01:035][903]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-21.27.01:199][903]LogInit: FAudioDevice initialized.
+[2018.11.28-21.27.01:235][903]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.11.28-21.27.01:238][903]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest up for play (max tick rate 60) at 2018.11.28-16.27.01
+[2018.11.28-21.27.01:239][903]LogWorld: Bringing up level for play took: 0.002527
+[2018.11.28-21.27.01:253][903]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest 0.394
+[2018.11.28-21.27.01:253][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.03:498][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.03:498][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.27.03:553][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-21.27.03:553][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.03:593][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.27.03:619][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.28-21.27.03:942][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-21.27.18:392][884]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter804A59B346DD7A01FFB1CC9E4D0523DC.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.27.26:449][364]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.27.26:985][372]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter85EC2326417D3F3323AD5487720967D6.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.27.28:479][439]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTestD61A9CE54FEDE8C06695098CB85D519B.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.27.29:465][439]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltData1077904B4A6E833A3E8A5AAF60BBDCBB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.27.29:839][459]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-21.27.29:878][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.29:879][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-21.27.29:879][459]PIE: New page: PIE session: HuangTest (2018年11月28日 上午11:27:29)
+[2018.11.28-21.27.29:879][459]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest
+[2018.11.28-21.27.29:936][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057734s)
+[2018.11.28-21.27.29:937][459]LogAIModule: Creating AISystem for world HuangTest
+[2018.11.28-21.27.29:937][459]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2018.11.28-21.27.29:937][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/HuangTest.HuangTest to /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest (0.059088s)
+[2018.11.28-21.27.30:019][459]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-21.27.30:158][459]LogInit: FAudioDevice initialized.
+[2018.11.28-21.27.30:194][459]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.11.28-21.27.30:197][459]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest up for play (max tick rate 60) at 2018.11.28-16.27.30
+[2018.11.28-21.27.30:197][459]LogWorld: Bringing up level for play took: 0.002311
+[2018.11.28-21.27.30:211][459]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest -0.647
+[2018.11.28-21.27.30:212][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.32:055][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.32:055][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.27.32:097][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-21.27.32:097][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.11.28-21.27.32:143][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-21.27.32:170][569]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.28-21.27.32:767][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-21.27.33:100][604]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTestB38BD73641679DA93AF01BB9F9DCFE72.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.27.34:188][604]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataB6DAD0CE4228AF7DAF52A288CE7B67C5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.37.33:255][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/HuangTest' took 0.067
+[2018.11.28-21.37.33:380][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Alarm_Clock/Alarm_Clock] ([1] browsable assets)...
+[2018.11.28-21.37.33:413][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Alarm_Clock/Alarm_Clock.Alarm_Clock]
+[2018.11.28-21.37.33:413][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Alarm_Clock/Alarm_Clock]
+[2018.11.28-21.37.33:443][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Alarm_Clock_Auto190E39AE94FE4215D7DBCCABEFB461C09.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Alarm_Clock/Alarm_Clock_Auto1.uasset'
+[2018.11.28-21.37.33:463][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_1] ([1] browsable assets)...
+[2018.11.28-21.37.33:488][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_1.Footstep_1]
+[2018.11.28-21.37.33:488][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_1]
+[2018.11.28-21.37.33:510][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_1_Auto1340533C34B77F42404E04090D2935830.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Footsteps/Footstep_1_Auto1.uasset'
+[2018.11.28-21.37.33:520][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_2] ([1] browsable assets)...
+[2018.11.28-21.37.33:535][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_2.Footstep_2]
+[2018.11.28-21.37.33:535][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_2]
+[2018.11.28-21.37.33:565][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_2_Auto1BBCFFB85435AC78CB16B8681608CBFBB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Footsteps/Footstep_2_Auto1.uasset'
+[2018.11.28-21.37.33:582][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_3] ([1] browsable assets)...
+[2018.11.28-21.37.33:588][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_3.Footstep_3]
+[2018.11.28-21.37.33:588][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_3]
+[2018.11.28-21.37.33:621][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_3_Auto1AD7D4FEB4C821640A31047B3F65869D2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Footsteps/Footstep_3_Auto1.uasset'
+[2018.11.28-21.37.33:645][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_4] ([1] browsable assets)...
+[2018.11.28-21.37.33:665][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_4.Footstep_4]
+[2018.11.28-21.37.33:665][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_4]
+[2018.11.28-21.37.33:691][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_4_Auto10CF54E2B4A243281457DE49288CCB838.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Footsteps/Footstep_4_Auto1.uasset'
+[2018.11.28-21.37.33:719][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_5] ([1] browsable assets)...
+[2018.11.28-21.37.33:728][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_5.Footstep_5]
+[2018.11.28-21.37.33:729][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_5]
+[2018.11.28-21.37.33:752][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_5_Auto1F96A68204EF982223D64A8AD682D371D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Footsteps/Footstep_5_Auto1.uasset'
+[2018.11.28-21.37.33:766][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_6] ([1] browsable assets)...
+[2018.11.28-21.37.33:775][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Footsteps/Footstep_6.Footstep_6]
+[2018.11.28-21.37.33:775][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Footsteps/Footstep_6]
+[2018.11.28-21.37.33:797][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_6_Auto12CA65C294B1E29F42AAEB5B8AAA5F564.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Footsteps/Footstep_6_Auto1.uasset'
+[2018.11.28-21.37.33:814][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Sound_Effects/Phones/Cell_Phone_Ringing] ([1] browsable assets)...
+[2018.11.28-21.37.33:814][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Phones/Cell_Phone_Ringing]
+[2018.11.28-21.37.33:827][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Cell_Phone_Ringing_Auto16C6EBCDC4987F712EC0E1F94E68DF446.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Phones/Cell_Phone_Ringing_Auto1.uasset'
+[2018.11.28-21.37.33:835][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Phones/Digital_Phone_Ringing] ([1] browsable assets)...
+[2018.11.28-21.37.33:851][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Phones/Digital_Phone_Ringing.Digital_Phone_Ringing]
+[2018.11.28-21.37.33:851][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Phones/Digital_Phone_Ringing]
+[2018.11.28-21.37.33:877][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Digital_Phone_Ringing_Auto116078CAE420124806CE37692E165680E.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Phones/Digital_Phone_Ringing_Auto1.uasset'
+[2018.11.28-21.37.33:887][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Phones/Modern_Phone_Off_Hook] ([1] browsable assets)...
+[2018.11.28-21.37.33:898][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Phones/Modern_Phone_Off_Hook.Modern_Phone_Off_Hook]
+[2018.11.28-21.37.33:898][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Phones/Modern_Phone_Off_Hook]
+[2018.11.28-21.37.33:915][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Modern_Phone_Off_Hook_Auto19115C50A46DE4E74ADF3C584D551B3BB.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Phones/Modern_Phone_Off_Hook_Auto1.uasset'
+[2018.11.28-21.37.33:927][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Sound_Effects/Phones/Modern_Phone_Ring] ([1] browsable assets)...
+[2018.11.28-21.37.33:928][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Phones/Modern_Phone_Ring]
+[2018.11.28-21.37.33:936][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Modern_Phone_Ring_Auto18E4A4206417C947AF7982CB910C3BB0D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Phones/Modern_Phone_Ring_Auto1.uasset'
+[2018.11.28-21.37.33:951][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Sound_Effects/Phones/Old_Phone_Ringing] ([1] browsable assets)...
+[2018.11.28-21.37.33:951][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Phones/Old_Phone_Ringing]
+[2018.11.28-21.37.33:963][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Old_Phone_Ringing_Auto1F900493F43807AE2AEE6DAA5AE822A60.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Phones/Old_Phone_Ringing_Auto1.uasset'
+[2018.11.28-21.37.33:977][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Sound_Effects/Phones/Phone_Clack] ([1] browsable assets)...
+[2018.11.28-21.37.34:001][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Sound_Effects/Phones/Phone_Clack.Phone_Clack]
+[2018.11.28-21.37.34:001][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Sound_Effects/Phones/Phone_Clack]
+[2018.11.28-21.37.34:019][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Phone_Clack_Auto127651DD24B5B95392D3C79B66459ADB1.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Sound_Effects/Phones/Phone_Clack_Auto1.uasset'
+[2018.11.28-21.37.34:032][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Music/Wall_Song_V1] ([1] browsable assets)...
+[2018.11.28-21.37.34:042][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Music/Wall_Song_V1.Wall_Song_V1]
+[2018.11.28-21.37.34:043][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Music/Wall_Song_V1]
+[2018.11.28-21.37.34:062][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V1_Auto1ABA0F94548E836FAB156C4AEA5233D95.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Music/Wall_Song_V1_Auto1.uasset'
+[2018.11.28-21.37.34:077][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Music/Wall_Song_V2] ([1] browsable assets)...
+[2018.11.28-21.37.34:090][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Music/Wall_Song_V2.Wall_Song_V2]
+[2018.11.28-21.37.34:090][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Music/Wall_Song_V2]
+[2018.11.28-21.37.34:111][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V2_Auto1C08476DE4B67E1F13899A8B80E07F432.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Music/Wall_Song_V2_Auto1.uasset'
+[2018.11.28-21.37.34:119][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Music/Wall_Song_V3_2__Intro_] ([1] browsable assets)...
+[2018.11.28-21.37.34:136][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Music/Wall_Song_V3_2__Intro_.Wall_Song_V3_2__Intro_]
+[2018.11.28-21.37.34:136][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Music/Wall_Song_V3_2__Intro_]
+[2018.11.28-21.37.34:163][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V3_2__Intro__Auto19603636647F25315D5AFA39D8C0F7D3B.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Music/Wall_Song_V3_2__Intro__Auto1.uasset'
+[2018.11.28-21.37.34:170][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/Music/Wall_Song_V3_2__Loop_after_Intro_] ([1] browsable assets)...
+[2018.11.28-21.37.34:193][656]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/Music/Wall_Song_V3_2__Loop_after_Intro_.Wall_Song_V3_2__Loop_after_Intro_]
+[2018.11.28-21.37.34:193][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Music/Wall_Song_V3_2__Loop_after_Intro_]
+[2018.11.28-21.37.34:215][656]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V3_2__Loop_after_Intro94DFDDF54A0E0CC280C600943F335BB6.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Autosaves/Game/Sounds/Music/Wall_Song_V3_2__Loop_after_Intro__Auto1.uasset'
+[2018.11.28-21.37.34:220][656]LogFileHelpers: Auto-saving content packages took 0.961
+[2018.11.28-21.38.10:173][336]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter42DA43044638A63E96C42A8358CED641.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.39.13:254][778]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.39.13:932][795]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter2C158D1E4E6FEDE8B77D8AB3EDB31432.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.40.07:894][936]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter20BC48AC49FC41A30EA9C3B648A6C733.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.40.08:078][941]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter2508BC5349DDF2CFCB2F3BAFC0E862CF.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.40.24:612][841]LogSlate: Took 0.021584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.28-21.46.08:470][421]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.11.28-21.46.09:462][428]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter67FF96054F93F9251EA5FC878A344260.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.46.11:461][512]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest24267E4E4CFF1D76188531ADBC3107AA.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.11.28-21.46.12:602][512]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTest_BuiltDataE3E16A514B5BAB579B5F66AFE076A23A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest_BuiltData.uasset'
+[2018.11.28-21.46.24:516][852]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterFD190FE84DD8E2A56EDCD0BDB610FD42.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.47.48:399][ 41]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter24FDE70B49166B6F0DA6C2B869DA0161.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.47.49:640][110]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter3EBC351F44F049859F424093CB646785.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.48.12:270][401]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter7F9FB9D0417FB9D46E49CE90B945F0C2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-21.48.12:467][406]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterB42EB069411D9AC455E9909ED2D05886.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-23.36.31:840][630]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20810d63fa0 [can pipeline])
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.16.110) port 443 (#22))
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 3 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10053)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 5 (Closing connection 22)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DD48AA0-4944-5F89-D8CA-2F967D72F0F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=64944e924603c2418ca969a0ce385f60%7Ca8cb51a89a094d73ae0410efdcc6c91e%7C2650e3fa-625a-4231-9584-819c7cc767df&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.28-23.36.36:734][632]LogHttp: Warning: 0000020861F4FEC0: libcurl info message cache 8 (Closing connection 23)
+[2018.11.28-23.37.10:603][724]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-23.37.13:790][724]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.28-23.40.59:104][428]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-23.40.59:104][428]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-23.48.33:610][807]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-23.48.33:757][807]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.28-23.48.35:604][853]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterEC3A1C224768AB7338EE6C850D74E903.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.11.28-23.48.38:572][878]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-23.48.38:635][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Wall_Song_V1" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V1.uasset" SILENT=true
+[2018.11.28-23.48.38:652][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V18E181B42425C3DAB4F26BA83914BAC99.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V1.uasset'
+[2018.11.28-23.48.38:669][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Wall_Song_V2" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V2.uasset" SILENT=true
+[2018.11.28-23.48.38:889][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V2E79BC7C749DDFDE2786220B49FC7DE07.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V2.uasset'
+[2018.11.28-23.48.38:903][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Wall_Song_V3_2__Intro_" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V3_2__Intro_.uasset" SILENT=true
+[2018.11.28-23.48.39:014][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V3_2__Intro_3F8107304B5EDC71FF25A5A900CAB95A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V3_2__Intro_.uasset'
+[2018.11.28-23.48.39:060][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Wall_Song_V3_2__Loop_after_Intro678A02C14179E1AEE9BEB3A27CFFB9C0.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Music/Wall_Song_V3_2__Loop_after_Intro_.uasset'
+[2018.11.28-23.48.39:086][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Alarm_Clock9755E64E45D6C5AF763FDA947B13CC32.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Alarm_Clock/Alarm_Clock.uasset'
+[2018.11.28-23.48.39:147][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_178EF9E854F2554597489F2B2E12E0D08.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Footsteps/Footstep_1.uasset'
+[2018.11.28-23.48.39:177][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_2102BD8FD4AEA01FDB30C94A27210E96D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Footsteps/Footstep_2.uasset'
+[2018.11.28-23.48.39:201][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_3997AC0704C167B02CD17AFB21F260C4D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Footsteps/Footstep_3.uasset'
+[2018.11.28-23.48.39:226][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_4F47739294DBF07912B07CD910990F3B9.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Footsteps/Footstep_4.uasset'
+[2018.11.28-23.48.39:251][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_5CB9FD12E467B3E4D48CDAE8C0FDDD839.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Footsteps/Footstep_5.uasset'
+[2018.11.28-23.48.39:279][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Footstep_6634DF3CF4DD89F5296DA76AA29D01BD4.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Footsteps/Footstep_6.uasset'
+[2018.11.28-23.48.39:314][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Cell_Phone_Ringing12B71F2148A872966F377EA20B6A3DF8.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Phones/Cell_Phone_Ringing.uasset'
+[2018.11.28-23.48.39:518][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Digital_Phone_RingingDE33A04C4B433377B0326BB65E2D361E.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Phones/Digital_Phone_Ringing.uasset'
+[2018.11.28-23.48.39:553][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Modern_Phone_Off_HookCF187250457094F3C27DE4AA6D4553A6.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Phones/Modern_Phone_Off_Hook.uasset'
+[2018.11.28-23.48.39:582][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Modern_Phone_Ring40C1EB2A485059D092C0EA8E2EAAE714.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Phones/Modern_Phone_Ring.uasset'
+[2018.11.28-23.48.39:614][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Old_Phone_RingingB41B5FC146650766342C29B2FB921582.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Phones/Old_Phone_Ringing.uasset'
+[2018.11.28-23.48.39:664][878]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Phone_Clack6774B97646253CDC1C7515A57E991A71.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/Sounds/Sound_Effects/Phones/Phone_Clack.uasset'
+[2018.11.28-23.48.47:927][878]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.28-23.48.55:177][878]LogSlate: Window 'UnrealHouse - Unreal Editor' being destroyed
+[2018.11.28-23.48.55:212][878]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.28-23.49.03:698][878]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.28-23.49.03:899][879]Cmd: QUIT_EDITOR
+[2018.11.28-23.49.06:138][879]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.11.28-23.49.06:420][879]LogExit: Preparing to exit.
+[2018.11.28-23.49.26:946][879]LogDirectoryWatcher: A directory notification failed for 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/', and we were unable to create a new request.
+[2018.11.28-23.49.39:068][879]LogExit: Editor shut down
+[2018.11.28-23.49.39:142][879]LogExit: Transaction tracking system shut down
+[2018.11.28-23.50.07:817][879]LogExit: Object subsystem successfully closed.
+[2018.11.28-23.50.16:215][879]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.28-23.50.16:261][879]LogD3D11RHI: Shutdown
+[2018.11.28-23.50.16:261][879]LogD3D11RHI: CleanupD3DDevice
+[2018.11.28-23.50.18:340][879]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.28-23.50.28:848][879]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.11.28-23.50.28:848][879]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.11.28-23.50.28:929][879]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2018.11.28-23.50.28:981][879]LogModuleManager: Shutting down and abandoning module SequencerWidgets (614)
+[2018.11.28-23.50.28:981][879]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.11.28-23.50.29:081][879]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.28-23.50.29:171][879]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.11.28-23.50.29:171][879]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.11.28-23.50.29:714][879]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.11.28-23.50.29:714][879]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.11.28-23.50.29:714][879]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.11.28-23.50.29:717][879]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.28-23.50.29:760][879]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.28-23.50.29:760][879]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.28-23.50.29:903][879]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.28-23.50.29:913][879]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.28-23.50.29:914][879]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.28-23.50.29:914][879]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.28-23.50.29:914][879]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.28-23.50.29:915][879]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.28-23.50.29:931][879]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.28-23.50.29:932][879]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.28-23.50.29:932][879]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.28-23.50.29:971][879]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.28-23.50.29:971][879]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.28-23.50.29:985][879]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.28-23.50.29:987][879]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.28-23.50.30:095][879]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.28-23.50.30:163][879]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.28-23.50.30:242][879]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.28-23.50.30:250][879]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.28-23.50.30:250][879]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.28-23.50.30:282][879]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.28-23.50.30:283][879]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.28-23.50.30:283][879]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.28-23.50.30:284][879]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.28-23.50.30:388][879]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.28-23.50.30:450][879]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.28-23.50.30:511][879]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.28-23.50.30:541][879]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.28-23.50.30:580][879]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.28-23.50.30:580][879]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.28-23.50.30:581][879]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.28-23.50.30:581][879]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.28-23.50.30:582][879]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.28-23.50.32:325][879]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.28-23.50.32:325][879]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.28-23.50.32:325][879]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.28-23.50.32:325][879]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.28-23.50.32:325][879]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.28-23.50.32:327][879]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.28-23.50.32:328][879]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.28-23.50.32:373][879]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.28-23.50.32:374][879]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.28-23.50.32:374][879]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.28-23.50.32:390][879]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.28-23.50.32:399][879]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.28-23.50.32:400][879]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.28-23.50.32:402][879]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.28-23.50.32:402][879]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.28-23.50.32:416][879]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.28-23.50.32:416][879]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.28-23.50.32:431][879]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.28-23.50.32:462][879]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.28-23.50.32:474][879]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.28-23.50.32:484][879]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.28-23.50.32:491][879]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.28-23.50.32:676][879]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.28-23.50.32:712][879]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.28-23.50.32:728][879]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.28-23.50.32:757][879]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.28-23.50.32:757][879]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.28-23.50.32:782][879]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.28-23.50.32:782][879]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.28-23.50.32:827][879]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.28-23.50.32:827][879]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.28-23.50.32:828][879]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.28-23.50.32:904][879]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.28-23.50.32:930][879]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.28-23.50.32:949][879]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.28-23.50.32:949][879]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.28-23.50.32:959][879]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.28-23.50.32:964][879]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.28-23.50.32:994][879]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.28-23.50.32:995][879]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.28-23.50.32:998][879]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.28-23.50.32:998][879]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.28-23.50.32:999][879]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.28-23.50.33:000][879]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.28-23.50.33:000][879]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.28-23.50.33:000][879]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.28-23.50.33:000][879]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.28-23.50.33:000][879]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.28-23.50.33:000][879]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.28-23.50.33:004][879]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.28-23.50.33:012][879]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.28-23.50.33:013][879]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.28-23.50.33:013][879]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.28-23.50.33:015][879]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.28-23.50.33:178][879]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.28-23.50.33:214][879]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.28-23.50.33:214][879]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.28-23.50.33:214][879]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.28-23.50.33:214][879]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.28-23.50.33:214][879]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.28-23.50.33:214][879]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.28-23.50.33:227][879]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.28-23.50.33:249][879]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.28-23.50.33:250][879]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.28-23.50.33:250][879]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.28-23.50.33:250][879]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.28-23.50.33:256][879]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.28-23.50.33:256][879]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.28-23.50.33:256][879]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.28-23.50.33:256][879]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.28-23.50.33:257][879]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.28-23.50.33:257][879]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.28-23.50.33:257][879]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.28-23.50.33:257][879]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.28-23.50.33:271][879]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.28-23.50.33:271][879]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.28-23.50.33:271][879]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.28-23.50.33:272][879]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.28-23.50.33:272][879]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.28-23.50.33:281][879]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.28-23.50.33:288][879]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.28-23.50.33:295][879]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.28-23.50.33:296][879]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.28-23.50.33:307][879]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.28-23.50.33:311][879]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.28-23.50.33:311][879]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.28-23.50.33:313][879]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.28-23.50.33:313][879]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.28-23.50.33:313][879]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.28-23.50.33:321][879]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.28-23.50.33:354][879]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.28-23.50.33:457][879]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.28-23.50.33:460][879]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.28-23.50.33:461][879]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.28-23.50.33:461][879]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.28-23.50.33:461][879]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.28-23.50.33:462][879]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.28-23.50.33:485][879]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.28-23.50.33:492][879]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.28-23.50.33:492][879]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.28-23.50.33:493][879]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.28-23.50.33:493][879]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.28-23.50.33:493][879]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.28-23.50.33:494][879]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.28-23.50.33:494][879]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.28-23.50.33:508][879]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.28-23.50.33:508][879]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.28-23.50.33:609][879]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.28-23.50.33:711][879]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.28-23.50.33:711][879]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.28-23.50.33:713][879]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.28-23.50.33:713][879]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.28-23.50.33:713][879]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.28-23.50.33:715][879]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.28-23.50.33:745][879]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.28-23.50.33:796][879]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.28-23.50.33:809][879]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.28-23.50.33:810][879]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.28-23.50.33:811][879]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.28-23.50.33:824][879]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.28-23.50.33:852][879]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.28-23.50.33:868][879]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.28-23.50.33:868][879]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.28-23.50.33:868][879]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.28-23.50.33:870][879]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.28-23.50.33:872][879]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.28-23.50.33:888][879]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.28-23.50.33:895][879]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.28-23.50.33:895][879]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.28-23.50.33:896][879]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.28-23.50.33:905][879]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.28-23.50.33:906][879]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.28-23.50.33:907][879]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.28-23.50.33:907][879]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.28-23.50.33:917][879]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.28-23.50.33:924][879]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.28-23.50.33:924][879]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.28-23.50.33:947][879]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.28-23.50.33:948][879]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.28-23.50.33:963][879]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.28-23.50.33:996][879]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.28-23.50.33:998][879]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.28-23.50.34:000][879]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.28-23.50.34:003][879]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.28-23.50.34:013][879]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.28-23.50.34:028][879]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.28-23.50.34:029][879]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.28-23.50.34:100][879]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.28-23.50.34:101][879]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.28-23.50.34:102][879]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.28-23.50.34:103][879]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.28-23.50.34:104][879]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.28-23.50.34:104][879]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.28-23.50.34:104][879]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.28-23.50.34:104][879]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.28-23.50.34:105][879]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.28-23.50.34:122][879]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.28-23.50.34:134][879]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.28-23.50.34:134][879]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.28-23.50.34:149][879]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.28-23.50.34:187][879]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.28-23.50.34:201][879]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.28-23.50.34:203][879]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.28-23.50.34:204][879]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.28-23.50.34:249][879]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.28-23.50.34:329][879]LogDerivedDataCache: Shutdown
+[2018.11.28-23.50.34:329][879]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.28-23.50.34:346][879]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.28-23.50.34:361][879]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.28-23.50.34:386][879]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.28-23.50.34:401][879]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.28-23.50.34:407][879]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.28-23.50.34:407][879]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.28-23.50.34:414][879]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.28-23.50.34:415][879]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.28-23.50.34:415][879]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.28-23.50.34:416][879]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.28-23.50.34:436][879]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.28-23.50.34:437][879]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.28-23.50.34:437][879]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.28-23.50.34:437][879]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.28-23.50.34:445][879]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.28-23.50.34:446][879]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.28-23.50.34:446][879]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.28-23.50.34:447][879]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.28-23.50.34:448][879]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.28-23.50.34:449][879]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.28-23.50.34:449][879]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.28-23.50.34:450][879]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.28-23.50.34:668][879]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.28-23.50.34:668][879]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.28-23.50.34:794][879]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.28-23.50.34:794][879]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.28-23.50.35:175][879]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.28-23.50.35:175][879]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.28-23.50.35:176][879]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.28-23.50.35:177][879]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.28-23.50.35:178][879]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.28-23.50.35:185][879]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.28-23.50.35:186][879]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.28-23.50.35:186][879]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.28-23.50.35:186][879]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.28-23.50.35:187][879]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.28-23.50.35:187][879]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.28-23.50.35:188][879]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.28-23.50.35:188][879]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.28-23.50.35:189][879]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.28-23.50.35:190][879]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.28-23.50.35:190][879]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.28-23.50.35:190][879]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.28-23.50.35:190][879]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.28-23.50.35:235][879]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.28-23.50.35:276][879]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.28-23.50.35:501][879]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.28-23.50.35:502][879]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.28-23.50.35:503][879]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DD48AA0-4944-5F89-D8CA-2F967D72F0F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=64944e924603c2418ca969a0ce385f60%7Ca8cb51a89a094d73ae0410efdcc6c91e%7C2650e3fa-625a-4231-9584-819c7cc767df&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.28-23.50.35:646][879]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.28-23.50.35:690][879]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.28-23.50.35:693][879]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.28-23.50.35:693][879]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.28-23.50.35:726][879]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.28-23.50.35:726][879]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.28-23.50.35:746][879]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.28-23.50.35:764][879]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.28-23.50.35:795][879]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.28-23.50.35:815][879]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.28-23.50.35:816][879]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.28-23.50.35:816][879]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.28-23.50.35:816][879]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.28-23.50.36:038][879]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.28-23.50.36:065][879]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.28-23.50.36:065][879]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.28-23.50.36:068][879]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.28-23.50.36:068][879]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.28-23.50.36:069][879]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.28-23.50.36:069][879]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.28-23.50.36:070][879]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.28-23.50.36:070][879]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.28-23.50.36:071][879]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.28-23.50.36:071][879]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.28-23.50.36:183][879]LogExit: Exiting.
+[2018.11.28-23.50.36:476][879]Log file closed, 11/28/18 18:50:36
