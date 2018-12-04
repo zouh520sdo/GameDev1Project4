@@ -1879,3 +1879,35 @@ LogInit: Object subsystem initialized
 [2018.12.04-00.57.22:746][939]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.382
 [2018.12.04-00.57.22:835][939]LogSavePackage: Moving '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Saved/alarmClock_BlueprintCF0799A047F5D4D5BB2848A52990F2C5.tmp' to '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/alarmClock_Blueprint.uasset'
 [2018.12.04-00.57.22:859][939]LogSavePackage: Moving '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Saved/Phone_Clack5ECB88A243D970317BEEF5A9414CD1E7.tmp' to '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/Audio/SoundEffects/AlarmClock/Phone_Clack.uasset'
+[2018.12.04-00.58.56:506][983]BlueprintLog: New page: Compile alarmClock_Blueprint
+[2018.12.04-00.58.57:213][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-00.58.57:266][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.04-00.58.57:266][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-00.58.57:266][ 10]PIE: New page: PIE session: FirstPersonExampleMap (Dec 3, 2018, 2:58:57 PM)
+[2018.12.04-00.58.57:266][ 10]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.12.04-00.58.57:274][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008118s)
+[2018.12.04-00.58.57:275][ 10]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.04-00.58.57:275][ 10]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.12.04-00.58.57:275][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009151s)
+[2018.12.04-00.58.57:310][ 10]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.04-00.58.57:325][ 10]LogInit: FAudioDevice initialized.
+[2018.12.04-00.58.57:361][ 10]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.04-00.58.57:365][ 10]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.12.03-19.58.57
+[2018.12.04-00.58.57:366][ 10]LogWorld: Bringing up level for play took: 0.003219
+[2018.12.04-00.58.57:379][ 10]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.483
+[2018.12.04-00.58.57:379][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.04-00.59.05:945][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.59.20:411][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.04-00.59.20:412][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.59.20:470][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-00.59.20:471][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.12.04-00.59.20:502][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-00.59.20:592][375]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2018.12.04-00.59.21:062][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-00.59.23:986][571]BlueprintLog: New page: Compile alarmClock_Blueprint
+[2018.12.04-00.59.26:721][702]LogSavePackage: Moving '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Saved/FirstPersonExampleMapDD315CF049C10687FC0F5BB8C08A0A17.tmp' to '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.12.04-00.59.29:320][836]LogSlate: Window 'alarmClock_Blueprint' being destroyed
+[2018.12.04-00.59.29:440][836]LogSlate: Window 'UnrealHouse - Unreal Editor' being destroyed
+[2018.12.04-00.59.29:442][836]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-00.59.29:879][837]Cmd: QUIT_EDITOR
+[2018.12.04-00.59.30:025][837]LogExit: Preparing to exit.
