@@ -1,0 +1,1041 @@
+﻿Log file open, 12/03/18 18:07:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UnrealHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236375
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.287s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Software/Unreal/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.03-23.07.21:396][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-23.07.21:396][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-23.07.21:416][  0]LogHAL: Display: Platform has ~ 8 GB [8449904640 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-23.07.21:416][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-23.07.21:416][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-23.07.21:416][  0]LogInit: Computer: DESKTOP-LQ8KI8D
+[2018.12.03-23.07.21:416][  0]LogInit: User: 45188
+[2018.12.03-23.07.21:416][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-23.07.21:416][  0]LogInit: High frequency timer resolution =2.437501 MHz
+[2018.12.03-23.07.21:416][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.03-23.07.21:416][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-23.07.21:417][  0]LogMemory: Process Physical Memory: 101.51 MB used, 101.51 MB peak
+[2018.12.03-23.07.21:417][  0]LogMemory: Process Virtual Memory: 84.80 MB used, 84.80 MB peak
+[2018.12.03-23.07.21:417][  0]LogMemory: Physical Memory: 5091.71 MB used,  2966.75 MB free, 8058.46 MB total
+[2018.12.03-23.07.21:417][  0]LogMemory: Virtual Memory: 4625.80 MB used,  2966.75 MB free, 134217728.00 MB total
+[2018.12.03-23.07.21:464][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-23.07.21:464][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.12.03-23.07.21:465][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-23.07.21:914][  0]LogStreaming: Display: Took  0.451s to InitEngineTextLocalization.
+[2018.12.03-23.07.21:915][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-23.07.21:965][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.07.21:965][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-23.07.22:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-23.07.22:502][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-23.07.22:604][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.03-23.07.22:604][  0]LogD3D11RHI:       4019/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.03-23.07.22:626][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.03-23.07.22:626][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.03-23.07.22:629][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-23.07.22:629][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-23.07.22:629][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-23.07.22:666][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-23.07.22:666][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-23.07.22:666][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-23.07.22:666][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.03-23.07.22:667][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.03-23.07.22:668][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.03-23.07.22:669][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.12.03-23.07.22:670][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.12.03-23.07.22:670][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.03-23.07.22:670][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2018.12.03-23.07.22:670][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2018.12.03-23.07.22:670][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2018.12.03-23.07.22:716][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-23.07.22:735][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-23.07.22:736][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Intermediate/Shaders/WorkingDirectory/2612/).
+[2018.12.03-23.07.22:737][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/45188/AppData/Local/Temp/UnrealShaderWorkingDir/A60E6FE74BBFF63E56C9B1BB393FFD2A/'.
+[2018.12.03-23.07.23:228][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-23.07.23:242][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-23.07.23:256][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-23.07.23:271][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-23.07.23:286][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-23.07.23:301][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-23.07.23:316][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-23.07.23:331][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-23.07.23:339][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-23.07.23:436][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-23.07.23:504][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-23.07.23:504][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-23.07.23:530][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-23.07.23:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-23.07.23:545][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-23.07.23:560][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-23.07.23:575][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-23.07.23:592][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-23.07.23:603][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-23.07.23:603][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-23.07.23:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-23.07.23:681][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-23.07.23:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-23.07.24:797][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-23.07.26:360][  0]LogDerivedDataCache: Loaded boot cache 1.56s 71MB C:/Users/45188/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-23.07.26:360][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/45188/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.03-23.07.26:360][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-23.07.26:360][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-23.07.26:360][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-23.07.26:360][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-23.07.26:375][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-23.07.26:389][  0]LogDerivedDataCache: Using Local data cache path C:/Users/45188/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-23.07.26:389][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-23.07.26:389][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-23.07.26:408][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-23.07.26:409][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-23.07.26:411][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-23.07.26:666][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.12.03-23.07.27:041][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-23.07.27:227][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-23.07.27:233][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-23.07.27:233][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-23.07.27:233][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-23.07.27:233][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-23.07.27:255][  0]LogNetVersion: UnrealHouse 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3536387037)
+[2018.12.03-23.07.28:011][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.146286 seconds
+[2018.12.03-23.07.28:018][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.03-23.07.28:018][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.03-23.07.28:018][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-23.07.35:861][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-23.07.35:875][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-23.07.36:096][  0]SourceControl: Source control is disabled
+[2018.12.03-23.07.36:096][  0]SourceControl: Source control is disabled
+[2018.12.03-23.07.36:099][  0]SourceControl: Source control is disabled
+[2018.12.03-23.07.36:101][  0]SourceControl: Source control is disabled
+[2018.12.03-23.07.36:394][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-23.07.36:563][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-23.07.36:665][  0]LogEngine: Initializing Engine...
+[2018.12.03-23.07.36:666][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-23.07.36:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-23.07.36:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-23.07.36:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-23.07.36:669][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-23.07.36:934][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-23.07.36:948][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-23.07.37:071][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-23.07.38:554][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-23.07.38:555][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-23.07.38:759][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/45188/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-23.07.38:760][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-23.07.38:780][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-23.07.38:868][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-23.07.38:893][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-23.07.39:051][  0]LocalizationService: Localization service is disabled
+[2018.12.03-23.07.39:732][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.03-23.07.39:732][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.03-23.07.39:766][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-23.07.39:766][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-23.07.39:802][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/' took 0.04s
+[2018.12.03-23.07.39:802][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-23.07.39:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-23.07.39:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-23.07.39:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-23.07.39:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-23.07.40:168][  0]SourceControl: Source control is disabled
+[2018.12.03-23.07.40:168][  0]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-23.07.40:170][  0]LightingResults: New page: Lighting Build
+[2018.12.03-23.07.40:173][  0]MapCheck: New page: Map Check
+[2018.12.03-23.07.40:173][  0]LightingResults: New page: Lighting Build
+[2018.12.03-23.07.50:289][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.03-23.07.50:625][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-23.07.50:678][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-23.07.50:869][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 189.819ms to complete.
+[2018.12.03-23.07.50:869][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 10.701
+[2018.12.03-23.07.51:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.07.51:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.07.51:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.07.51:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.07.51:729][  0]LogCollectionManager: Loaded 0 collections in 0.001077 seconds
+[2018.12.03-23.07.51:983][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Saved/Collections/' took 0.01s
+[2018.12.03-23.07.51:983][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/Developers/45188/Collections/' took 0.01s
+[2018.12.03-23.07.51:983][  0]LogFileCache: Scanning file cache for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/Collections/' took 0.01s
+[2018.12.03-23.07.51:983][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.03-23.07.51:999][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2572 classes and 603 folders.
+[2018.12.03-23.07.52:157][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.07.52:948][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.07.53:045][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.03-23.07.54:292][  0]LogSlate: Took 0.037614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-23.07.54:315][  0]LogSlate: Took 0.015730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-23.07.54:689][  0]LogRenderer: Reallocating scene render targets to support 748x376 Format 10 NumSamples 1 (Frame:1).
+[2018.12.03-23.07.55:561][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-23.07.55:561][  0]LogLoad: (Engine Initialization) Total time: 36.28 seconds
+[2018.12.03-23.07.55:561][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-23.07.55:579][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-23.07.55:765][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-23.07.55:901][  1]LogAssetRegistry: Asset discovery search completed in 29.2575 seconds
+[2018.12.03-23.07.55:903][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-23.07.55:903][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2018.12.03-23.07.57:270][ 25]LogSlate: Took 0.583747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-23.07.58:480][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.07.59:135][ 94]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/MyFirstPersonCharacter.MyFirstPersonCharacter
+[2018.12.03-23.08.01:283][ 94]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2018.12.03-23.08.03:177][ 94]LogLinker: Warning: Can't resolve asset name
+[2018.12.03-23.08.03:313][ 94]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TestUI.TestUI
+[2018.12.03-23.08.04:193][ 94]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/CameraSequences/GetUpSeq.GetUpSeq
+[2018.12.03-23.08.04:351][ 94]LogFileCache: Retrieving MD5 hashes for directory 'E:/GDProject/GameDev1Project4/UnrealHouse/Content/' took 8.75s
+[2018.12.03-23.08.04:533][ 94]LogSlate: Took 0.016992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-23.08.04:561][ 94]LogSlate: Took 0.013100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-23.08.09:613][283]LogSlate: Window 'TestUI' being destroyed
+[2018.12.03-23.08.14:523][547]LogSlate: Took 0.017017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-23.08.23:971][ 39]LogAIModule: Creating AISystem for world HuangTest
+[2018.12.03-23.08.23:981][ 39]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/HuangTest.HuangTest
+[2018.12.03-23.08.24:045][ 39]Cmd: MAP LOAD FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-23.08.24:045][ 39]LightingResults: New page: Lighting Build
+[2018.12.03-23.08.24:046][ 39]LoadErrors: New page: Loading map: HuangTest.umap
+[2018.12.03-23.08.24:050][ 39]MapCheck: New page: Map Check
+[2018.12.03-23.08.24:050][ 39]LightingResults: New page: Lighting Build
+[2018.12.03-23.08.24:236][ 39]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-23.08.24:312][ 39]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-23.08.24:519][ 39]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 206.879ms to complete.
+[2018.12.03-23.08.24:520][ 39]LogFileHelpers: Loading map 'HuangTest' took 0.477
+[2018.12.03-23.08.28:177][143]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/HuangTestA0F0E957450472A743EE8A99590C5145.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/HuangTest.umap'
+[2018.12.03-23.08.28:295][143]LogFileHelpers: Saving map 'HuangTest' took 1.499
+[2018.12.03-23.08.31:927][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-23.08.31:997][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.12.03-23.08.32:026][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-23.08.32:114][357]PIE: New page: PIE session: HuangTest (2018年12月3日 下午1:08:32)
+[2018.12.03-23.08.32:126][357]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest
+[2018.12.03-23.08.32:176][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049057s)
+[2018.12.03-23.08.32:176][357]LogAIModule: Creating AISystem for world HuangTest
+[2018.12.03-23.08.32:177][357]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2018.12.03-23.08.32:178][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/HuangTest.HuangTest to /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest (0.051125s)
+[2018.12.03-23.08.32:255][357]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-23.08.32:391][357]LogInit: FAudioDevice initialized.
+[2018.12.03-23.08.32:487][357]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.03-23.08.32:505][357]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest.HuangTest up for play (max tick rate 60) at 2018.12.03-18.08.32
+[2018.12.03-23.08.32:546][357]LogWorld: Bringing up level for play took: 0.057943
+[2018.12.03-23.08.32:656][357]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.12.03-23.08.32:713][357]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_HuangTest 1.232
+[2018.12.03-23.08.32:714][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.12.03-23.08.33:415][358]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:520][359]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:568][360]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:576][361]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:603][362]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:629][363]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:645][364]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:664][365]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:679][366]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:696][367]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:712][368]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:729][369]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:746][370]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:764][371]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:781][372]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:797][373]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:814][374]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:832][375]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:849][376]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:866][377]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:882][378]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:900][379]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:917][380]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:934][381]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:951][382]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:968][383]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.33:985][384]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:002][385]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:019][386]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:037][387]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:052][388]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:069][389]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:085][390]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:102][391]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:119][392]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:137][393]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:153][394]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:170][395]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:187][396]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:204][397]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:221][398]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:238][399]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:255][400]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:271][401]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:289][402]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:305][403]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:322][404]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:339][405]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:355][406]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:372][407]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:389][408]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:406][409]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:423][410]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:440][411]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:456][412]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:472][413]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:489][414]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:505][415]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:522][416]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:539][417]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:556][418]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:572][419]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:589][420]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:606][421]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:623][422]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:639][423]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:656][424]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:673][425]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:689][426]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:706][427]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:723][428]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:740][429]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:756][430]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:773][431]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:791][432]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:808][433]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:825][434]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:840][435]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:857][436]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:873][437]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:891][438]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:907][439]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:924][440]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:942][441]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:958][442]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:975][443]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.34:993][444]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:008][445]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:025][446]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:043][447]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:059][448]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:076][449]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:092][450]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:108][451]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:125][452]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:142][453]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:159][454]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:175][455]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:192][456]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:208][457]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:225][458]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:242][459]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:258][460]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:275][461]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:292][462]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:308][463]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:324][464]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:342][465]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:358][466]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:375][467]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:392][468]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:408][469]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:425][470]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:442][471]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:459][472]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:475][473]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:494][474]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:510][475]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:529][476]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:545][477]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:562][478]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:578][479]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:593][480]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:610][481]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:627][482]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:644][483]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:664][484]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:677][485]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:694][486]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:713][487]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:729][488]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:745][489]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:762][490]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:779][491]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:796][492]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:813][493]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:829][494]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:846][495]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:862][496]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:881][497]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:897][498]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:913][499]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:930][500]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:947][501]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:963][502]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:981][503]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.35:997][504]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:014][505]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:030][506]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:047][507]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:064][508]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:081][509]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:097][510]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:114][511]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:131][512]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:147][513]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:164][514]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:181][515]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:197][516]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:214][517]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:231][518]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:247][519]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:264][520]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:281][521]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:297][522]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:314][523]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:331][524]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:347][525]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:364][526]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:381][527]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:397][528]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:414][529]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:431][530]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:448][531]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:464][532]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:481][533]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:497][534]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:514][535]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:545][536]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:562][537]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:579][538]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:595][539]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:612][540]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:629][541]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:646][542]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:662][543]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:680][544]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:696][545]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:712][546]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:729][547]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:746][548]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:762][549]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:779][550]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:796][551]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:813][552]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:830][553]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:845][554]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:862][555]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:879][556]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:895][557]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:912][558]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:929][559]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:946][560]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:962][561]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:979][562]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.36:995][563]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:012][564]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:029][565]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:045][566]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:062][567]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:079][568]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:095][569]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:112][570]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:129][571]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:145][572]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:162][573]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:179][574]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:196][575]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:212][576]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:229][577]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:246][578]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:263][579]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:279][580]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:296][581]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:313][582]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:329][583]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:346][584]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:363][585]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:379][586]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:395][587]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:412][588]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:429][589]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:446][590]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:463][591]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:479][592]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:495][593]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:512][594]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:529][595]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:546][596]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:562][597]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:579][598]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:596][599]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:613][600]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:629][601]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:646][602]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:662][603]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:679][604]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:696][605]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:712][606]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:729][607]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:746][608]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:763][609]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:779][610]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:796][611]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:813][612]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:829][613]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:846][614]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:862][615]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:879][616]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:895][617]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:912][618]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:929][619]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:945][620]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:962][621]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:979][622]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.37:996][623]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:012][624]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:029][625]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:046][626]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:063][627]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:079][628]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:096][629]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:113][630]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:129][631]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:146][632]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:163][633]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:179][634]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:196][635]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:213][636]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:229][637]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:246][638]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:262][639]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:279][640]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:296][641]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:312][642]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:329][643]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:346][644]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:363][645]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:379][646]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:396][647]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:413][648]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:429][649]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:446][650]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:463][651]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:480][652]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:495][653]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:512][654]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:529][655]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:545][656]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:562][657]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:579][658]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:595][659]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:612][660]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:629][661]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:645][662]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:662][663]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:679][664]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:695][665]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:712][666]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:729][667]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:746][668]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:762][669]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:779][670]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:796][671]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:813][672]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:829][673]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:846][674]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:862][675]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:880][676]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:896][677]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:913][678]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:929][679]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:946][680]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:963][681]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:979][682]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.38:996][683]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:012][684]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:029][685]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:045][686]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:062][687]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:079][688]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:095][689]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:112][690]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:129][691]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:146][692]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:163][693]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:179][694]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:196][695]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:212][696]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:229][697]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:246][698]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:263][699]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:279][700]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:296][701]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:313][702]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:329][703]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:346][704]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:363][705]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:379][706]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:395][707]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:412][708]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:429][709]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:445][710]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:462][711]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:479][712]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:496][713]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:512][714]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:529][715]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:546][716]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:562][717]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:579][718]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:596][719]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:612][720]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:629][721]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:646][722]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:663][723]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:679][724]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:696][725]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:713][726]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:730][727]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:746][728]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:762][729]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:779][730]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:795][731]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:812][732]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:829][733]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:846][734]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:862][735]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:879][736]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:896][737]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:912][738]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:930][739]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:946][740]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:963][741]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:980][742]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.39:996][743]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:013][744]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:029][745]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:046][746]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:063][747]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:079][748]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:096][749]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:113][750]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:130][751]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:145][752]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:162][753]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:179][754]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:196][755]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:212][756]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:229][757]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:246][758]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:262][759]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:279][760]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:296][761]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:312][762]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:329][763]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:346][764]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:363][765]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:379][766]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:396][767]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:413][768]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:429][769]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:446][770]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:463][771]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:480][772]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:497][773]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:512][774]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:529][775]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:546][776]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:562][777]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:579][778]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:596][779]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:613][780]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:629][781]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:646][782]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:663][783]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:679][784]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:696][785]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:712][786]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:729][787]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:746][788]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:763][789]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:779][790]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:796][791]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:813][792]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:829][793]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:846][794]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:863][795]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:880][796]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:895][797]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:912][798]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:929][799]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:945][800]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:963][801]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:979][802]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.40:996][803]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:013][804]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:030][805]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:046][806]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:063][807]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:081][808]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:098][809]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:114][810]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:131][811]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:148][812]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:164][813]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:181][814]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:198][815]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:215][816]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:231][817]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:248][818]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:265][819]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:282][820]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:298][821]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:315][822]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:332][823]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:349][824]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:365][825]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:381][826]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:398][827]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:415][828]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:431][829]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:448][830]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:465][831]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:482][832]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:498][833]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:515][834]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:532][835]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:550][836]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:574][837]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:593][838]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:610][839]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:625][840]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:642][841]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:659][842]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:676][843]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:692][844]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:709][845]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:726][846]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:743][847]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:759][848]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:776][849]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:792][850]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:808][851]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:825][852]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:842][853]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:858][854]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:875][855]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:892][856]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:909][857]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:926][858]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:942][859]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:959][860]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:976][861]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.41:992][862]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:009][863]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:026][864]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:042][865]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:059][866]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:076][867]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:092][868]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:109][869]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:126][870]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:143][871]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:160][872]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:175][873]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:192][874]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:208][875]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:226][876]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:243][877]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:259][878]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:276][879]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:292][880]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:309][881]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:326][882]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:343][883]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:359][884]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:376][885]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:392][886]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:409][887]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:426][888]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:442][889]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:459][890]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:477][891]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:494][892]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:509][893]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:526][894]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:543][895]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:559][896]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:576][897]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:593][898]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:609][899]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:626][900]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:643][901]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:660][902]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:676][903]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:693][904]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:709][905]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:727][906]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:743][907]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:759][908]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:776][909]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:792][910]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:809][911]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:825][912]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:842][913]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:859][914]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:876][915]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:892][916]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:909][917]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:926][918]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:942][919]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:960][920]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:976][921]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.42:993][922]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:009][923]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:026][924]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:043][925]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:060][926]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:076][927]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:093][928]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:110][929]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:126][930]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:143][931]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:160][932]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:176][933]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:193][934]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:209][935]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:226][936]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:243][937]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:259][938]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:276][939]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:293][940]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:310][941]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:327][942]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:343][943]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:360][944]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:377][945]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:393][946]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:410][947]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:427][948]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:443][949]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:460][950]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:477][951]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:493][952]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:511][953]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:527][954]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:544][955]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:560][956]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:576][957]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:593][958]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:610][959]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:626][960]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:644][961]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:660][962]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:678][963]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:693][964]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:710][965]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:728][966]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:743][967]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:760][968]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:777][969]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:793][970]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:810][971]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:827][972]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:844][973]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:860][974]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:877][975]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:893][976]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:911][977]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:927][978]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:944][979]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:960][980]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:977][981]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.43:994][982]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:010][983]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:026][984]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:043][985]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:059][986]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:076][987]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:093][988]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:109][989]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:126][990]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:143][991]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:161][992]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:176][993]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:193][994]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:210][995]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:230][996]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:244][997]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:261][998]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:277][999]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:293][  0]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:310][  1]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:326][  2]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:343][  3]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:360][  4]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:376][  5]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:393][  6]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:410][  7]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:426][  8]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:443][  9]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:461][ 10]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.03-23.08.44:462][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.12.03-23.08.44:466][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.08.44:542][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-23.08.44:543][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest' with GeneratedClass '/Game/FirstPersonBP/Maps/HuangTest.HuangTest_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/HuangTest.HuangTest:PersistentLevel.HuangTest'
+[2018.12.03-23.08.44:586][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-23.08.44:640][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.03-23.08.49:818][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-23.08.56:627][664]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error E_INVALIDARG
+[2018.12.03-23.08.56:627][664]LogWindows: Windows GetLastError: The operation completed successfully. (0)
