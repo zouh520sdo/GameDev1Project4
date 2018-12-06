@@ -1,4 +1,4 @@
-﻿Log file open, 12/05/18 14:39:01
+﻿Log file open, 12/05/18 21:15:10
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,9 +8,10 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: UnrealHouse
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.309439
+LogStats: Stats thread started at 0.315314
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[EditorPerProjectUserSettings]
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -91,7 +92,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.226s to configure plugins.
+LogStreaming: Display: Took  0.234s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -145,597 +146,788 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.006s to delete old logs.
+LogStreaming: Display: Took  0.012s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.12.05-19.39.02:045][  0]LogInit: Selected Device Profile: [Windows]
-[2018.12.05-19.39.02:045][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.12.05-19.39.02:058][  0]LogHAL: Display: Platform has ~ 16 GB [16958464000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.12.05-19.39.02:058][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.12.05-19.39.02:058][  0]LogInit: Going up to parent DeviceProfile []
-[2018.12.05-19.39.02:059][  0]LogInit: Computer: DELL-KIRSTEN
-[2018.12.05-19.39.02:059][  0]LogInit: User: KirstenPilla
-[2018.12.05-19.39.02:059][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.12.05-19.39.02:059][  0]LogInit: High frequency timer resolution =2.531252 MHz
-[2018.12.05-19.39.02:059][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
-[2018.12.05-19.39.02:059][  0]LogMemory: Platform Memory Stats for Windows
-[2018.12.05-19.39.02:059][  0]LogMemory: Process Physical Memory: 102.72 MB used, 102.72 MB peak
-[2018.12.05-19.39.02:059][  0]LogMemory: Process Virtual Memory: 101.71 MB used, 101.71 MB peak
-[2018.12.05-19.39.02:059][  0]LogMemory: Physical Memory: 7462.76 MB used,  8710.09 MB free, 16172.85 MB total
-[2018.12.05-19.39.02:059][  0]LogMemory: Virtual Memory: 4650.95 MB used,  8710.09 MB free, 134217728.00 MB total
-[2018.12.05-19.39.02:087][  0]LogInit: Using OS detected language (en-US).
-[2018.12.05-19.39.02:087][  0]LogInit: Using OS detected locale (en-US).
-[2018.12.05-19.39.02:089][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.12.05-19.39.02:530][  0]LogStreaming: Display: Took  0.444s to InitEngineTextLocalization.
-[2018.12.05-19.39.02:531][  0]LogInit: Setting process to per monitor DPI aware
-[2018.12.05-19.39.02:577][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.12.05-19.39.02:577][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.12.05-19.39.02:896][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.12.05-19.39.02:896][  0]LogD3D11RHI: D3D11 adapters:
-[2018.12.05-19.39.02:956][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
-[2018.12.05-19.39.02:956][  0]LogD3D11RHI:       2010/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.12.05-19.39.02:966][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
-[2018.12.05-19.39.02:966][  0]LogD3D11RHI:       128/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.12.05-19.39.02:968][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.12.05-19.39.02:968][  0]LogD3D11RHI:       0/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.12.05-19.39.02:968][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.12.05-19.39.03:018][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.12.05-19.39.03:018][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
-[2018.12.05-19.39.03:018][  0]LogWindows: EnumDisplayDevices:
-[2018.12.05-19.39.03:018][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
-[2018.12.05-19.39.03:019][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.12.05-19.39.03:019][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.12.05-19.39.03:019][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.12.05-19.39.03:019][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
-[2018.12.05-19.39.03:019][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.12.05-19.39.03:019][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.12.05-19.39.03:019][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
-[2018.12.05-19.39.03:057][  0]LogD3D11RHI: Async texture creation enabled
-[2018.12.05-19.39.03:075][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.12.05-19.39.03:076][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Intermediate/Shaders/WorkingDirectory/29868/).
-[2018.12.05-19.39.03:076][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kirsten Pilla/AppData/Local/Temp/UnrealShaderWorkingDir/B234B94B4C447DBAF89C3D871C3A08A6/'.
-[2018.12.05-19.39.03:437][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.12.05-19.39.03:453][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.12.05-19.39.03:468][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.12.05-19.39.03:484][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.12.05-19.39.03:499][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.12.05-19.39.03:515][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.12.05-19.39.03:529][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.12.05-19.39.03:545][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.12.05-19.39.03:552][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:653][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.12.05-19.39.03:655][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.12.05-19.39.03:722][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.12.05-19.39.03:722][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.12.05-19.39.03:748][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.12.05-19.39.03:749][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.12.05-19.39.03:764][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.12.05-19.39.03:779][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.12.05-19.39.03:794][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.12.05-19.39.03:809][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.12.05-19.39.03:820][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.12.05-19.39.03:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.12.05-19.39.03:903][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.12.05-19.39.03:903][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.12.05-19.39.03:903][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.12.05-19.39.04:786][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.12.05-19.39.04:847][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.12.05-19.39.04:848][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.12.05-19.39.04:848][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.12.05-19.39.04:848][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.12.05-19.39.04:848][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.12.05-19.39.04:848][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.12.05-19.39.04:864][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.12.05-19.39.04:877][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.12.05-19.39.04:877][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.12.05-19.39.04:877][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.12.05-19.39.04:897][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.12.05-19.39.04:899][  0]LogSlate: Using FreeType 2.6.0
-[2018.12.05-19.39.04:899][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.12.05-19.39.04:983][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
-[2018.12.05-19.39.05:364][  0]LogInit: Selected Device Profile: [Windows]
-[2018.12.05-19.39.05:537][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.12.05-19.39.05:543][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.12.05-19.39.05:543][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.12.05-19.39.05:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.12.05-19.39.05:543][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.12.05-19.39.05:566][  0]LogNetVersion: UnrealHouse 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3536387037)
-[2018.12.05-19.39.06:287][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.206458 seconds
-[2018.12.05-19.39.06:297][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.12.05-19.39.06:297][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.12.05-19.39.06:297][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.12.05-19.39.07:336][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.12.05-19.39.07:349][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.12.05-19.39.07:521][  0]SourceControl: Source control is disabled
-[2018.12.05-19.39.07:521][  0]SourceControl: Source control is disabled
-[2018.12.05-19.39.07:523][  0]SourceControl: Source control is disabled
-[2018.12.05-19.39.07:524][  0]SourceControl: Source control is disabled
-[2018.12.05-19.39.07:735][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.12.05-19.39.07:868][  0]LogOcInput: OculusInput pre-init called
-[2018.12.05-19.39.07:956][  0]LogEngine: Initializing Engine...
-[2018.12.05-19.39.07:957][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.12.05-19.39.07:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.12.05-19.39.07:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.12.05-19.39.07:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.12.05-19.39.07:960][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.12.05-19.39.08:254][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.12.05-19.39.08:273][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.12.05-19.39.08:307][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.12.05-19.39.08:347][  0]LogInit: FAudioDevice initialized.
-[2018.12.05-19.39.08:348][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.12.05-19.39.08:404][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.12.05-19.39.08:405][  0]LogInit: Texture streaming: Enabled
-[2018.12.05-19.39.08:432][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.12.05-19.39.08:461][  0]LogInit: Transaction tracking system initialized
-[2018.12.05-19.39.08:492][  0]BlueprintLog: New page: Editor Load
-[2018.12.05-19.39.08:616][  0]LocalizationService: Localization service is disabled
-[2018.12.05-19.39.09:402][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
-[2018.12.05-19.39.09:402][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
-[2018.12.05-19.39.09:402][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
-[2018.12.05-19.39.09:414][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.12.05-19.39.09:414][  0]LogCook: Display: Mobile HDR setting 1
-[2018.12.05-19.39.09:414][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.12.05-19.39.09:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.12.05-19.39.09:414][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.12.05-19.39.09:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.12.05-19.39.09:415][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.12.05-19.39.09:593][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/' took 0.03s
-[2018.12.05-19.39.09:593][  0]SourceControl: Source control is disabled
-[2018.12.05-19.39.09:593][  0]Cmd: MAP LOAD FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.12.05-19.39.09:593][  0]LightingResults: New page: Lighting Build
-[2018.12.05-19.39.09:598][  0]MapCheck: New page: Map Check
-[2018.12.05-19.39.09:598][  0]LightingResults: New page: Lighting Build
-[2018.12.05-19.39.10:638][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.12.05-19.39.10:658][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.12.05-19.39.10:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.12.05-19.39.10:857][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 167.549ms to complete.
-[2018.12.05-19.39.10:857][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.264
-[2018.12.05-19.39.10:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-19.39.10:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-19.39.10:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-19.39.11:004][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.12.05-19.39.11:011][  0]LogCollectionManager: Loaded 0 collections in 0.001744 seconds
-[2018.12.05-19.39.11:055][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Collections/' took 0.01s
-[2018.12.05-19.39.11:055][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Developers/KirstenPilla/Collections/' took 0.01s
-[2018.12.05-19.39.11:055][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Collections/' took 0.01s
-[2018.12.05-19.39.11:055][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.12.05-19.39.11:066][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2572 classes and 603 folders.
-[2018.12.05-19.39.11:074][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.12.05-19.39.11:134][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.12.05-19.39.11:141][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.12.05-19.39.11:259][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.12.05-19.39.11:259][  0]LogLoad: (Engine Initialization) Total time: 11.46 seconds
-[2018.12.05-19.39.11:259][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.12.05-19.39.11:280][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.12.05-19.39.11:321][  0]LogContentStreaming: Texture pool size now 800 MB
-[2018.12.05-19.39.11:323][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.12.05-19.39.11:326][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.12.05-19.39.11:332][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.12.05-19.39.11:456][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.12.05-19.39.11:488][  1]LogRenderer: Reallocating scene render targets to support 628x332 Format 9 NumSamples 1 (Frame:1).
-[2018.12.05-19.39.11:563][  1]LogAssetRegistry: Asset discovery search completed in 6.6031 seconds
-[2018.12.05-19.39.11:565][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.12.05-19.39.11:565][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
-[2018.12.05-19.39.13:396][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.05-19.39.13:505][ 97]LogRenderer: Reallocating scene render targets to support 756x408 Format 9 NumSamples 1 (Frame:94).
-[2018.12.05-19.39.14:307][144]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.12.05-19.39.15:916][239]AssetReimport: New page: Outstanding source content changes 9:39:15 AM
-[2018.12.05-19.39.15:937][239]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.fbx]
-[2018.12.05-19.39.15:949][239]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.fbx
-[2018.12.05-19.39.15:971][239]LogFbx: FBX Scene Loaded Succesfully
-[2018.12.05-19.39.15:974][239]LogFbx: =================================================
-[2018.12.05-19.39.15:974][239]LogFbx: Dumping Node START [Geo] 
-[2018.12.05-19.39.15:974][239]LogFbx: 	Total Deformer Count 1207646368.
-[2018.12.05-19.39.15:974][239]LogFbx: 		[Node 1]  (Type Skin).
-[2018.12.05-19.39.15:974][239]LogFbx: =================================================
-[2018.12.05-19.39.15:974][239]LogFbx: 	Attribute () Type (4).
-[2018.12.05-19.39.15:974][239]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
-[2018.12.05-19.39.15:975][239]LogFbx: Dumping Node END [Geo]
-[2018.12.05-19.39.15:975][239]LogFbx: =================================================
-[2018.12.05-19.39.15:975][239]LogFbx: Dumping Node START [Geo] 
-[2018.12.05-19.39.15:975][239]LogFbx: 	Total Deformer Count 1207646368.
-[2018.12.05-19.39.15:975][239]LogFbx: 		[Node 1]  (Type Skin).
-[2018.12.05-19.39.15:975][239]LogFbx: =================================================
-[2018.12.05-19.39.15:975][239]LogFbx: 	Attribute () Type (4).
-[2018.12.05-19.39.15:975][239]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
-[2018.12.05-19.39.15:975][239]LogFbx: Dumping Node END [Geo]
-[2018.12.05-19.39.15:977][239]LogFbx: Valid bind pose for Pose (skinCluster1) - Geo
-[2018.12.05-19.39.15:978][239]LogFbx: Triangulating skeletal mesh Geo
-[2018.12.05-19.39.16:125][239]LogSkeletalMesh: Section 0: 988 vertices, 23 active bones
-[2018.12.05-19.39.16:125][239]LogSkeletalMesh: Section 0: Material=0, 1648 triangles
-[2018.12.05-19.39.16:126][239]LogSkeletalMesh: Building Skeletal Mesh armPhone...
-[2018.12.05-19.39.16:127][239]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armPhone.armPhone
-[2018.12.05-19.39.16:129][239]LogEditorFactories: -- imported successfully
-[2018.12.05-19.39.16:137][239]LogSkeletalMesh: Building Skeletal Mesh armPhone...
-[2018.12.05-19.39.16:141][239]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armPhone.armPhone
-[2018.12.05-19.39.16:146][239]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.fbx]
-[2018.12.05-19.39.16:155][239]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.fbx
-[2018.12.05-19.39.16:177][239]LogFbx: FBX Scene Loaded Succesfully
-[2018.12.05-19.39.16:178][239]LogFbx: =================================================
-[2018.12.05-19.39.16:178][239]LogFbx: Dumping Node START [Geo] 
-[2018.12.05-19.39.16:178][239]LogFbx: 	Total Deformer Count 1207646168.
-[2018.12.05-19.39.16:178][239]LogFbx: 		[Node 1]  (Type Skin).
-[2018.12.05-19.39.16:178][239]LogFbx: =================================================
-[2018.12.05-19.39.16:178][239]LogFbx: 	Attribute () Type (4).
-[2018.12.05-19.39.16:178][239]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
-[2018.12.05-19.39.16:178][239]LogFbx: Dumping Node END [Geo]
-[2018.12.05-19.39.16:178][239]LogFbx: =================================================
-[2018.12.05-19.39.16:178][239]LogFbx: Dumping Node START [Geo] 
-[2018.12.05-19.39.16:178][239]LogFbx: 	Total Deformer Count 1207646168.
-[2018.12.05-19.39.16:178][239]LogFbx: 		[Node 1]  (Type Skin).
-[2018.12.05-19.39.16:178][239]LogFbx: =================================================
-[2018.12.05-19.39.16:178][239]LogFbx: 	Attribute () Type (4).
-[2018.12.05-19.39.16:178][239]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
-[2018.12.05-19.39.16:178][239]LogFbx: Dumping Node END [Geo]
-[2018.12.05-19.39.16:179][239]LogFbx: Parsing AnimStack Take 001
-[2018.12.05-19.39.16:261][239]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Animations/armPhone_Anim.armPhone_Anim
-[2018.12.05-19.39.16:262][239]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.armPhone_Anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.12.05-19.39.16:271][239]LogEditorFactories: -- imported successfully
-[2018.12.05-19.39.16:318][240]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/arm/hand_initialShadingGroup_BaseColor.png]
-[2018.12.05-19.39.16:318][240]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/arm/hand_initialShadingGroup_BaseColor.png)
-[2018.12.05-19.39.16:617][240]LogEditorFactories: -- imported successfully
-[2018.12.05-19.39.16:733][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armPhone" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.uasset" SILENT=true
-[2018.12.05-19.39.16:770][241]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armPhoneEC3EFDCF4CDA08FFEE9932BEF44BB9D9.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.uasset'
-[2018.12.05-19.39.16:835][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armPhone_Anim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone_Anim.uasset" SILENT=true
-[2018.12.05-19.39.16:872][241]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armPhone_Anim7F958FD64FAED9BC989B1EBD11196F85.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone_Anim.uasset'
-[2018.12.05-19.39.17:119][241]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/hand_initialShadingGroup_BaseCol1DF85101421C4933C961BEBE184718BC.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/arm/hand_initialShadingGroup_BaseColor.uasset'
-[2018.12.05-19.39.17:147][242]LogFileCache: Retrieving MD5 hashes for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/' took 5.85s
-[2018.12.05-19.39.20:145][412]AssetReimport: Reimported asset armPhone from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.fbx.
-[2018.12.05-19.39.20:145][412]AssetReimport: Reimported asset armPhone_Anim from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armPhone.fbx.
-[2018.12.05-19.39.20:145][412]AssetReimport: Reimported asset hand_initialShadingGroup_BaseColor from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/arm/hand_initialShadingGroup_BaseColor.png.
-[2018.12.05-19.39.24:586][677]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Geometry/Animations/armPhone_Anim.armPhone_Anim
-[2018.12.05-19.39.24:610][677]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.12.05-19.39.24:869][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.12.05-19.39.24:872][677]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
-[2018.12.05-19.39.24:934][677]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.12.05-19.39.25:455][677]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
-[2018.12.05-19.39.25:489][677]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
-[2018.12.05-19.39.29:354][901]LogRenderer: Reallocating scene render targets to support 756x424 Format 9 NumSamples 1 (Frame:228).
-[2018.12.05-19.40.07:604][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.05-19.40.11:390][381]LogSlate: Window 'armPhone_Anim' being destroyed
-[2018.12.05-19.40.11:429][381]LogSlate: Window 'armPhone_Anim' being destroyed
-[2018.12.05-19.40.12:498][407]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Geometry/Animations/armPhone_Anim.armPhone_Anim
-[2018.12.05-19.40.12:514][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.12.05-19.40.12:580][407]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.12.05-19.40.13:071][407]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
-[2018.12.05-19.40.24:844][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.12.05-19.40.24:895][100]LogSlate: Window 'armPhone_Anim' being destroyed
-[2018.12.05-19.40.24:903][100]LogSlate: Window 'armPhone_Anim' being destroyed
-[2018.12.05-19.41.09:019][283]LogSlate: Window 'UnrealHouse - Unreal Editor' being destroyed
-[2018.12.05-19.41.09:021][283]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.12.05-19.41.09:254][284]Cmd: QUIT_EDITOR
-[2018.12.05-19.41.09:295][284]LogExit: Preparing to exit.
-[2018.12.05-19.41.09:455][284]LogExit: Editor shut down
-[2018.12.05-19.41.09:455][284]LogExit: Transaction tracking system shut down
-[2018.12.05-19.41.09:789][284]LogExit: Object subsystem successfully closed.
-[2018.12.05-19.41.09:819][284]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.12.05-19.41.09:825][284]LogD3D11RHI: Shutdown
-[2018.12.05-19.41.09:825][284]LogD3D11RHI: CleanupD3DDevice
-[2018.12.05-19.41.09:827][284]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (618)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module AnimationEditor (612)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
-[2018.12.05-19.41.09:872][284]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module BspMode (582)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
-[2018.12.05-19.41.09:873][284]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module SessionServices (532)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
-[2018.12.05-19.41.09:874][284]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module MergeActors (496)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
-[2018.12.05-19.41.10:728][284]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module XmlParser (484)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module Blutility (482)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
-[2018.12.05-19.41.10:729][284]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module AutomationController (462)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module Layers (458)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module Persona (450)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module Kismet (444)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module Toolbox (438)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
-[2018.12.05-19.41.10:796][284]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module OutputLog (432)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module GammaUI (430)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module Documentation (428)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module MovieScene (424)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module PortalServices (416)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module AIModule (410)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
-[2018.12.05-19.41.10:797][284]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module OculusInput (390)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
-[2018.12.05-19.41.11:007][284]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module CableComponent (382)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
-[2018.12.05-19.41.11:008][284]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module BackChannel (356)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module AppleVision (354)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
-[2018.12.05-19.41.11:012][284]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module SourceControl (313)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
-[2018.12.05-19.41.11:013][284]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
-[2018.12.05-19.41.11:014][284]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
-[2018.12.05-19.41.11:115][284]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module DataValidation (270)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
-[2018.12.05-19.41.11:216][284]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
-[2018.12.05-19.41.11:217][284]LogModuleManager: Shutting down and abandoning module MainFrame (262)
-[2018.12.05-19.41.11:217][284]LogModuleManager: Shutting down and abandoning module HotReload (261)
-[2018.12.05-19.41.11:217][284]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
-[2018.12.05-19.41.11:218][284]LogModuleManager: Shutting down and abandoning module TreeMap (255)
-[2018.12.05-19.41.11:218][284]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
-[2018.12.05-19.41.11:218][284]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
-[2018.12.05-19.41.11:218][284]LogModuleManager: Shutting down and abandoning module Paper2D (248)
-[2018.12.05-19.41.11:218][284]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
-[2018.12.05-19.41.11:218][284]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
-[2018.12.05-19.41.11:220][284]LogModuleManager: Shutting down and abandoning module Media (243)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module Overlay (232)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module VREditor (228)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module UMG (214)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module Sequencer (212)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module MessageLog (209)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module Slate (202)
-[2018.12.05-19.41.11:227][284]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module MRMesh (198)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module Networking (190)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module Core (188)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
-[2018.12.05-19.41.11:229][284]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
-[2018.12.05-19.41.11:300][284]LogDerivedDataCache: Shutdown
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module XGEController (160)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
-[2018.12.05-19.41.11:301][284]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
-[2018.12.05-19.41.11:302][284]LogModuleManager: Shutting down and abandoning module Messaging (115)
-[2018.12.05-19.41.11:302][284]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
-[2018.12.05-19.41.11:303][284]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
-[2018.12.05-19.41.11:303][284]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
-[2018.12.05-19.41.11:309][284]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module InputCore (88)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module Settings (86)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module SteamVR (82)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
-[2018.12.05-19.41.11:310][284]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
-[2018.12.05-19.41.11:312][284]LogModuleManager: Shutting down and abandoning module XMPP (65)
-[2018.12.05-19.41.11:312][284]LogModuleManager: Shutting down and abandoning module WebSockets (64)
-[2018.12.05-19.41.11:344][284]LogModuleManager: Shutting down and abandoning module HTTP (61)
-[2018.12.05-19.41.11:344][284]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.12.05-19.41.11:344][284]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBF4C8221-4632-CE29-1785-C3996C9A6C46%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4b1f8cab4e6779208b3329852066496f%7Cf8ee6bc79474439da18d2cf1531e22e1%7C268ed277-6ae6-42a1-96b1-4d1cbc87210d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.12.05-19.41.11:347][284]LogModuleManager: Shutting down and abandoning module SSL (60)
-[2018.12.05-19.41.11:348][284]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
-[2018.12.05-19.41.11:348][284]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
-[2018.12.05-19.41.11:348][284]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
-[2018.12.05-19.41.11:348][284]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
-[2018.12.05-19.41.11:349][284]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.12.05-19.41.11:349][284]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.12.05-19.41.11:358][284]LogExit: Exiting.
-[2018.12.05-19.41.11:383][284]Log file closed, 12/05/18 14:41:11
+[2018.12.06-02.15.11:053][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.06-02.15.11:053][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.06-02.15.11:068][  0]LogHAL: Display: Platform has ~ 16 GB [16958464000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.06-02.15.11:068][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.06-02.15.11:068][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.06-02.15.11:068][  0]LogInit: Computer: DELL-KIRSTEN
+[2018.12.06-02.15.11:068][  0]LogInit: User: KirstenPilla
+[2018.12.06-02.15.11:068][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.06-02.15.11:068][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.12.06-02.15.11:068][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.12.06-02.15.11:068][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.06-02.15.11:068][  0]LogMemory: Process Physical Memory: 103.70 MB used, 103.70 MB peak
+[2018.12.06-02.15.11:068][  0]LogMemory: Process Virtual Memory: 94.54 MB used, 94.54 MB peak
+[2018.12.06-02.15.11:068][  0]LogMemory: Physical Memory: 9374.00 MB used,  6798.85 MB free, 16172.85 MB total
+[2018.12.06-02.15.11:069][  0]LogMemory: Virtual Memory: 4643.95 MB used,  6798.85 MB free, 134217728.00 MB total
+[2018.12.06-02.15.11:099][  0]LogInit: Using OS detected language (en-US).
+[2018.12.06-02.15.11:099][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.06-02.15.11:100][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.06-02.15.11:567][  0]LogStreaming: Display: Took  0.468s to InitEngineTextLocalization.
+[2018.12.06-02.15.11:568][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.06-02.15.11:648][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.06-02.15.11:648][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.06-02.15.11:978][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.06-02.15.11:978][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.06-02.15.12:043][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.12.06-02.15.12:043][  0]LogD3D11RHI:       2010/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.06-02.15.12:052][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.12.06-02.15.12:052][  0]LogD3D11RHI:       128/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.06-02.15.12:055][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.06-02.15.12:055][  0]LogD3D11RHI:       0/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.06-02.15.12:057][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.06-02.15.12:057][  0]LogD3D11RHI:       0/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.06-02.15.12:057][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.06-02.15.12:109][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.06-02.15.12:109][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.12.06-02.15.12:109][  0]LogWindows: EnumDisplayDevices:
+[2018.12.06-02.15.12:109][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.12.06-02.15.12:109][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.06-02.15.12:109][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.06-02.15.12:110][  0]LogWindows:    3. 'DisplayLink USB Device' (P:0 D:1)
+[2018.12.06-02.15.12:110][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.06-02.15.12:110][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.12.06-02.15.12:110][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.06-02.15.12:110][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.06-02.15.12:110][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.12.06-02.15.12:151][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.06-02.15.12:169][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.06-02.15.12:170][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Intermediate/Shaders/WorkingDirectory/22356/).
+[2018.12.06-02.15.12:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kirsten Pilla/AppData/Local/Temp/UnrealShaderWorkingDir/C5915EB9427B92DBEBC098B66B2E21C3/'.
+[2018.12.06-02.15.12:568][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.06-02.15.12:592][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.06-02.15.12:611][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.06-02.15.12:629][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.06-02.15.12:647][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.06-02.15.12:664][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.06-02.15.12:680][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.06-02.15.12:695][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.06-02.15.12:705][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.06-02.15.12:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:817][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-02.15.12:819][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.06-02.15.12:883][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.06-02.15.12:883][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.06-02.15.12:920][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.06-02.15.12:920][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.06-02.15.12:936][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.06-02.15.12:953][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.06-02.15.12:969][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.06-02.15.12:986][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.06-02.15.12:997][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.06-02.15.12:997][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.06-02.15.13:080][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.06-02.15.13:080][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.06-02.15.13:080][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.06-02.15.14:048][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.06-02.15.14:106][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.06-02.15.14:107][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.06-02.15.14:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.06-02.15.14:107][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.06-02.15.14:107][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.06-02.15.14:107][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.06-02.15.14:121][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.06-02.15.14:134][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.06-02.15.14:134][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.06-02.15.14:134][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.06-02.15.14:154][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.06-02.15.14:156][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.06-02.15.14:156][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.06-02.15.14:240][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.12.06-02.15.14:663][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.06-02.15.14:733][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.06-02.15.14:738][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.06-02.15.14:738][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.06-02.15.14:739][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.06-02.15.14:739][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.06-02.15.14:855][  0]LogNetVersion: UnrealHouse 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3536387037)
+[2018.12.06-02.15.15:578][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.200581 seconds
+[2018.12.06-02.15.15:586][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.06-02.15.15:587][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.06-02.15.15:587][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.06-02.15.16:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.06-02.15.16:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.06-02.15.16:874][  0]SourceControl: Source control is disabled
+[2018.12.06-02.15.16:874][  0]SourceControl: Source control is disabled
+[2018.12.06-02.15.16:876][  0]SourceControl: Source control is disabled
+[2018.12.06-02.15.16:877][  0]SourceControl: Source control is disabled
+[2018.12.06-02.15.17:081][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.06-02.15.17:196][  0]LogOcInput: OculusInput pre-init called
+[2018.12.06-02.15.17:279][  0]LogEngine: Initializing Engine...
+[2018.12.06-02.15.17:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.06-02.15.17:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.06-02.15.17:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.06-02.15.17:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.06-02.15.17:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.06-02.15.17:565][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.06-02.15.17:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.06-02.15.17:612][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.15.17:649][  0]LogInit: FAudioDevice initialized.
+[2018.12.06-02.15.17:650][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.06-02.15.17:712][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Kirsten Pilla/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.06-02.15.17:721][  0]LogInit: Texture streaming: Enabled
+[2018.12.06-02.15.17:746][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.06-02.15.17:776][  0]LogInit: Transaction tracking system initialized
+[2018.12.06-02.15.17:809][  0]BlueprintLog: New page: Editor Load
+[2018.12.06-02.15.17:916][  0]LocalizationService: Localization service is disabled
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:704][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.06-02.15.18:716][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.06-02.15.18:716][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.06-02.15.18:716][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.06-02.15.18:716][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.06-02.15.18:716][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.06-02.15.18:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.06-02.15.18:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.06-02.15.18:901][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/' took 0.03s
+[2018.12.06-02.15.18:901][  0]SourceControl: Source control is disabled
+[2018.12.06-02.15.18:901][  0]Cmd: MAP LOAD FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.06-02.15.18:902][  0]LightingResults: New page: Lighting Build
+[2018.12.06-02.15.18:905][  0]MapCheck: New page: Map Check
+[2018.12.06-02.15.18:905][  0]LightingResults: New page: Lighting Build
+[2018.12.06-02.15.19:879][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.06-02.15.19:898][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.06-02.15.19:925][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.06-02.15.20:097][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 171.912ms to complete.
+[2018.12.06-02.15.20:097][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.196
+[2018.12.06-02.15.20:234][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.15.20:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.15.20:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.15.20:272][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.15.20:281][  0]LogCollectionManager: Loaded 0 collections in 0.002576 seconds
+[2018.12.06-02.15.20:328][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Collections/' took 0.01s
+[2018.12.06-02.15.20:328][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Developers/KirstenPilla/Collections/' took 0.01s
+[2018.12.06-02.15.20:328][  0]LogFileCache: Scanning file cache for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Collections/' took 0.01s
+[2018.12.06-02.15.20:328][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.06-02.15.20:343][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2572 classes and 603 folders.
+[2018.12.06-02.15.20:352][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.06-02.15.20:421][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.06-02.15.20:429][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.06-02.15.20:564][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.06-02.15.20:564][  0]LogLoad: (Engine Initialization) Total time: 11.93 seconds
+[2018.12.06-02.15.20:564][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.06-02.15.20:584][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.06-02.15.20:631][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.06-02.15.20:633][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.06-02.15.20:637][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.06-02.15.20:646][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.06-02.15.20:786][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.06-02.15.20:810][  1]LogRenderer: Reallocating scene render targets to support 628x332 Format 9 NumSamples 1 (Frame:1).
+[2018.12.06-02.15.20:908][  2]LogAssetRegistry: Asset discovery search completed in 6.6909 seconds
+[2018.12.06-02.15.20:911][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.06-02.15.20:911][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2018.12.06-02.15.25:835][286]LogFileCache: Retrieving MD5 hashes for directory 'C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/' took 5.24s
+[2018.12.06-02.15.43:049][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.15.50:224][747]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.06-02.15.50:409][747]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.15.50:409][747]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap.
+[2018.12.06-02.15.50:409][747]LoadErrors: Error: /Game/FirstPersonBP/Maps/Kirsten : Can't find file for asset. /Game/Geometry/Meshes/blanket
+[2018.12.06-02.15.50:424][747]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.15.50:424][747]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap.
+[2018.12.06-02.15.50:428][747]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.15.50:428][747]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading NULL.
+[2018.12.06-02.15.50:428][747]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.15.50:428][747]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading NULL.
+[2018.12.06-02.15.50:477][747]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.15.50:477][747]LoadErrors: Failed to load /Game/Geometry/Meshes/blanket.blanket Referenced by blanket_5
+[2018.12.06-02.15.50:477][747]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading NULL.
+[2018.12.06-02.15.50:696][747]LogTexture: Display: Building textures: hand_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.12.06-02.15.50:738][747]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_3...
+[2018.12.06-02.15.50:738][747]LogTemp: Couldn't find amount to resample to.
+[2018.12.06-02.15.50:823][747]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.15.50:839][747]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Kirsten.Kirsten
+[2018.12.06-02.15.50:864][747]Cmd: MAP LOAD FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.06-02.15.50:865][747]LightingResults: New page: Lighting Build
+[2018.12.06-02.15.50:865][747]LoadErrors: New page: Loading map: Kirsten.umap
+[2018.12.06-02.15.50:866][747]MapCheck: New page: Map Check
+[2018.12.06-02.15.50:866][747]LightingResults: New page: Lighting Build
+[2018.12.06-02.15.50:985][747]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.06-02.15.51:076][747]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.06-02.15.51:249][747]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.572ms to complete.
+[2018.12.06-02.15.51:249][747]LogFileHelpers: Loading map 'Kirsten' took 0.386
+[2018.12.06-02.15.54:906][955]LogRenderer: Reallocating scene render targets to support 756x408 Format 9 NumSamples 1 (Frame:196).
+[2018.12.06-02.15.55:934][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.15.55:975][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.15.55:976][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.15.55:988][ 16]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:15:55 PM)
+[2018.12.06-02.15.55:988][ 16]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.15.55:994][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005459s)
+[2018.12.06-02.15.55:995][ 16]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.15.55:995][ 16]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.12.06-02.15.55:995][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.006488s)
+[2018.12.06-02.15.56:022][ 16]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.15.56:053][ 16]LogInit: FAudioDevice initialized.
+[2018.12.06-02.15.56:099][ 16]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.15.56:103][ 16]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.15.56
+[2018.12.06-02.15.56:104][ 16]LogWorld: Bringing up level for play took: 0.002968
+[2018.12.06-02.15.56:122][ 16]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.12.06-02.15.56:124][ 16]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 0.936
+[2018.12.06-02.15.56:125][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.16.33:989][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.16.33:995][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.16.34:035][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.16.34:035][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.16.34:063][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.16.34:102][276]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.06-02.48.46:211][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.48.46:362][201]AssetReimport: New page: Outstanding source content changes 4:48:46 PM
+[2018.12.06-02.48.46:372][201]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab.fbx)
+[2018.12.06-02.48.46:405][201]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab.fbx
+[2018.12.06-02.48.46:441][201]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.48.47:836][201]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.06-02.48.47:901][201]LogFbx: =================================================
+[2018.12.06-02.48.47:901][201]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.47:901][201]LogFbx: 	Total Deformer Count 941610456.
+[2018.12.06-02.48.47:901][201]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.47:901][201]LogFbx: =================================================
+[2018.12.06-02.48.47:901][201]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.47:901][201]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.47:901][201]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.47:901][201]LogFbx: =================================================
+[2018.12.06-02.48.47:901][201]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.47:901][201]LogFbx: 	Total Deformer Count 941610456.
+[2018.12.06-02.48.47:901][201]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.47:901][201]LogFbx: =================================================
+[2018.12.06-02.48.47:901][201]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.47:901][201]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.47:901][201]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.47:904][201]LogFbx: Valid bind pose for Pose (skinCluster1) - Geo
+[2018.12.06-02.48.48:112][201]LogFbx: Triangulating skeletal mesh Geo
+[2018.12.06-02.48.48:262][201]LogSkeletalMesh: Section 0: 988 vertices, 23 active bones
+[2018.12.06-02.48.48:262][201]LogSkeletalMesh: Section 0: Material=0, 1648 triangles
+[2018.12.06-02.48.48:263][201]LogSkeletalMesh: Building Skeletal Mesh armGrab...
+[2018.12.06-02.48.48:267][201]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armGrab.armGrab
+[2018.12.06-02.48.48:269][201]LogLinker: Can't find file '/Game/Geometry/Animations/armGrab_Skeleton'
+[2018.12.06-02.48.48:269][201]LogLinker: Can't find file '/Game/Geometry/Animations/armGrab_Skeleton'
+[2018.12.06-02.48.48:275][201]LogLinker: Can't find file '/Game/Geometry/Animations/armGrab_PhysicsAsset'
+[2018.12.06-02.48.48:275][201]LogLinker: Can't find file '/Game/Geometry/Animations/armGrab_PhysicsAsset'
+[2018.12.06-02.48.48:286][201]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.12.06-02.48.48:291][201]LogFbx: =================================================
+[2018.12.06-02.48.48:291][201]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.48:291][201]LogFbx: 	Total Deformer Count 1167468736.
+[2018.12.06-02.48.48:292][201]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.48:292][201]LogFbx: =================================================
+[2018.12.06-02.48.48:292][201]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.48:292][201]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.48:292][201]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.48:292][201]LogFbx: =================================================
+[2018.12.06-02.48.48:292][201]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.48:292][201]LogFbx: 	Total Deformer Count 1167468736.
+[2018.12.06-02.48.48:292][201]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.48:292][201]LogFbx: =================================================
+[2018.12.06-02.48.48:292][201]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.48:292][201]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.48:292][201]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(0) Skel
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(1) L_shoulder
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(2) L_elbow
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(3) L_forearm
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(4) L_wrist
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(5) L_pinkie_base
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(6) L_pinkie_joint1
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(7) L_pinkie_joint2
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(8) L_pinkie_tip
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(9) L_ring_base
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(10) L_ring_joint1
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(11) L_ring_joint2
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(12) L_ring_tip
+[2018.12.06-02.48.48:293][201]LogFbx: SortedLinks :(13) L_mid_base
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(14) L_mid_joint1
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(15) L_mid_joint2
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(16) L_mid_tip
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(17) L_index_base
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(18) L_index_joint1
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(19) L_index_joint2
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(20) L_index_top
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(21) L_thumb_base
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(22) L_thumb_joint
+[2018.12.06-02.48.48:294][201]LogFbx: SortedLinks :(23) L_thumb_tip
+[2018.12.06-02.48.48:294][201]LogFbx: Parsing AnimStack Take 001
+[2018.12.06-02.48.48:297][201]LogLinker: Can't find file '/Game/Geometry/Animations/armGrab_Anim'
+[2018.12.06-02.48.48:297][201]LogLinker: Can't find file '/Game/Geometry/Animations/armGrab_Anim'
+[2018.12.06-02.48.48:388][201]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Animations/armGrab_Anim.armGrab_Anim
+[2018.12.06-02.48.48:389][201]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.armGrab_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.06-02.48.48:397][201]LogSkeletalMesh: Building Skeletal Mesh armGrab...
+[2018.12.06-02.48.48:399][201]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armGrab.armGrab
+[2018.12.06-02.48.48:406][201]LogSkeletalMesh: Building Skeletal Mesh armGrab...
+[2018.12.06-02.48.48:409][201]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armGrab.armGrab
+[2018.12.06-02.48.48:445][202]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.48.48:460][202]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.48.48:487][202]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.48.48:488][202]LogFbx: =================================================
+[2018.12.06-02.48.48:488][202]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.48:489][202]LogFbx: 	Total Deformer Count 1167463024.
+[2018.12.06-02.48.48:489][202]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.48:489][202]LogFbx: =================================================
+[2018.12.06-02.48.48:489][202]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.48:489][202]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.48:489][202]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.48:489][202]LogFbx: =================================================
+[2018.12.06-02.48.48:489][202]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.48:489][202]LogFbx: 	Total Deformer Count 1167463024.
+[2018.12.06-02.48.48:489][202]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.48:489][202]LogFbx: =================================================
+[2018.12.06-02.48.48:489][202]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.48:489][202]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.48:489][202]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.48:490][202]LogFbx: Valid bind pose for Pose (skinCluster1) - Geo
+[2018.12.06-02.48.48:491][202]LogFbx: Triangulating skeletal mesh Geo
+[2018.12.06-02.48.48:616][202]LogSkeletalMesh: Section 0: 988 vertices, 23 active bones
+[2018.12.06-02.48.48:616][202]LogSkeletalMesh: Section 0: Material=0, 1648 triangles
+[2018.12.06-02.48.48:616][202]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.48.48:618][202]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.48.48:619][202]LogEditorFactories: -- imported successfully
+[2018.12.06-02.48.48:628][202]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.48.48:630][202]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.48.48:631][202]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.48.48:642][202]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.48.48:664][202]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.48.48:665][202]LogFbx: =================================================
+[2018.12.06-02.48.48:665][202]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.48:665][202]LogFbx: 	Total Deformer Count 1167465672.
+[2018.12.06-02.48.48:665][202]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.48:665][202]LogFbx: =================================================
+[2018.12.06-02.48.48:665][202]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.48:665][202]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.48:665][202]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.48:666][202]LogFbx: =================================================
+[2018.12.06-02.48.48:666][202]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.48.48:666][202]LogFbx: 	Total Deformer Count 1167465672.
+[2018.12.06-02.48.48:666][202]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.48.48:666][202]LogFbx: =================================================
+[2018.12.06-02.48.48:666][202]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.48.48:666][202]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.48.48:666][202]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.48.48:668][202]LogFbx: Parsing AnimStack Take 001
+[2018.12.06-02.48.48:821][202]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Animations/armDoor_Anim.armDoor_Anim
+[2018.12.06-02.48.48:821][202]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.armDoor_Anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.06-02.48.48:834][202]LogEditorFactories: -- imported successfully
+[2018.12.06-02.48.48:872][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.06-02.48.48:945][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armGrab" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab.uasset" SILENT=true
+[2018.12.06-02.48.48:965][203]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armGrab560A25724581E861D62AD789F9BB8C9D.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab.uasset'
+[2018.12.06-02.48.49:000][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset" SILENT=true
+[2018.12.06-02.48.49:168][203]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoor3489509D4E665CC7B3C851A548A7B22E.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset'
+[2018.12.06-02.48.49:249][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor_Anim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset" SILENT=true
+[2018.12.06-02.48.49:334][203]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoor_Anim6B706C11483441D7F0999FAAC069C743.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset'
+[2018.12.06-02.48.52:364][376]AssetReimport: Importing new asset /Game/Geometry/Animations/armGrab.
+[2018.12.06-02.48.52:364][376]AssetReimport: Reimported asset armDoor from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.48.52:364][376]AssetReimport: Reimported asset armDoor_Anim from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.49.03:331][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.49.05:041][136]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Kirsten.Kirsten
+[2018.12.06-02.49.07:953][136]LogSlate: Window 'Save Content' being destroyed
+[2018.12.06-02.49.07:988][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armGrab_Anim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab_Anim.uasset" SILENT=true
+[2018.12.06-02.49.08:006][136]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armGrab_Anim1031CEE34D601F522FC91EA643E3F05D.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab_Anim.uasset'
+[2018.12.06-02.49.08:069][136]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armGrab_PhysicsAsset0A06AA0842CB59844AEDF98DC03D6574.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab_PhysicsAsset.uasset'
+[2018.12.06-02.49.08:085][136]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armGrab_Skeleton98AD88E946D572A2A4D9489B7BDAE4D6.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armGrab_Skeleton.uasset'
+[2018.12.06-02.49.08:095][136]Cmd: MAP LOAD FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.06-02.49.08:096][136]LightingResults: New page: Lighting Build
+[2018.12.06-02.49.08:097][136]LoadErrors: New page: Loading map: Kirsten.umap
+[2018.12.06-02.49.08:098][136]MapCheck: New page: Map Check
+[2018.12.06-02.49.08:098][136]LightingResults: New page: Lighting Build
+[2018.12.06-02.49.08:164][136]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.49.08:164][136]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap.
+[2018.12.06-02.49.08:164][136]LoadErrors: Error: /Game/FirstPersonBP/Maps/Kirsten : Can't find file for asset. /Game/Geometry/Meshes/blanket
+[2018.12.06-02.49.08:169][136]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.49.08:170][136]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading ../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap.
+[2018.12.06-02.49.08:174][136]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.49.08:174][136]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading NULL.
+[2018.12.06-02.49.08:175][136]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.49.08:175][136]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading NULL.
+[2018.12.06-02.49.08:199][136]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/blanket'
+[2018.12.06-02.49.08:199][136]LoadErrors: Failed to load /Game/Geometry/Meshes/blanket.blanket Referenced by blanket_5
+[2018.12.06-02.49.08:200][136]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/blanket' while loading NULL.
+[2018.12.06-02.49.08:221][136]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.49.08:361][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.06-02.49.08:468][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.06-02.49.08:650][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 181.75ms to complete.
+[2018.12.06-02.49.08:651][136]LogFileHelpers: Loading map 'Kirsten' took 0.558
+[2018.12.06-02.49.19:780][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.49.19:860][796]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/MyFirstPersonCharacter.MyFirstPersonCharacter
+[2018.12.06-02.49.20:562][796]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.06-02.49.21:707][796]LogSlate: Took 0.001192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.06-02.49.21:912][797]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.06-02.49.26:701][ 58]LogRenderer: Reallocating scene render targets to support 780x548 Format 9 NumSamples 1 (Frame:1).
+[2018.12.06-02.49.30:889][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.49.35:238][560]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Geometry/Animations/armAnim.armAnim
+[2018.12.06-02.49.35:283][560]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.06-02.49.35:556][560]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.06-02.49.35:564][560]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.12.06-02.49.35:956][560]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.06-02.49.36:446][560]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.06-02.49.36:535][560]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.06-02.50.08:540][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armAnim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset" SILENT=true
+[2018.12.06-02.50.08:610][444]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armAnim77FF0FDA4EB0306D51C37DB3FDA6504E.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset'
+[2018.12.06-02.51.45:165][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armAnim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset" SILENT=true
+[2018.12.06-02.51.45:239][847]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armAnim01AE5E8140D3CCEA97F4F5A19A2E4565.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset'
+[2018.12.06-02.52.04:954][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armAnim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset" SILENT=true
+[2018.12.06-02.52.05:045][981]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armAnim5F30F37D40BFE3A15161BE8BE6ECE842.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset'
+[2018.12.06-02.52.24:941][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armAnim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset" SILENT=true
+[2018.12.06-02.52.25:010][131]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armAnimA2B4E2ED456A4A2BCCFEBE8486D97E34.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armAnim.uasset'
+[2018.12.06-02.53.10:747][820]BlueprintLog: New page: Compile armAnim
+[2018.12.06-02.53.13:167][946]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.53.13:223][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.53.13:223][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.53.13:224][946]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:53:13 PM)
+[2018.12.06-02.53.13:224][946]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.53.13:232][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007795s)
+[2018.12.06-02.53.13:233][946]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.53.13:234][946]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2018.12.06-02.53.13:234][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.009555s)
+[2018.12.06-02.53.13:286][946]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.53.13:330][946]LogInit: FAudioDevice initialized.
+[2018.12.06-02.53.13:373][946]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.53.13:378][946]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.53.13
+[2018.12.06-02.53.13:378][946]LogWorld: Bringing up level for play took: 0.004381
+[2018.12.06-02.53.13:394][946]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 0.206
+[2018.12.06-02.53.13:395][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.53.20:717][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.53.20:728][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.53.20:781][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.53.20:781][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.53.20:818][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.53.20:858][367]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.06-02.53.22:919][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.54.44:134][791]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.54.44:181][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.54.44:181][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.54.44:181][791]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:54:44 PM)
+[2018.12.06-02.54.44:181][791]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.54.44:187][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006620s)
+[2018.12.06-02.54.44:189][791]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.54.44:189][791]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2018.12.06-02.54.44:189][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.008609s)
+[2018.12.06-02.54.44:223][791]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.54.44:256][791]LogInit: FAudioDevice initialized.
+[2018.12.06-02.54.44:291][791]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.54.44:294][791]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.54.44
+[2018.12.06-02.54.44:295][791]LogWorld: Bringing up level for play took: 0.003076
+[2018.12.06-02.54.44:308][791]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 1.12
+[2018.12.06-02.54.44:309][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.54.48:699][ 48]AssetReimport: New page: Outstanding source content changes 4:54:48 PM
+[2018.12.06-02.54.48:701][ 48]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.54.48:717][ 48]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.54.48:741][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.54.48:742][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:742][ 48]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.54.48:742][ 48]LogFbx: 	Total Deformer Count 1167465208.
+[2018.12.06-02.54.48:742][ 48]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.54.48:742][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:742][ 48]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.54.48:742][ 48]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.54.48:742][ 48]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.54.48:742][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:742][ 48]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.54.48:742][ 48]LogFbx: 	Total Deformer Count 1167465208.
+[2018.12.06-02.54.48:742][ 48]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.54.48:742][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:742][ 48]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.54.48:742][ 48]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.54.48:742][ 48]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.54.48:743][ 48]LogFbx: Valid bind pose for Pose (skinCluster1) - Geo
+[2018.12.06-02.54.48:743][ 48]LogFbx: Triangulating skeletal mesh Geo
+[2018.12.06-02.54.48:870][ 48]LogSkeletalMesh: Section 0: 988 vertices, 23 active bones
+[2018.12.06-02.54.48:871][ 48]LogSkeletalMesh: Section 0: Material=0, 1648 triangles
+[2018.12.06-02.54.48:871][ 48]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.54.48:873][ 48]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.54.48:874][ 48]LogEditorFactories: -- imported successfully
+[2018.12.06-02.54.48:882][ 48]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.54.48:884][ 48]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.54.48:885][ 48]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.54.48:895][ 48]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.54.48:916][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.54.48:917][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:917][ 48]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.54.48:917][ 48]LogFbx: 	Total Deformer Count 1167462920.
+[2018.12.06-02.54.48:917][ 48]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.54.48:917][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:917][ 48]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.54.48:917][ 48]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.54.48:917][ 48]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.54.48:917][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:917][ 48]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.54.48:917][ 48]LogFbx: 	Total Deformer Count 1167462920.
+[2018.12.06-02.54.48:917][ 48]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.54.48:917][ 48]LogFbx: =================================================
+[2018.12.06-02.54.48:917][ 48]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.54.48:917][ 48]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.54.48:917][ 48]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.54.48:919][ 48]LogFbx: Parsing AnimStack Take 001
+[2018.12.06-02.54.49:050][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Animations/armDoor_Anim.armDoor_Anim
+[2018.12.06-02.54.49:050][ 48]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.06-02.54.49:061][ 48]LogEditorFactories: -- imported successfully
+[2018.12.06-02.54.49:148][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset" SILENT=true
+[2018.12.06-02.54.49:188][ 49]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoor363850E14146D6070013B5B20EC1964C.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset'
+[2018.12.06-02.54.49:212][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor_Anim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset" SILENT=true
+[2018.12.06-02.54.49:245][ 49]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoor_Anim44193745477AE57E5637FAA570685CF9.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset'
+[2018.12.06-02.54.52:270][229]AssetReimport: Reimported asset armDoor from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.54.52:270][229]AssetReimport: Reimported asset armDoor_Anim from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.55.05:165][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.55.05:166][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.55.05:205][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.55.05:205][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.55.05:234][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.55.05:304][986]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.06-02.55.11:094][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.55.11:543][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.55.11:587][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.55.11:587][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.55.11:587][356]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:55:11 PM)
+[2018.12.06-02.55.11:587][356]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.55.11:594][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006498s)
+[2018.12.06-02.55.11:595][356]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.55.11:595][356]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2018.12.06-02.55.11:595][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.007514s)
+[2018.12.06-02.55.11:635][356]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.55.11:666][356]LogInit: FAudioDevice initialized.
+[2018.12.06-02.55.11:696][356]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.55.11:699][356]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.55.11
+[2018.12.06-02.55.11:699][356]LogWorld: Bringing up level for play took: 0.002484
+[2018.12.06-02.55.11:712][356]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 0.524
+[2018.12.06-02.55.11:713][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.56.00:770][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.56.00:776][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.56.00:819][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.56.00:819][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.56.00:854][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.56.00:891][295]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.06-02.57.12:092][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.57.12:220][682]AssetReimport: New page: Outstanding source content changes 4:57:12 PM
+[2018.12.06-02.57.12:222][682]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.57.12:233][682]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.57.12:263][682]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.57.12:264][682]LogFbx: =================================================
+[2018.12.06-02.57.12:264][682]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.57.12:264][682]LogFbx: 	Total Deformer Count 1821542136.
+[2018.12.06-02.57.12:264][682]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.57.12:264][682]LogFbx: =================================================
+[2018.12.06-02.57.12:264][682]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.57.12:264][682]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.57.12:264][682]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.57.12:264][682]LogFbx: =================================================
+[2018.12.06-02.57.12:264][682]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.57.12:264][682]LogFbx: 	Total Deformer Count 1821542136.
+[2018.12.06-02.57.12:264][682]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.57.12:264][682]LogFbx: =================================================
+[2018.12.06-02.57.12:264][682]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.57.12:264][682]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.57.12:264][682]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.57.12:265][682]LogFbx: Valid bind pose for Pose (skinCluster1) - Geo
+[2018.12.06-02.57.12:266][682]LogFbx: Triangulating skeletal mesh Geo
+[2018.12.06-02.57.12:382][682]LogSkeletalMesh: Section 0: 988 vertices, 23 active bones
+[2018.12.06-02.57.12:382][682]LogSkeletalMesh: Section 0: Material=0, 1648 triangles
+[2018.12.06-02.57.12:383][682]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.57.12:384][682]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.57.12:385][682]LogEditorFactories: -- imported successfully
+[2018.12.06-02.57.12:395][682]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.57.12:397][682]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.57.12:398][682]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.57.12:408][682]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.57.12:428][682]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.57.12:429][682]LogFbx: =================================================
+[2018.12.06-02.57.12:429][682]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.57.12:429][682]LogFbx: 	Total Deformer Count 1821544120.
+[2018.12.06-02.57.12:429][682]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.57.12:429][682]LogFbx: =================================================
+[2018.12.06-02.57.12:429][682]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.57.12:429][682]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.57.12:429][682]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.57.12:429][682]LogFbx: =================================================
+[2018.12.06-02.57.12:430][682]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.57.12:430][682]LogFbx: 	Total Deformer Count 1821544120.
+[2018.12.06-02.57.12:430][682]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.57.12:430][682]LogFbx: =================================================
+[2018.12.06-02.57.12:430][682]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.57.12:430][682]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.57.12:430][682]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.57.12:431][682]LogFbx: Parsing AnimStack Take 001
+[2018.12.06-02.57.12:603][682]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Animations/armDoor_Anim.armDoor_Anim
+[2018.12.06-02.57.12:603][682]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.06-02.57.12:610][682]LogEditorFactories: -- imported successfully
+[2018.12.06-02.57.12:722][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset" SILENT=true
+[2018.12.06-02.57.12:758][683]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoorBF1E98AE41EB6F46F696C78BDFDA3EA4.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset'
+[2018.12.06-02.57.12:792][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor_Anim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset" SILENT=true
+[2018.12.06-02.57.12:825][683]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoor_Anim0DE3AB6C42F8FA75B5EE3CB74A5B2675.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset'
+[2018.12.06-02.57.14:464][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.06-02.57.14:778][779]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Kirsten7BBED12D44EAEEB49C39418D5C4E59ED.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap'
+[2018.12.06-02.57.16:093][779]AssetReimport: Reimported asset armDoor from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.57.16:093][779]AssetReimport: Reimported asset armDoor_Anim from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.57.16:535][779]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Kirsten_BuiltData66374CB641F7FA35B10F25BFB9873983.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset'
+[2018.12.06-02.57.17:428][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.57.17:494][836]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.57.17:536][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.57.17:536][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.57.17:536][836]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:57:17 PM)
+[2018.12.06-02.57.17:536][836]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.57.17:542][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005664s)
+[2018.12.06-02.57.17:542][836]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.57.17:542][836]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.12.06-02.57.17:543][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.006766s)
+[2018.12.06-02.57.17:581][836]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.57.17:611][836]LogInit: FAudioDevice initialized.
+[2018.12.06-02.57.17:645][836]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.57.17:649][836]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.57.17
+[2018.12.06-02.57.17:649][836]LogWorld: Bringing up level for play took: 0.002871
+[2018.12.06-02.57.17:662][836]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 0.473
+[2018.12.06-02.57.17:663][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.58.12:949][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.58.12:960][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.58.12:999][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.58.12:999][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.58.13:038][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.58.13:074][148]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.06-02.59.01:615][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.59.01:737][487]AssetReimport: New page: Outstanding source content changes 4:59:01 PM
+[2018.12.06-02.59.01:738][487]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.59.01:750][487]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.59.01:770][487]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.59.01:772][487]LogFbx: =================================================
+[2018.12.06-02.59.01:772][487]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.59.01:772][487]LogFbx: 	Total Deformer Count 1821545392.
+[2018.12.06-02.59.01:772][487]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.59.01:772][487]LogFbx: =================================================
+[2018.12.06-02.59.01:772][487]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.59.01:772][487]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.59.01:772][487]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.59.01:772][487]LogFbx: =================================================
+[2018.12.06-02.59.01:772][487]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.59.01:772][487]LogFbx: 	Total Deformer Count 1821545392.
+[2018.12.06-02.59.01:772][487]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.59.01:772][487]LogFbx: =================================================
+[2018.12.06-02.59.01:772][487]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.59.01:772][487]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.59.01:772][487]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.59.01:773][487]LogFbx: Valid bind pose for Pose (skinCluster1) - Geo
+[2018.12.06-02.59.01:774][487]LogFbx: Triangulating skeletal mesh Geo
+[2018.12.06-02.59.01:898][487]LogSkeletalMesh: Section 0: 988 vertices, 23 active bones
+[2018.12.06-02.59.01:899][487]LogSkeletalMesh: Section 0: Material=0, 1648 triangles
+[2018.12.06-02.59.01:900][487]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.59.01:901][487]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.59.01:902][487]LogEditorFactories: -- imported successfully
+[2018.12.06-02.59.01:912][487]LogSkeletalMesh: Building Skeletal Mesh armDoor...
+[2018.12.06-02.59.01:914][487]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Geometry/Animations/armDoor.armDoor
+[2018.12.06-02.59.01:915][487]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx]
+[2018.12.06-02.59.01:926][487]LogFbx: Loading FBX Scene from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx
+[2018.12.06-02.59.01:950][487]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.06-02.59.01:951][487]LogFbx: =================================================
+[2018.12.06-02.59.01:951][487]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.59.01:951][487]LogFbx: 	Total Deformer Count 1167464624.
+[2018.12.06-02.59.01:951][487]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.59.01:951][487]LogFbx: =================================================
+[2018.12.06-02.59.01:951][487]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.59.01:951][487]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.59.01:951][487]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.59.01:951][487]LogFbx: =================================================
+[2018.12.06-02.59.01:951][487]LogFbx: Dumping Node START [Geo] 
+[2018.12.06-02.59.01:951][487]LogFbx: 	Total Deformer Count 1167464624.
+[2018.12.06-02.59.01:951][487]LogFbx: 		[Node 1]  (Type Skin).
+[2018.12.06-02.59.01:951][487]LogFbx: =================================================
+[2018.12.06-02.59.01:951][487]LogFbx: 	Attribute () Type (4).
+[2018.12.06-02.59.01:951][487]LogFbx: 		[Node Attribute Child 1] Geo (Type Mesh).
+[2018.12.06-02.59.01:951][487]LogFbx: Dumping Node END [Geo]
+[2018.12.06-02.59.01:953][487]LogFbx: Parsing AnimStack Take 001
+[2018.12.06-02.59.02:078][487]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Animations/armDoor_Anim.armDoor_Anim
+[2018.12.06-02.59.02:078][487]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.06-02.59.02:085][487]LogEditorFactories: -- imported successfully
+[2018.12.06-02.59.02:203][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset" SILENT=true
+[2018.12.06-02.59.02:238][488]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoorDAC286A6409FB6F11C9A5EBE90A94E9C.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.uasset'
+[2018.12.06-02.59.02:277][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Animations/armDoor_Anim" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset" SILENT=true
+[2018.12.06-02.59.02:315][488]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/armDoor_Anim590F4151479190D48985479CA5B47FF1.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor_Anim.uasset'
+[2018.12.06-02.59.03:191][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.59.03:273][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.59.03:319][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.03:319][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.59.03:319][544]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:59:03 PM)
+[2018.12.06-02.59.03:319][544]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.59.03:327][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007416s)
+[2018.12.06-02.59.03:327][544]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.59.03:328][544]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.12.06-02.59.03:328][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.008336s)
+[2018.12.06-02.59.03:372][544]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.59.03:404][544]LogInit: FAudioDevice initialized.
+[2018.12.06-02.59.03:433][544]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.59.03:436][544]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.59.03
+[2018.12.06-02.59.03:437][544]LogWorld: Bringing up level for play took: 0.002546
+[2018.12.06-02.59.03:450][544]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten 0.262
+[2018.12.06-02.59.03:451][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.05:346][656]AssetReimport: Reimported asset armDoor from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.59.05:346][656]AssetReimport: Reimported asset armDoor_Anim from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Animations/armDoor.fbx.
+[2018.12.06-02.59.25:785][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.25:795][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.59.25:840][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.59.25:841][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.25:874][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.59.25:909][882]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.06-02.59.26:557][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (door)
+[2018.12.06-02.59.28:109][  6]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.06-02.59.31:298][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (doorFrame)
+[2018.12.06-02.59.34:390][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.59.34:455][383]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.59.34:506][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.34:506][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.59.34:506][383]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:59:34 PM)
+[2018.12.06-02.59.34:506][383]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.59.34:516][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009052s)
+[2018.12.06-02.59.34:516][383]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.59.34:517][383]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2018.12.06-02.59.34:517][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.010311s)
+[2018.12.06-02.59.34:557][383]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.59.34:594][383]LogInit: FAudioDevice initialized.
+[2018.12.06-02.59.34:625][383]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.59.34:630][383]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.59.34
+[2018.12.06-02.59.34:630][383]LogWorld: Bringing up level for play took: 0.004715
+[2018.12.06-02.59.34:643][383]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten -0.545
+[2018.12.06-02.59.34:644][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.40:217][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.40:230][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.59.40:271][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-02.59.40:271][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.40:301][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-02.59.40:335][712]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.06-02.59.42:356][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-02.59.42:439][832]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.06-02.59.42:479][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-02.59.42:480][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-02.59.42:480][832]PIE: New page: PIE session: Kirsten (Dec 5, 2018, 4:59:42 PM)
+[2018.12.06-02.59.42:480][832]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten
+[2018.12.06-02.59.42:491][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010631s)
+[2018.12.06-02.59.42:491][832]LogAIModule: Creating AISystem for world Kirsten
+[2018.12.06-02.59.42:491][832]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.12.06-02.59.42:491][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Kirsten.Kirsten to /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten (0.011536s)
+[2018.12.06-02.59.42:532][832]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-02.59.42:568][832]LogInit: FAudioDevice initialized.
+[2018.12.06-02.59.42:602][832]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.06-02.59.42:606][832]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten.Kirsten up for play (max tick rate 60) at 2018.12.05-21.59.42
+[2018.12.06-02.59.42:607][832]LogWorld: Bringing up level for play took: 0.003827
+[2018.12.06-02.59.42:619][832]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Kirsten -0.569
+[2018.12.06-02.59.42:619][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-03.00.03:738][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-03.00.03:743][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-03.00.03:781][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-03.00.03:781][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten' with GeneratedClass '/Game/FirstPersonBP/Maps/Kirsten.Kirsten_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Kirsten.Kirsten:PersistentLevel.Kirsten'
+[2018.12.06-03.00.03:817][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-03.00.03:854][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_20
