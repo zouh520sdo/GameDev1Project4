@@ -2356,3 +2356,437 @@ LogInit: Object subsystem initialized
 [2018.12.09-01.28.18:420][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.12.09-01.28.18:862][897]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/KirstenF2F04F1644D83B436E389E8726F3E7E3.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap'
 [2018.12.09-01.28.20:426][897]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Kirsten_BuiltData98DE2AD54BA41AA8216F6682D1817083.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset'
+[2018.12.09-01.34.50:674][585]LogSlate: Window 'Message' being destroyed
+[2018.12.09-01.34.53:943][770]AssetReimport: New page: Outstanding source content changes 3:34:53 PM
+[2018.12.09-01.34.59:889][770]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.09-01.35.02:151][882]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Kirsten3DFF3DB244518B2409B406AA18199E1E.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten.umap'
+[2018.12.09-01.35.02:982][882]AssetReimport: Attempting to delete frame1 (its source file has been removed).
+[2018.12.09-01.35.03:537][882]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/Kirsten_BuiltData86B7674C4CC37A5EA78C2096CF31C847.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Kirsten_BuiltData.uasset'
+[2018.12.09-01.35.46:459][149]AssetReimport: New page: Outstanding source content changes 3:35:46 PM
+[2018.12.09-01.35.46:460][149]LogEditorFactories: Performing atomic reimport of [C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/pictureFrame/frame1.png]
+[2018.12.09-01.35.46:461][149]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/pictureFrame/frame1.png)
+[2018.12.09-01.35.46:727][149]LogEditorFactories: -- imported successfully
+[2018.12.09-01.35.47:031][150]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/frame1C3A591484F53E0561D5848829FFA7FAF.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/pictureFrame/frame1.uasset'
+[2018.12.09-01.35.50:057][322]AssetReimport: Reimported asset frame1 from C:/Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Textures/pictureFrame/frame1.png.
+[2018.12.09-01.35.55:843][503]LogSlate: Window 'Message' being destroyed
+[2018.12.09-01.35.56:657][503]LogMaterial: Display: Missing cached shader map for material frame3_bad, compiling. 
+[2018.12.09-01.35.56:717][503]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.09-01.35.56:717][503]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.09-01.35.56:717][503]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.09-01.35.56:717][503]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.09-01.35.56:739][503]LogMaterial: Display: Missing cached shader map for material frame3_bad, compiling. 
+[2018.12.09-01.35.56:775][503]LogMaterial: Display: Missing cached shader map for material frame3_bad, compiling. 
+[2018.12.09-01.35.56:837][503]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy frame3_bad, compiling. 
+[2018.12.09-01.35.58:839][503]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.09-01.35.58:839][503]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.09-01.35.58:839][503]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.09-01.35.58:839][503]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.09-01.35.58:839][503]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.09-01.35.58:839][503]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.09-01.35.58:840][503]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-01.35.58:843][503]TextureStreamingBuild: Display: Compiling optional shaders took 2.015 seconds.
+[2018.12.09-01.35.59:665][503]LogSlate: Window 'Message' being destroyed
+[2018.12.09-01.36.00:624][503]LogMaterial: Display: Missing cached shader map for material frame4, compiling. 
+[2018.12.09-01.36.00:690][503]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.09-01.36.00:690][503]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.09-01.36.00:690][503]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.09-01.36.00:715][503]LogMaterial: Display: Missing cached shader map for material frame4, compiling. 
+[2018.12.09-01.36.00:747][503]LogMaterial: Display: Missing cached shader map for material frame4, compiling. 
+[2018.12.09-01.36.00:808][503]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy frame4, compiling. 
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.09-01.36.02:788][503]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.09-01.36.02:789][503]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-01.36.02:791][503]TextureStreamingBuild: Display: Compiling optional shaders took 1.992 seconds.
+[2018.12.09-01.36.03:647][503]LogSlate: Window 'Message' being destroyed
+[2018.12.09-01.36.04:572][503]LogMaterial: Display: Missing cached shader map for material frame4_bad, compiling. 
+[2018.12.09-01.36.04:640][503]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.09-01.36.04:640][503]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.09-01.36.04:640][503]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.09-01.36.04:664][503]LogMaterial: Display: Missing cached shader map for material frame4_bad, compiling. 
+[2018.12.09-01.36.04:702][503]LogMaterial: Display: Missing cached shader map for material frame4_bad, compiling. 
+[2018.12.09-01.36.04:759][503]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy frame4_bad, compiling. 
+[2018.12.09-01.36.06:717][503]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.09-01.36.06:718][503]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-01.36.06:721][503]TextureStreamingBuild: Display: Compiling optional shaders took 1.969 seconds.
+[2018.12.09-01.36.08:283][503]LogSlate: Window 'Save Content' being destroyed
+[2018.12.09-01.36.08:311][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/frame1" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame1.uasset" SILENT=true
+[2018.12.09-01.36.08:345][503]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/frame13661803B45DBAE307B32D496D43BA418.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame1.uasset'
+[2018.12.09-01.36.08:418][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/frame3_bad" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame3_bad.uasset" SILENT=true
+[2018.12.09-01.36.08:467][503]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/frame3_bad64E7D6A742DDD1B4A7621B965131B400.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame3_bad.uasset'
+[2018.12.09-01.36.08:505][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/frame4" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame4.uasset" SILENT=true
+[2018.12.09-01.36.08:550][503]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/frame4B8464C02486627CE77F952B5D4CA7E2A.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame4.uasset'
+[2018.12.09-01.36.10:068][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/frame4_bad" FILE="../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame4_bad.uasset" SILENT=true
+[2018.12.09-01.36.10:108][503]LogSavePackage: Moving '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Saved/frame4_bad7D2C5D864D347EF86C5E5D9FD1832767.tmp' to '../../../../../../Game Dev1/Unreal/GameDev1Project4/UnrealHouse/Content/Geometry/Materials/frame4_bad.uasset'
+[2018.12.09-01.36.10:673][503]LogSlate: Window 'frame3_bad' being destroyed
+[2018.12.09-01.36.10:824][503]LogSlate: Window 'UnrealHouse - Unreal Editor' being destroyed
+[2018.12.09-01.36.10:825][503]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-01.36.11:172][504]Cmd: QUIT_EDITOR
+[2018.12.09-01.36.11:989][504]LogExit: Preparing to exit.
+[2018.12.09-01.36.12:516][504]LogExit: Editor shut down
+[2018.12.09-01.36.12:518][504]LogExit: Transaction tracking system shut down
+[2018.12.09-01.36.13:093][504]LogExit: Object subsystem successfully closed.
+[2018.12.09-01.36.13:136][504]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.09-01.36.13:139][504]LogD3D11RHI: Shutdown
+[2018.12.09-01.36.13:139][504]LogD3D11RHI: CleanupD3DDevice
+[2018.12.09-01.36.13:148][504]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.09-01.36.13:215][504]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.12.09-01.36.13:215][504]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.12.09-01.36.13:215][504]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.09-01.36.13:215][504]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.09-01.36.13:215][504]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.09-01.36.13:219][504]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.09-01.36.13:219][504]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.09-01.36.13:219][504]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.09-01.36.13:220][504]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.09-01.36.13:220][504]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.09-01.36.13:221][504]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.09-01.36.13:222][504]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.09-01.36.13:223][504]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.09-01.36.13:223][504]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.09-01.36.13:224][504]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.09-01.36.13:225][504]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.09-01.36.13:225][504]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.09-01.36.13:225][504]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.09-01.36.13:225][504]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.09-01.36.13:225][504]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.09-01.36.13:226][504]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.09-01.36.13:227][504]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.09-01.36.13:227][504]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.09-01.36.13:228][504]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.09-01.36.13:229][504]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.09-01.36.13:230][504]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.09-01.36.13:230][504]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.09-01.36.13:230][504]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.09-01.36.13:230][504]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.09-01.36.13:230][504]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.09-01.36.13:954][504]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.09-01.36.13:954][504]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.09-01.36.13:954][504]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.09-01.36.13:954][504]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.09-01.36.13:955][504]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.09-01.36.13:955][504]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.09-01.36.13:956][504]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.09-01.36.13:956][504]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.09-01.36.13:957][504]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.09-01.36.13:958][504]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.09-01.36.13:958][504]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.09-01.36.13:958][504]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.09-01.36.13:959][504]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.09-01.36.13:959][504]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.09-01.36.13:959][504]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.09-01.36.13:960][504]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.09-01.36.14:027][504]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.09-01.36.14:028][504]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.09-01.36.14:028][504]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.09-01.36.14:030][504]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.09-01.36.14:030][504]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.09-01.36.14:030][504]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.09-01.36.14:030][504]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.09-01.36.14:031][504]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.09-01.36.14:031][504]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.09-01.36.14:031][504]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.09-01.36.14:033][504]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.09-01.36.14:033][504]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.09-01.36.14:033][504]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.09-01.36.14:033][504]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.09-01.36.14:034][504]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.09-01.36.14:034][504]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.09-01.36.14:034][504]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.09-01.36.14:035][504]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.09-01.36.14:035][504]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.09-01.36.14:035][504]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.09-01.36.14:035][504]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.09-01.36.14:036][504]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.09-01.36.14:037][504]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.09-01.36.14:037][504]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.09-01.36.14:037][504]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.09-01.36.14:246][504]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.09-01.36.14:248][504]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.09-01.36.14:248][504]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.09-01.36.14:248][504]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.09-01.36.14:248][504]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.09-01.36.14:249][504]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.09-01.36.14:250][504]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.09-01.36.14:250][504]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.09-01.36.14:250][504]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.09-01.36.14:250][504]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.09-01.36.14:256][504]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.09-01.36.14:257][504]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.09-01.36.14:258][504]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.09-01.36.14:258][504]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.09-01.36.14:259][504]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.09-01.36.14:260][504]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.09-01.36.14:260][504]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.09-01.36.14:260][504]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.09-01.36.14:261][504]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.09-01.36.14:261][504]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.09-01.36.14:261][504]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.09-01.36.14:261][504]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.09-01.36.14:261][504]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.09-01.36.14:261][504]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.09-01.36.14:262][504]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.09-01.36.14:263][504]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.09-01.36.14:264][504]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.09-01.36.14:264][504]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.09-01.36.14:264][504]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.09-01.36.14:264][504]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.09-01.36.14:264][504]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.09-01.36.14:265][504]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.09-01.36.14:266][504]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.09-01.36.14:366][504]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.09-01.36.14:467][504]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.09-01.36.14:467][504]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.09-01.36.14:467][504]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.09-01.36.14:467][504]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.09-01.36.14:467][504]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.09-01.36.14:467][504]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.09-01.36.14:468][504]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.09-01.36.14:470][504]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.09-01.36.14:471][504]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.09-01.36.14:471][504]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.09-01.36.14:471][504]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.09-01.36.14:472][504]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.09-01.36.14:475][504]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.09-01.36.14:476][504]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.09-01.36.14:476][504]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.09-01.36.14:476][504]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.09-01.36.14:476][504]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.09-01.36.14:477][504]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.09-01.36.14:479][504]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.09-01.36.14:485][504]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.09-01.36.14:485][504]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.09-01.36.14:485][504]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.09-01.36.14:486][504]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.09-01.36.14:488][504]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.09-01.36.14:488][504]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.09-01.36.14:489][504]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.09-01.36.14:489][504]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.09-01.36.14:489][504]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.09-01.36.14:490][504]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.09-01.36.14:492][504]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.09-01.36.14:492][504]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.09-01.36.14:493][504]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.09-01.36.14:493][504]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.09-01.36.14:496][504]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.09-01.36.14:497][504]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.09-01.36.14:498][504]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.09-01.36.14:498][504]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.09-01.36.14:498][504]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.09-01.36.14:499][504]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.09-01.36.14:499][504]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.09-01.36.14:499][504]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.09-01.36.14:499][504]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.09-01.36.14:500][504]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.09-01.36.14:548][504]LogDerivedDataCache: Shutdown
+[2018.12.09-01.36.14:548][504]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.09-01.36.14:549][504]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.09-01.36.14:550][504]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.09-01.36.14:570][504]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.09-01.36.14:573][504]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.09-01.36.14:576][504]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.09-01.36.14:576][504]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.09-01.36.14:580][504]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.09-01.36.14:580][504]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.09-01.36.14:580][504]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.09-01.36.14:580][504]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.09-01.36.14:582][504]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.09-01.36.14:583][504]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.09-01.36.14:583][504]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.09-01.36.14:584][504]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.09-01.36.14:594][504]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.09-01.36.14:594][504]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.09-01.36.14:601][504]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.09-01.36.14:601][504]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.09-01.36.14:647][504]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.09-01.36.14:648][504]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.09-01.36.14:650][504]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.09-01.36.14:651][504]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.09-01.36.14:666][504]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.09-01.36.14:666][504]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.09-01.36.14:666][504]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1CBB2AC2-4A75-9410-21E8-BB807501C9AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4b1f8cab4e6779208b3329852066496f%7Cf8ee6bc79474439da18d2cf1531e22e1%7C268ed277-6ae6-42a1-96b1-4d1cbc87210d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.09-01.36.14:698][504]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.09-01.36.14:701][504]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.09-01.36.14:701][504]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.09-01.36.14:702][504]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.09-01.36.14:702][504]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.09-01.36.14:703][504]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.09-01.36.14:703][504]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.09-01.36.14:704][504]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.09-01.36.14:704][504]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.09-01.36.14:704][504]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.09-01.36.14:704][504]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.09-01.36.14:706][504]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.09-01.36.14:706][504]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.09-01.36.14:706][504]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.09-01.36.14:707][504]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.09-01.36.14:719][504]LogExit: Exiting.
+[2018.12.09-01.36.14:820][504]Log file closed, 12/08/18 20:36:14
