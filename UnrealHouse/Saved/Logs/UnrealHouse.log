@@ -1981,3 +1981,134 @@ LogInit: Object subsystem initialized
 [2018.12.09-20.32.00:948][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.12.09-20.32.01:362][467]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresBF431E8B428AEB65066DC194BB8792A0.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
 [2018.12.09-20.32.01:647][467]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData1F62644F44E4A891BB2B6F8F665DEF18.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.32.14:688][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.32.15:101][569]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresF957CD5E465DD60EE098D09264983141.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.32.15:384][569]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData67C28E3A48A7A2482DA758BF9B7B0175.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.32.22:599][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.32.23:009][977]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures1A3CC4E5493FD3F983882B9C7B560B5D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.32.23:293][977]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData30DE4B594F91303FBF7F21BAAD871B85.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.32.39:135][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.32.39:546][909]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresA3DF9DCA4AA4316358B671A9D57B0B50.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.32.39:837][909]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData5F2CF4924D465580B7F6099443E19C8E.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.32.41:286][990]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.09-20.32.44:888][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.32.45:300][203]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures4F15B49343851CF57AF47B8E5F124C5E.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.32.45:586][203]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData86DB96F0420DA632017E9BBA6167CD74.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.33.14:756][908]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterF166082D4C968C8EF08369A422E83BD7.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.33.30:810][ 84]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.33.31:605][ 90]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter88D82B534F5704B01A92619559F64E1C.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.33.41:243][635]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures5A4F5FE94561621C926A169561F6B5E5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.33.41:533][635]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData516316D440DA1D72A1050D88EB2A42E5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.33.49:883][120]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel.Furnitures
+[2018.12.09-20.34.07:840][121]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresE5A1F81B409EA6DE0FB7D0A1B4460E8A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.34.07:959][121]LogFileHelpers: Saving map 'Furnitures' took 0.783
+[2018.12.09-20.34.41:988][112]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.34.42:675][113]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter06E0FA914801722E897C0DBE9791B8E8.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.34.45:095][229]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures5ECB35F04911BFBA5BAB53B226ADEA45.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.34.45:389][229]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData0092B86D45C5FFAD227E45B51F44ADAF.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.34.52:146][615]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Geometry/Animations/armAnim.armAnim
+[2018.12.09-20.34.52:360][615]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.09-20.34.52:719][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.09-20.34.52:774][615]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.12.09-20.34.53:277][615]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.09-20.34.53:897][615]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.09-20.36.17:184][546]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter29554BF342F19C8BD601859E1A7D2F8A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.36.17:822][578]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter43AB6ED948B840D8E110A7A4FB4DD8B6.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.36.18:021][584]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterB0C57F704F81F5287984CE954A631A3B.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.36.18:856][634]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.36.19:575][637]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter3A1922F7469D2DF1FC3ABC9B9C588BFD.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.36.20:129][670]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.36.22:908][799]LogSlate: Took 0.022865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.09-20.36.50:739][344]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter7B67A8D343A413EBD7D09E8E23D4BBA5.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.36.53:882][523]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterB4E8FF2F48AF7A437A5FCA80820F2EE6.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.36.59:399][852]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.37.00:089][853]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter4CA0E0E64E76DE0C7874CAA920743B8B.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.37.10:111][395]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures56AAEDEC43C8AE6D89114387C7318CEA.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.37.10:225][395]LogFileHelpers: Saving map 'Furnitures' took 0.772
+[2018.12.09-20.37.29:324][488]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresE060370949211E28EF55FD88BA4458FE.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.37.29:435][488]LogFileHelpers: Saving map 'Furnitures' took 0.757
+[2018.12.09-20.37.56:232][ 69]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.38.10:040][850]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterCF63FE0849D368DC3D5A07B61EE42DA4.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.38.16:477][223]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter458F4FA74C3486353402A992065D9796.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.38.20:110][431]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterD52944584F2A80674C32FE93B0FCB088.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.38.20:636][462]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.38.21:393][473]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterD2F64B7A47CDDA96002A00BCEAD37E1C.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.38.24:215][635]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterAFFC5C26449BEB3CB01513B7C356779B.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.38.43:718][786]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter527E945D4D412D3E1BB8C08F091EFD64.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.01:677][841]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter0C23AC0D4C6B92B35BCCA2831DEA91F2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.02:215][873]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.39.02:913][876]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter40EA7C4E4E422AFE0C1F949A9DA1B192.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.13:457][499]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.39.14:160][502]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterA05D686144B6C95C188482AC733ADF9A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.27:096][263]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.39.27:901][266]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterEBF87FDD4514E59DE67C05BB38577973.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.28:438][291]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter8702CD0A4DD3C0E5C89680B63A2EF065.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.38:268][861]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter5BB38B2746E97DB73FD1758316B4809F.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.38:856][896]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.39.40:061][928]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterE152A5774708EB513CBD4B8CF713178E.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.40:696][959]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter2134AD114D07B4EABFB8A191348F1A7A.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.39.49:127][422]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresEAA8776A4F151C004B190F964944C9F7.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.39.49:420][422]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures_BuiltData2199164942579E8B7A0684A397478FC1.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures_BuiltData.uasset'
+[2018.12.09-20.40.38:845][340]BlueprintLog: New page: Compile Furnitures
+[2018.12.09-20.40.40:155][353]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures4AA42BE24066D45BA9862B9EE7D9BC44.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.40.40:278][353]LogFileHelpers: Saving map 'Furnitures' took 0.898
+[2018.12.09-20.41.39:414][825]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresC9442275431AF9DFA9619D9443E5009D.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.41.39:530][825]LogFileHelpers: Saving map 'Furnitures' took 0.771
+[2018.12.09-20.42.36:591][160]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FurnituresA04F0BA645FEA08BA68808A1DE87D83C.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.42.36:708][160]LogFileHelpers: Saving map 'Furnitures' took 0.781
+[2018.12.09-20.43.02:733][692]LogMetaData: Removing '/Game/EventTrigger/FinalRoomTriggerBox_Blueprint.FinalRoomTriggerBox_Blueprint_C' ref from Metadata '/Game/EventTrigger/TriggerBox_Blueprint.PackageMetaData'
+[2018.12.09-20.43.02:733][692]LogMetaData: Removing '/Game/EventTrigger/FinalRoomTriggerBox_Blueprint.FinalRoomTriggerBox_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/EventTrigger/TriggerBox_Blueprint.PackageMetaData'
+[2018.12.09-20.43.02:733][692]LogMetaData: Removing '/Game/EventTrigger/FinalRoomTriggerBox_Blueprint.FinalRoomTriggerBox_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/EventTrigger/TriggerBox_Blueprint.PackageMetaData'
+[2018.12.09-20.43.02:733][692]LogMetaData: Removing '/Game/EventTrigger/FinalRoomTriggerBox_Blueprint.FinalRoomTriggerBox_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/EventTrigger/TriggerBox_Blueprint.PackageMetaData'
+[2018.12.09-20.43.02:733][692]LogMetaData: Removing '/Game/EventTrigger/FinalRoomTriggerBox_Blueprint.FinalRoomTriggerBox_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/EventTrigger/TriggerBox_Blueprint.PackageMetaData'
+[2018.12.09-20.43.02:733][692]LogMetaData: Removing '/Game/EventTrigger/FinalRoomTriggerBox_Blueprint.SKEL_FinalRoomTriggerBox_Blueprint_C' ref from Metadata '/Game/EventTrigger/TriggerBox_Blueprint.PackageMetaData'
+[2018.12.09-20.43.02:813][692]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FinalRoomTriggerBox_Blueprint6D465F3747C89E644FC4DAB9228969A7.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/EventTrigger/FinalRoomTriggerBox_Blueprint.uasset'
+[2018.12.09-20.43.02:826][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EventTrigger/TriggerBox_Blueprint" FILE="../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/EventTrigger/TriggerBox_Blueprint.uasset" SILENT=true
+[2018.12.09-20.43.02:847][692]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/TriggerBox_Blueprint935F990740006CEA823F3BA969AB600E.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/EventTrigger/TriggerBox_Blueprint.uasset'
+[2018.12.09-20.43.04:216][742]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/FinalRoomTriggerBox_Blueprint7502E4BC467C97D29B0A88AD9115E82F.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/EventTrigger/FinalRoomTriggerBox_Blueprint.uasset'
+[2018.12.09-20.43.08:944][ 17]BlueprintLog: New page: Compile Furnitures
+[2018.12.09-20.43.10:571][ 57]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/Furnitures34330FD24ACDA52AE825B389730E5940.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap'
+[2018.12.09-20.43.10:687][ 57]LogFileHelpers: Saving map 'Furnitures' took 0.765
+[2018.12.09-20.43.45:382][ 72]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter671D752E49409B0DCD4E4BBAD3A175A2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.43.46:556][135]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterBD333D9C4C25A2A667836698D73B6EB2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.43.46:877][154]BlueprintLog: New page: Compile MyFirstPersonCharacter
+[2018.12.09-20.43.47:688][165]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter34BA16D341B14D4DD88899A5BB2A9668.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.43.47:876][168]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacter1C804A24455DBDFF27A0CA954D9B8C70.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.44.06:395][271]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterF38B34EF4EB887FAF2C4D9AC43694AF1.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.44.11:088][544]LogSavePackage: Moving '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Saved/MyFirstPersonCharacterF7A0AD7641CCDB0AC4651482F6E8C3C2.tmp' to '../../../../../../../GDProject/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Blueprints/MyFirstPersonCharacter.uasset'
+[2018.12.09-20.44.14:394][732]LogUObjectArray: Warning: Invalid object index 7929953
+[2018.12.09-20.44.18:109][732]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.715 s
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: 
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: Stack: 
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff4aea71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff4abe0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff4abfb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff345611db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff3457060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff3fcfda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff3d06ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff3d02f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff5e898204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff5eade933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff5e8f281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff5e8c8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff5e8bb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff6a17d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff6a170270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff6a17f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff6a16c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff8b546d41 USER32.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff8b546713 USER32.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff6a180646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007ff6172b54e5 UE4Editor.exe!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007ff6172c5b3c UE4Editor.exe!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007ff6172c5bba UE4Editor.exe!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007ff6172d3dac UE4Editor.exe!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007ff6172d5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff8d343034 KERNEL32.DLL!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: [Callstack] 0x00007fff8d4c1471 ntdll.dll!UnknownFunction []
+[2018.12.09-20.44.18:109][732]LogOutputDevice: Error: 
+[2018.12.09-20.44.18:116][732]LogStats:                SubmitErrorReport -  0.001 s
