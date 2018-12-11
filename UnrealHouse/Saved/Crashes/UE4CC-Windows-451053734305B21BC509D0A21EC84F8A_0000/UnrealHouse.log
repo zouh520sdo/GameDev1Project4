@@ -1,0 +1,1085 @@
+﻿Log file open, 12/10/18 20:24:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UnrealHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281127
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.152s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.11-01.24.34:607][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.11-01.24.34:607][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.11-01.24.34:623][  0]LogHAL: Display: Platform has ~ 16 GB [17024622592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.11-01.24.34:624][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.11-01.24.34:624][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.11-01.24.34:624][  0]LogInit: Computer: DESKTOP-B1G0023
+[2018.12.11-01.24.34:624][  0]LogInit: User: JordanPeloquin
+[2018.12.11-01.24.34:624][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.11-01.24.34:624][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.12.11-01.24.34:624][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.11-01.24.34:624][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.11-01.24.34:624][  0]LogMemory: Process Physical Memory: 112.70 MB used, 112.70 MB peak
+[2018.12.11-01.24.34:624][  0]LogMemory: Process Virtual Memory: 113.09 MB used, 113.09 MB peak
+[2018.12.11-01.24.34:624][  0]LogMemory: Physical Memory: 5788.67 MB used,  10447.27 MB free, 16235.95 MB total
+[2018.12.11-01.24.34:624][  0]LogMemory: Virtual Memory: 4662.16 MB used,  10447.27 MB free, 134217728.00 MB total
+[2018.12.11-01.24.35:386][  0]LogInit: Using OS detected language (en-US).
+[2018.12.11-01.24.35:386][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.11-01.24.35:387][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.11-01.24.35:738][  0]LogStreaming: Display: Took  0.352s to InitEngineTextLocalization.
+[2018.12.11-01.24.35:739][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.11-01.24.35:787][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.11-01.24.35:787][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.11-01.24.36:007][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.11-01.24.36:007][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.11-01.24.36:064][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.11-01.24.36:064][  0]LogD3D11RHI:       4021/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.11-01.24.36:077][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.11-01.24.36:077][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.11-01.24.36:078][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.11-01.24.36:078][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.11-01.24.36:078][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.11-01.24.36:104][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.11-01.24.36:104][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.11-01.24.36:104][  0]LogWindows: EnumDisplayDevices:
+[2018.12.11-01.24.36:104][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.11-01.24.36:104][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.11-01.24.36:104][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.11-01.24.36:105][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.11-01.24.36:105][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.11-01.24.36:105][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.11-01.24.36:105][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.11-01.24.36:105][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.12.11-01.24.36:139][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.11-01.24.36:156][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.11-01.24.36:156][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Intermediate/Shaders/WorkingDirectory/8596/).
+[2018.12.11-01.24.36:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jordan Peloquin/AppData/Local/Temp/UnrealShaderWorkingDir/29776D8E46148933E7D22598C9C4AB5B/'.
+[2018.12.11-01.24.36:439][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.11-01.24.36:451][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.11-01.24.36:464][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.11-01.24.36:477][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.11-01.24.36:489][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.11-01.24.36:501][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.11-01.24.36:513][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.11-01.24.36:525][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.11-01.24.36:530][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:604][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-01.24.36:605][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.11-01.24.36:663][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.11-01.24.36:663][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.11-01.24.36:685][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.11-01.24.36:685][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.11-01.24.36:697][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.11-01.24.36:709][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.11-01.24.36:720][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.11-01.24.36:732][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.11-01.24.36:742][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.11-01.24.36:742][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.11-01.24.36:790][  0]LogXGEController: Cleaning working directory: C:/Users/Jordan Peloquin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.11-01.24.36:790][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.11-01.24.36:790][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.11-01.24.36:790][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.11-01.24.37:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.11-01.24.37:576][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Jordan Peloquin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.11-01.24.37:576][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jordan Peloquin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.11-01.24.37:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.11-01.24.37:576][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.11-01.24.37:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.11-01.24.37:576][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.11-01.24.37:589][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.11-01.24.37:602][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jordan Peloquin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.11-01.24.37:602][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.11-01.24.37:602][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.11-01.24.37:619][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.11-01.24.37:621][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.11-01.24.37:621][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.11-01.24.37:695][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.12.11-01.24.38:019][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.11-01.24.38:154][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.11-01.24.38:157][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.11-01.24.38:157][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.11-01.24.38:157][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.11-01.24.38:157][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.11-01.24.38:172][  0]LogNetVersion: UnrealHouse 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3536387037)
+[2018.12.11-01.24.38:745][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.154605 seconds
+[2018.12.11-01.24.38:751][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.11-01.24.38:751][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.11-01.24.38:751][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.11-01.24.39:541][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.11-01.24.39:554][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.11-01.24.39:693][  0]SourceControl: Source control is disabled
+[2018.12.11-01.24.39:693][  0]SourceControl: Source control is disabled
+[2018.12.11-01.24.39:694][  0]SourceControl: Source control is disabled
+[2018.12.11-01.24.39:695][  0]SourceControl: Source control is disabled
+[2018.12.11-01.24.39:856][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.11-01.24.39:909][  0]LogOcInput: OculusInput pre-init called
+[2018.12.11-01.24.39:965][  0]LogEngine: Initializing Engine...
+[2018.12.11-01.24.39:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.11-01.24.39:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.11-01.24.39:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.11-01.24.39:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.11-01.24.39:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.11-01.24.40:169][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.11-01.24.40:181][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.11-01.24.40:196][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-01.24.40:664][  0]LogInit: FAudioDevice initialized.
+[2018.12.11-01.24.40:664][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.11-01.24.40:707][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Jordan Peloquin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.11-01.24.40:717][  0]LogInit: Texture streaming: Enabled
+[2018.12.11-01.24.40:730][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.11-01.24.40:730][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3940C65F-465A-DE93-6FD8-D5837B0CCB8D}
+[2018.12.11-01.24.40:741][  0]LogInit: Transaction tracking system initialized
+[2018.12.11-01.24.40:756][  0]BlueprintLog: New page: Editor Load
+[2018.12.11-01.24.40:812][  0]LocalizationService: Localization service is disabled
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:135][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/ as it will conflict with another watching ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/.
+[2018.12.11-01.24.41:147][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.11-01.24.41:147][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.11-01.24.41:147][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.11-01.24.41:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.11-01.24.41:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.11-01.24.41:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.11-01.24.41:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.11-01.24.41:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/' took 0.02s
+[2018.12.11-01.24.41:251][  0]SourceControl: Source control is disabled
+[2018.12.11-01.24.41:349][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-01.24.41:350][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.11-01.24.56:214][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.11-01.24.56:214][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-01.24.56:219][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.11-01.24.56:225][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-01.24.56:225][  0]LightingResults: New page: Lighting Build
+[2018.12.11-01.24.56:228][  0]MapCheck: New page: Map Check
+[2018.12.11-01.24.56:228][  0]LightingResults: New page: Lighting Build
+[2018.12.11-01.24.56:863][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.11-01.24.56:883][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-01.24.56:912][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-01.24.57:015][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.588ms to complete.
+[2018.12.11-01.24.57:015][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.790
+[2018.12.11-01.24.57:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-01.24.57:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-01.24.57:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-01.24.57:071][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-01.24.57:075][  0]LogCollectionManager: Loaded 0 collections in 0.000900 seconds
+[2018.12.11-01.24.57:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Saved/Collections/' took 0.01s
+[2018.12.11-01.24.57:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/Developers/JordanPeloquin/Collections/' took 0.01s
+[2018.12.11-01.24.57:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/Collections/' took 0.01s
+[2018.12.11-01.24.57:115][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.11-01.24.57:124][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2572 classes and 603 folders.
+[2018.12.11-01.24.57:129][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.11-01.24.57:174][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.11-01.24.57:236][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.11-01.24.57:244][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.11-01.24.57:248][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.11-01.24.57:288][  0]LogRenderer: Reallocating scene render targets to support 828x332 Format 10 NumSamples 1 (Frame:1).
+[2018.12.11-01.24.57:439][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.11-01.24.57:439][  0]LogLoad: (Engine Initialization) Total time: 24.76 seconds
+[2018.12.11-01.24.57:439][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.11-01.24.57:496][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.11-01.24.57:563][  0]LogRenderer: Reallocating scene render targets to support 828x340 Format 10 NumSamples 1 (Frame:3).
+[2018.12.11-01.24.57:563][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-01.24.57:590][  1]LogAssetRegistry: Asset discovery search completed in 19.9167 seconds
+[2018.12.11-01.24.57:592][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.11-01.24.57:592][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.12.11-01.24.58:559][ 49]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-01.25.00:481][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-01.25.02:581][285]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/' took 5.11s
+[2018.12.11-01.25.05:239][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Furnitures_BuiltData'
+[2018.12.11-01.25.05:239][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Furnitures_BuiltData' while loading ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap.
+[2018.12.11-01.25.05:239][437]LoadErrors: Error: /Game/FirstPersonBP/Maps/Furnitures : Can't find file for asset. /Game/FirstPersonBP/Maps/Furnitures_BuiltData
+[2018.12.11-01.25.05:312][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Furnitures_BuiltData'
+[2018.12.11-01.25.05:312][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Furnitures_BuiltData' while loading ../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap.
+[2018.12.11-01.25.05:344][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Furnitures_BuiltData'
+[2018.12.11-01.25.05:344][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Furnitures_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:344][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Furnitures_BuiltData'
+[2018.12.11-01.25.05:344][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Furnitures_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:396][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Furnitures_BuiltData'
+[2018.12.11-01.25.05:396][437]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Furnitures_BuiltData.Furnitures_BuiltData Referenced by PersistentLevel
+[2018.12.11-01.25.05:397][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Furnitures_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:570][437]LogAIModule: Creating AISystem for world Furnitures
+[2018.12.11-01.25.05:583][437]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Furnitures.Furnitures
+[2018.12.11-01.25.05:606][437]Cmd: MAP LOAD FILE="../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/FirstPersonBP/Maps/Furnitures.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-01.25.05:606][437]LightingResults: New page: Lighting Build
+[2018.12.11-01.25.05:607][437]LoadErrors: New page: Loading map: Furnitures.umap
+[2018.12.11-01.25.05:608][437]MapCheck: New page: Map Check
+[2018.12.11-01.25.05:608][437]LightingResults: New page: Lighting Build
+[2018.12.11-01.25.05:640][437]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FirstPersonBP/Maps/Hallway) is flushing async loading
+[2018.12.11-01.25.05:640][437]LogStreaming: Display: Flushing async loaders.
+[2018.12.11-01.25.05:642][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Hallway_BuiltData'
+[2018.12.11-01.25.05:642][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Hallway_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:643][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Hallway_BuiltData'
+[2018.12.11-01.25.05:643][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Hallway_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:643][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Hallway_BuiltData'
+[2018.12.11-01.25.05:643][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Hallway_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:644][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Hallway_BuiltData'
+[2018.12.11-01.25.05:644][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Hallway_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:649][437]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Hallway_BuiltData'
+[2018.12.11-01.25.05:649][437]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Hallway_BuiltData.Hallway_BuiltData Referenced by PersistentLevel
+[2018.12.11-01.25.05:649][437]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Hallway_BuiltData' while loading NULL.
+[2018.12.11-01.25.05:713][437]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-01.25.05:947][437]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-01.25.06:061][437]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 114.436ms to complete.
+[2018.12.11-01.25.06:061][437]LogFileHelpers: Loading map 'Furnitures' took 0.456
+[2018.12.11-01.25.08:343][554]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-01.25.08:347][554]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-01.25.22:642][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-01.25.27:753][ 65]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AudioTriggers/MusicPlayer_Blueprint.MusicPlayer_Blueprint
+[2018.12.11-01.25.28:291][ 65]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.11-01.25.29:207][ 65]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.11-01.25.29:371][ 66]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.11-01.25.42:886][871]BlueprintLog: New page: Compile MusicPlayer_Blueprint
+[2018.12.11-01.25.43:588][887]LogSavePackage: Moving '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Saved/MusicPlayer_BlueprintA5B4235341A19BEE58D48B94CA402540.tmp' to '../../../../../../Users/Jordan Peloquin/Desktop/GameDevI/GameDev1Project4/UnrealHouse/Content/AudioTriggers/MusicPlayer_Blueprint.uasset'
+[2018.12.11-01.25.45:963][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-01.25.46:072][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel.Furnitures' with GeneratedClass '/Game/FirstPersonBP/Maps/Furnitures.Furnitures_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel.Furnitures'
+[2018.12.11-01.25.46:072][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-01.25.46:084][985]PIE: New page: PIE session: Furnitures (Dec 10, 2018, 3:25:46 PM)
+[2018.12.11-01.25.46:084][985]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Furnitures
+[2018.12.11-01.25.46:097][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013292s)
+[2018.12.11-01.25.46:098][985]LogAIModule: Creating AISystem for world Furnitures
+[2018.12.11-01.25.46:098][985]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.12.11-01.25.46:098][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Furnitures.Furnitures to /Game/FirstPersonBP/Maps/UEDPIE_0_Furnitures.Furnitures (0.014150s)
+[2018.12.11-01.25.46:127][985]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.11-01.25.46:140][985]LogInit: FAudioDevice initialized.
+[2018.12.11-01.25.46:200][985]LogLoad: Game class is 'MyFirstPersonGameMode_C'
+[2018.12.11-01.25.46:204][985]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Furnitures.Furnitures up for play (max tick rate 60) at 2018.12.10-20.25.46
+[2018.12.11-01.25.46:216][985]LogWorld: Bringing up level for play took: 0.014061
+[2018.12.11-01.25.46:230][985]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.12.11-01.25.46:231][985]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Furnitures 0.983
+[2018.12.11-01.25.46:231][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel.Furnitures' with GeneratedClass '/Game/FirstPersonBP/Maps/Furnitures.Furnitures_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Furnitures.Furnitures:PersistentLevel.Furnitures'
+[2018.12.11-01.25.46:405][986]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:412][986]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.0
+[2018.12.11-01.25.46:433][987]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:434][987]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.0
+[2018.12.11-01.25.46:449][988]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:450][988]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.000271
+[2018.12.11-01.25.46:466][989]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:467][989]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.000407
+[2018.12.11-01.25.46:482][990]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:484][990]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.000677
+[2018.12.11-01.25.46:499][991]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:500][991]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.000948
+[2018.12.11-01.25.46:516][992]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:517][992]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.001084
+[2018.12.11-01.25.46:532][993]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:535][993]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.001354
+[2018.12.11-01.25.46:549][994]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:551][994]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.001625
+[2018.12.11-01.25.46:566][995]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:567][995]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.001896
+[2018.12.11-01.25.46:586][996]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:587][996]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.002032
+[2018.12.11-01.25.46:607][997]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:609][997]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.002302
+[2018.12.11-01.25.46:624][998]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:625][998]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.002573
+[2018.12.11-01.25.46:640][999]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:642][999]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.002844
+[2018.12.11-01.25.46:657][  0]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:658][  0]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.003115
+[2018.12.11-01.25.46:674][  1]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:676][  1]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.00325
+[2018.12.11-01.25.46:691][  2]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:693][  2]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.003521
+[2018.12.11-01.25.46:708][  3]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:709][  3]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.003792
+[2018.12.11-01.25.46:725][  4]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:726][  4]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.003927
+[2018.12.11-01.25.46:741][  5]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:743][  5]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.004198
+[2018.12.11-01.25.46:758][  6]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:760][  6]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.004469
+[2018.12.11-01.25.46:774][  7]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:777][  7]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.004604
+[2018.12.11-01.25.46:791][  8]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:793][  8]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.004875
+[2018.12.11-01.25.46:808][  9]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:810][  9]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.005146
+[2018.12.11-01.25.46:825][ 10]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:827][ 10]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.005282
+[2018.12.11-01.25.46:840][ 11]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:841][ 11]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.005552
+[2018.12.11-01.25.46:857][ 12]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:858][ 12]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.005823
+[2018.12.11-01.25.46:874][ 13]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:876][ 13]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.005959
+[2018.12.11-01.25.46:891][ 14]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:893][ 14]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.006229
+[2018.12.11-01.25.46:907][ 15]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:909][ 15]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.0065
+[2018.12.11-01.25.46:924][ 16]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:926][ 16]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.006636
+[2018.12.11-01.25.46:940][ 17]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:943][ 17]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.006907
+[2018.12.11-01.25.46:957][ 18]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:960][ 18]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.007177
+[2018.12.11-01.25.46:974][ 19]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:976][ 19]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.007313
+[2018.12.11-01.25.46:991][ 20]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.46:993][ 20]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.007584
+[2018.12.11-01.25.47:007][ 21]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:008][ 21]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.007854
+[2018.12.11-01.25.47:024][ 22]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:026][ 22]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.00799
+[2018.12.11-01.25.47:041][ 23]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:043][ 23]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.008261
+[2018.12.11-01.25.47:057][ 24]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:060][ 24]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.008532
+[2018.12.11-01.25.47:074][ 25]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:077][ 25]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.008667
+[2018.12.11-01.25.47:091][ 26]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:093][ 26]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.008938
+[2018.12.11-01.25.47:107][ 27]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:109][ 27]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.009209
+[2018.12.11-01.25.47:124][ 28]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:127][ 28]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.009344
+[2018.12.11-01.25.47:141][ 29]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:143][ 29]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.009615
+[2018.12.11-01.25.47:158][ 30]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:160][ 30]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.009886
+[2018.12.11-01.25.47:174][ 31]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:177][ 31]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.010021
+[2018.12.11-01.25.47:190][ 32]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:193][ 32]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.010292
+[2018.12.11-01.25.47:207][ 33]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:209][ 33]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.010563
+[2018.12.11-01.25.47:223][ 34]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:226][ 34]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.010698
+[2018.12.11-01.25.47:240][ 35]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:241][ 35]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.010969
+[2018.12.11-01.25.47:257][ 36]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:258][ 36]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.01124
+[2018.12.11-01.25.47:273][ 37]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:275][ 37]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.011375
+[2018.12.11-01.25.47:290][ 38]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:293][ 38]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.011646
+[2018.12.11-01.25.47:307][ 39]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:309][ 39]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.011917
+[2018.12.11-01.25.47:324][ 40]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:326][ 40]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.012052
+[2018.12.11-01.25.47:340][ 41]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:343][ 41]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.012323
+[2018.12.11-01.25.47:357][ 42]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:360][ 42]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.012594
+[2018.12.11-01.25.47:374][ 43]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:376][ 43]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.012729
+[2018.12.11-01.25.47:390][ 44]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:392][ 44]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.013
+[2018.12.11-01.25.47:407][ 45]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:410][ 45]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.013271
+[2018.12.11-01.25.47:424][ 46]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:425][ 46]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.013407
+[2018.12.11-01.25.47:441][ 47]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:443][ 47]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.013677
+[2018.12.11-01.25.47:457][ 48]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:460][ 48]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.013948
+[2018.12.11-01.25.47:474][ 49]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:477][ 49]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.014084
+[2018.12.11-01.25.47:491][ 50]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:493][ 50]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.014354
+[2018.12.11-01.25.47:508][ 51]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:510][ 51]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.014625
+[2018.12.11-01.25.47:524][ 52]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:527][ 52]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.014761
+[2018.12.11-01.25.47:541][ 53]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:543][ 53]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.015032
+[2018.12.11-01.25.47:558][ 54]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:560][ 54]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.015302
+[2018.12.11-01.25.47:574][ 55]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:576][ 55]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.015438
+[2018.12.11-01.25.47:590][ 56]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:593][ 56]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.015709
+[2018.12.11-01.25.47:607][ 57]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:610][ 57]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.015979
+[2018.12.11-01.25.47:624][ 58]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:626][ 58]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.016115
+[2018.12.11-01.25.47:641][ 59]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:643][ 59]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.016386
+[2018.12.11-01.25.47:657][ 60]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:660][ 60]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.016657
+[2018.12.11-01.25.47:674][ 61]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:677][ 61]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.016792
+[2018.12.11-01.25.47:691][ 62]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:693][ 62]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.017063
+[2018.12.11-01.25.47:707][ 63]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:710][ 63]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.017334
+[2018.12.11-01.25.47:724][ 64]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:727][ 64]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.017469
+[2018.12.11-01.25.47:741][ 65]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:743][ 65]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.01774
+[2018.12.11-01.25.47:758][ 66]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:760][ 66]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.018011
+[2018.12.11-01.25.47:774][ 67]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:777][ 67]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.018146
+[2018.12.11-01.25.47:791][ 68]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:793][ 68]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.018417
+[2018.12.11-01.25.47:807][ 69]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:810][ 69]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.018688
+[2018.12.11-01.25.47:824][ 70]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:826][ 70]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.018823
+[2018.12.11-01.25.47:841][ 71]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:843][ 71]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.019094
+[2018.12.11-01.25.47:857][ 72]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:859][ 72]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.019365
+[2018.12.11-01.25.47:874][ 73]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:876][ 73]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.0195
+[2018.12.11-01.25.47:891][ 74]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:893][ 74]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.019771
+[2018.12.11-01.25.47:908][ 75]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:909][ 75]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.020042
+[2018.12.11-01.25.47:924][ 76]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:926][ 76]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.020177
+[2018.12.11-01.25.47:941][ 77]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:943][ 77]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.020448
+[2018.12.11-01.25.47:958][ 78]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:960][ 78]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.020719
+[2018.12.11-01.25.47:975][ 79]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:977][ 79]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.020854
+[2018.12.11-01.25.47:990][ 80]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.47:993][ 80]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.021125
+[2018.12.11-01.25.48:008][ 81]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:010][ 81]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.021396
+[2018.12.11-01.25.48:023][ 82]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:026][ 82]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.021532
+[2018.12.11-01.25.48:041][ 83]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:043][ 83]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.021802
+[2018.12.11-01.25.48:057][ 84]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:060][ 84]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.022073
+[2018.12.11-01.25.48:075][ 85]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:076][ 85]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.022209
+[2018.12.11-01.25.48:092][ 86]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:093][ 86]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.022479
+[2018.12.11-01.25.48:108][ 87]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:110][ 87]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.02275
+[2018.12.11-01.25.48:124][ 88]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:127][ 88]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.022886
+[2018.12.11-01.25.48:141][ 89]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:144][ 89]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.023157
+[2018.12.11-01.25.48:157][ 90]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:160][ 90]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.023427
+[2018.12.11-01.25.48:174][ 91]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:175][ 91]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.023563
+[2018.12.11-01.25.48:192][ 92]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:193][ 92]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.023834
+[2018.12.11-01.25.48:209][ 93]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:210][ 93]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.024104
+[2018.12.11-01.25.48:225][ 94]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:226][ 94]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.02424
+[2018.12.11-01.25.48:242][ 95]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:243][ 95]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.024511
+[2018.12.11-01.25.48:258][ 96]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:260][ 96]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.024782
+[2018.12.11-01.25.48:274][ 97]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:276][ 97]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.024917
+[2018.12.11-01.25.48:291][ 98]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:293][ 98]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.025188
+[2018.12.11-01.25.48:308][ 99]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:310][ 99]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.025459
+[2018.12.11-01.25.48:325][100]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:327][100]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.025594
+[2018.12.11-01.25.48:341][101]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:343][101]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.025865
+[2018.12.11-01.25.48:358][102]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:360][102]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.026136
+[2018.12.11-01.25.48:375][103]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:377][103]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.026271
+[2018.12.11-01.25.48:391][104]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:393][104]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.026542
+[2018.12.11-01.25.48:408][105]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:410][105]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.026813
+[2018.12.11-01.25.48:425][106]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:426][106]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.026948
+[2018.12.11-01.25.48:442][107]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:443][107]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.027219
+[2018.12.11-01.25.48:458][108]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:460][108]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.02749
+[2018.12.11-01.25.48:475][109]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:477][109]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.027625
+[2018.12.11-01.25.48:491][110]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:494][110]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.027896
+[2018.12.11-01.25.48:507][111]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:508][111]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.028167
+[2018.12.11-01.25.48:524][112]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:526][112]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.028302
+[2018.12.11-01.25.48:541][113]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:543][113]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.028573
+[2018.12.11-01.25.48:558][114]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:560][114]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.028844
+[2018.12.11-01.25.48:574][115]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:576][115]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.028979
+[2018.12.11-01.25.48:591][116]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:593][116]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.02925
+[2018.12.11-01.25.48:608][117]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:610][117]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.029521
+[2018.12.11-01.25.48:624][118]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:626][118]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.029657
+[2018.12.11-01.25.48:641][119]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:643][119]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.029927
+[2018.12.11-01.25.48:658][120]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:660][120]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.030198
+[2018.12.11-01.25.48:675][121]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:676][121]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.030334
+[2018.12.11-01.25.48:692][122]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:693][122]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.030604
+[2018.12.11-01.25.48:708][123]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:710][123]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.030875
+[2018.12.11-01.25.48:725][124]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:726][124]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.031011
+[2018.12.11-01.25.48:742][125]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:743][125]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.031282
+[2018.12.11-01.25.48:758][126]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:760][126]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.031552
+[2018.12.11-01.25.48:775][127]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:777][127]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.031688
+[2018.12.11-01.25.48:792][128]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:793][128]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.031959
+[2018.12.11-01.25.48:808][129]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:810][129]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.032229
+[2018.12.11-01.25.48:825][130]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:827][130]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.032365
+[2018.12.11-01.25.48:842][131]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:844][131]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.032636
+[2018.12.11-01.25.48:858][132]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:860][132]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.032907
+[2018.12.11-01.25.48:874][133]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:876][133]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.033042
+[2018.12.11-01.25.48:891][134]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:893][134]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.033313
+[2018.12.11-01.25.48:907][135]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:909][135]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.033584
+[2018.12.11-01.25.48:924][136]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:926][136]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.033719
+[2018.12.11-01.25.48:941][137]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:943][137]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.03399
+[2018.12.11-01.25.48:958][138]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:959][138]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.034261
+[2018.12.11-01.25.48:974][139]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:976][139]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.034396
+[2018.12.11-01.25.48:991][140]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.48:993][140]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.034667
+[2018.12.11-01.25.49:008][141]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:010][141]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.034938
+[2018.12.11-01.25.49:024][142]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:026][142]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.035073
+[2018.12.11-01.25.49:041][143]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:043][143]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.035344
+[2018.12.11-01.25.49:057][144]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:060][144]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.035615
+[2018.12.11-01.25.49:074][145]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:076][145]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.03575
+[2018.12.11-01.25.49:091][146]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:093][146]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.036021
+[2018.12.11-01.25.49:108][147]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:110][147]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.036292
+[2018.12.11-01.25.49:125][148]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:127][148]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.036427
+[2018.12.11-01.25.49:141][149]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:144][149]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.036698
+[2018.12.11-01.25.49:158][150]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:160][150]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.036969
+[2018.12.11-01.25.49:174][151]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:177][151]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.037104
+[2018.12.11-01.25.49:192][152]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:194][152]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.037375
+[2018.12.11-01.25.49:208][153]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:210][153]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.037646
+[2018.12.11-01.25.49:225][154]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:227][154]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.037782
+[2018.12.11-01.25.49:241][155]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:244][155]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.038052
+[2018.12.11-01.25.49:257][156]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:258][156]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.038323
+[2018.12.11-01.25.49:274][157]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:276][157]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.038459
+[2018.12.11-01.25.49:291][158]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:293][158]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.038729
+[2018.12.11-01.25.49:307][159]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:308][159]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.039
+[2018.12.11-01.25.49:324][160]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:326][160]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.039136
+[2018.12.11-01.25.49:341][161]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:343][161]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.039407
+[2018.12.11-01.25.49:358][162]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:360][162]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.039677
+[2018.12.11-01.25.49:375][163]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:376][163]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.039813
+[2018.12.11-01.25.49:392][164]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:394][164]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.040084
+[2018.12.11-01.25.49:407][165]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:410][165]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.040354
+[2018.12.11-01.25.49:424][166]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:427][166]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.04049
+[2018.12.11-01.25.49:441][167]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:444][167]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.040761
+[2018.12.11-01.25.49:458][168]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:460][168]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.041032
+[2018.12.11-01.25.49:474][169]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:477][169]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.041167
+[2018.12.11-01.25.49:491][170]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:494][170]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.041438
+[2018.12.11-01.25.49:508][171]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:510][171]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.041709
+[2018.12.11-01.25.49:524][172]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:527][172]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.041844
+[2018.12.11-01.25.49:542][173]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:544][173]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.042115
+[2018.12.11-01.25.49:558][174]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:560][174]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.042386
+[2018.12.11-01.25.49:575][175]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:577][175]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.042521
+[2018.12.11-01.25.49:591][176]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:594][176]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.042792
+[2018.12.11-01.25.49:608][177]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:611][177]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.043063
+[2018.12.11-01.25.49:624][178]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:625][178]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.043198
+[2018.12.11-01.25.49:641][179]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:643][179]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.043469
+[2018.12.11-01.25.49:658][180]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:660][180]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.04374
+[2018.12.11-01.25.49:674][181]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:676][181]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.043875
+[2018.12.11-01.25.49:691][182]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:693][182]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.044146
+[2018.12.11-01.25.49:707][183]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:710][183]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.044417
+[2018.12.11-01.25.49:724][184]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:726][184]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.044552
+[2018.12.11-01.25.49:741][185]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:743][185]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.044823
+[2018.12.11-01.25.49:757][186]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:760][186]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.045094
+[2018.12.11-01.25.49:774][187]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:777][187]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.045229
+[2018.12.11-01.25.49:791][188]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:793][188]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.0455
+[2018.12.11-01.25.49:808][189]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:810][189]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.045771
+[2018.12.11-01.25.49:824][190]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:827][190]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.045907
+[2018.12.11-01.25.49:841][191]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:843][191]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.046177
+[2018.12.11-01.25.49:858][192]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:860][192]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.046448
+[2018.12.11-01.25.49:874][193]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:876][193]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.046584
+[2018.12.11-01.25.49:891][194]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:894][194]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.046854
+[2018.12.11-01.25.49:908][195]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:910][195]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.047125
+[2018.12.11-01.25.49:925][196]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:927][196]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.047261
+[2018.12.11-01.25.49:941][197]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:944][197]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.047532
+[2018.12.11-01.25.49:958][198]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:960][198]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.047802
+[2018.12.11-01.25.49:975][199]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:977][199]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.047938
+[2018.12.11-01.25.49:991][200]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.49:994][200]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.048209
+[2018.12.11-01.25.50:007][201]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:010][201]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.048479
+[2018.12.11-01.25.50:024][202]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:026][202]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.048615
+[2018.12.11-01.25.50:041][203]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:043][203]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.048886
+[2018.12.11-01.25.50:057][204]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:060][204]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.049157
+[2018.12.11-01.25.50:074][205]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:076][205]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.049292
+[2018.12.11-01.25.50:091][206]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:093][206]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.049563
+[2018.12.11-01.25.50:107][207]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:110][207]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.049834
+[2018.12.11-01.25.50:124][208]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:127][208]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.049969
+[2018.12.11-01.25.50:141][209]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:143][209]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.05024
+[2018.12.11-01.25.50:158][210]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:160][210]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.050511
+[2018.12.11-01.25.50:174][211]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:177][211]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.050646
+[2018.12.11-01.25.50:191][212]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:194][212]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.050917
+[2018.12.11-01.25.50:208][213]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:210][213]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.051188
+[2018.12.11-01.25.50:225][214]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:227][214]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.051323
+[2018.12.11-01.25.50:241][215]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:244][215]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.051594
+[2018.12.11-01.25.50:258][216]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:259][216]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.051865
+[2018.12.11-01.25.50:275][217]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:277][217]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.052
+[2018.12.11-01.25.50:291][218]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:294][218]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.052271
+[2018.12.11-01.25.50:308][219]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:310][219]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.052542
+[2018.12.11-01.25.50:325][220]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:327][220]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.052677
+[2018.12.11-01.25.50:342][221]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:344][221]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.052948
+[2018.12.11-01.25.50:358][222]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:361][222]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.053219
+[2018.12.11-01.25.50:374][223]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:376][223]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.053354
+[2018.12.11-01.25.50:391][224]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:393][224]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.053625
+[2018.12.11-01.25.50:407][225]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:410][225]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.053896
+[2018.12.11-01.25.50:424][226]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:426][226]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.054032
+[2018.12.11-01.25.50:442][227]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:443][227]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.054302
+[2018.12.11-01.25.50:458][228]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:460][228]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.054573
+[2018.12.11-01.25.50:474][229]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:477][229]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.054709
+[2018.12.11-01.25.50:491][230]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:493][230]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.054979
+[2018.12.11-01.25.50:507][231]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:510][231]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.05525
+[2018.12.11-01.25.50:524][232]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:527][232]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.055386
+[2018.12.11-01.25.50:542][233]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:544][233]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.055657
+[2018.12.11-01.25.50:558][234]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:560][234]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.055927
+[2018.12.11-01.25.50:574][235]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:577][235]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.056063
+[2018.12.11-01.25.50:592][236]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:594][236]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.056334
+[2018.12.11-01.25.50:608][237]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:610][237]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.056604
+[2018.12.11-01.25.50:625][238]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:627][238]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.05674
+[2018.12.11-01.25.50:641][239]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:644][239]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.057011
+[2018.12.11-01.25.50:658][240]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:661][240]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.057282
+[2018.12.11-01.25.50:675][241]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:677][241]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.057417
+[2018.12.11-01.25.50:692][242]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:694][242]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.057688
+[2018.12.11-01.25.50:708][243]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:711][243]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.057959
+[2018.12.11-01.25.50:725][244]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:727][244]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.058094
+[2018.12.11-01.25.50:742][245]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:744][245]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.058365
+[2018.12.11-01.25.50:757][246]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:760][246]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.058636
+[2018.12.11-01.25.50:774][247]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:777][247]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.058771
+[2018.12.11-01.25.50:792][248]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:793][248]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.059042
+[2018.12.11-01.25.50:808][249]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:811][249]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.059313
+[2018.12.11-01.25.50:825][250]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:827][250]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.059448
+[2018.12.11-01.25.50:841][251]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:843][251]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.059719
+[2018.12.11-01.25.50:857][252]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:860][252]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.05999
+[2018.12.11-01.25.50:875][253]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:877][253]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.060125
+[2018.12.11-01.25.50:891][254]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:894][254]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.060396
+[2018.12.11-01.25.50:908][255]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:910][255]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.060667
+[2018.12.11-01.25.50:925][256]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:927][256]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.060802
+[2018.12.11-01.25.50:941][257]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:944][257]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.061073
+[2018.12.11-01.25.50:958][258]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:961][258]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.061344
+[2018.12.11-01.25.50:975][259]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:977][259]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.061479
+[2018.12.11-01.25.50:991][260]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.50:994][260]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.06175
+[2018.12.11-01.25.51:008][261]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:011][261]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.062021
+[2018.12.11-01.25.51:025][262]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:027][262]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.062157
+[2018.12.11-01.25.51:042][263]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:044][263]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.062427
+[2018.12.11-01.25.51:058][264]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:061][264]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.062698
+[2018.12.11-01.25.51:075][265]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:077][265]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.062834
+[2018.12.11-01.25.51:092][266]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:094][266]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.063104
+[2018.12.11-01.25.51:108][267]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:111][267]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.063375
+[2018.12.11-01.25.51:125][268]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:127][268]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.063511
+[2018.12.11-01.25.51:142][269]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:144][269]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.063782
+[2018.12.11-01.25.51:157][270]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:160][270]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.064052
+[2018.12.11-01.25.51:174][271]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:176][271]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.064188
+[2018.12.11-01.25.51:191][272]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:193][272]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.064459
+[2018.12.11-01.25.51:208][273]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:210][273]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.064729
+[2018.12.11-01.25.51:224][274]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:227][274]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.064865
+[2018.12.11-01.25.51:241][275]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:243][275]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.065136
+[2018.12.11-01.25.51:257][276]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:259][276]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.065407
+[2018.12.11-01.25.51:274][277]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:277][277]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.065542
+[2018.12.11-01.25.51:292][278]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:293][278]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.065813
+[2018.12.11-01.25.51:308][279]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:310][279]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.066084
+[2018.12.11-01.25.51:324][280]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:326][280]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.066219
+[2018.12.11-01.25.51:341][281]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:344][281]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.06649
+[2018.12.11-01.25.51:358][282]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:360][282]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.066761
+[2018.12.11-01.25.51:375][283]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:377][283]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.066896
+[2018.12.11-01.25.51:391][284]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:394][284]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.067167
+[2018.12.11-01.25.51:408][285]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:411][285]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.067438
+[2018.12.11-01.25.51:425][286]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:427][286]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.067573
+[2018.12.11-01.25.51:442][287]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:444][287]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.067844
+[2018.12.11-01.25.51:458][288]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:461][288]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.068115
+[2018.12.11-01.25.51:475][289]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:477][289]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.06825
+[2018.12.11-01.25.51:492][290]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:494][290]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.068521
+[2018.12.11-01.25.51:508][291]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:511][291]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.068792
+[2018.12.11-01.25.51:525][292]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:528][292]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.069063
+[2018.12.11-01.25.51:542][293]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:544][293]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.069198
+[2018.12.11-01.25.51:558][294]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:561][294]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.069469
+[2018.12.11-01.25.51:575][295]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:577][295]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.069604
+[2018.12.11-01.25.51:592][296]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:594][296]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.069875
+[2018.12.11-01.25.51:608][297]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:611][297]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.070146
+[2018.12.11-01.25.51:625][298]LogMovieScene: Warning: Attempting to play back a sequence with zero duration
+[2018.12.11-01.25.51:628][298]LogBlueprintUserMessages: [MusicPlayer_Blueprint_2] 0.070282
+[2018.12.11-01.25.52:120][298]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.493 s
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: 
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: Ensure condition failed: Lhs.Array.Num() == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h] [Line: 808]
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: Container has changed during ranged-for iteration!
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: Stack: 
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: [Callstack] 0x00007ffc34f671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: [Callstack] 0x00007ffc34ca0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: [Callstack] 0x00007ffc34cbb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: [Callstack] 0x00007ffc18c34560 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.11-01.25.52:120][298]LogOutputDevice: Error: [Callstack] 0x00007ffc18c52da1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ffc18c5430f UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ffc30ec7dc0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ffc317bf666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ff726585cbd UE4Editor.exe!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ff726595b3c UE4Editor.exe!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ff726595bba UE4Editor.exe!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ff7265a3dac UE4Editor.exe!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ff7265a5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ffc82f13034 KERNEL32.DLL!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: [Callstack] 0x00007ffc84591471 ntdll.dll!UnknownFunction []
+[2018.12.11-01.25.52:121][298]LogOutputDevice: Error: 
+[2018.12.11-01.25.52:126][298]LogStats:                SubmitErrorReport -  0.000 s
